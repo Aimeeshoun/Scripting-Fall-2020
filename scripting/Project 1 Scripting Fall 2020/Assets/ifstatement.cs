@@ -10,18 +10,28 @@ public class ifstatement : MonoBehaviour
    
     void Start()
     {
-        if (canrun)
-        {
-            Debug.Log("is correct!");
-        }
-       else {
-            Debug.Log("is not correct!");
-        }
+        Debug.Log("Start!");
     }
 
 
     void Update()
     {
-        
+        if (!canrun)
+        {
+            Debug.Log("is running!");
+        }
+
+        if (password == "cat")
+        {
+            Debug.Log("is not correct!");
+        }
+        else
+        {
+            Debug.Log("is incorrectomongo!");
+        }
+        if (!canrun)
+        {
+            Debug.Log("Running)");
+        }
     }
 }

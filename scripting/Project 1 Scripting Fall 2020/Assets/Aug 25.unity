@@ -226,7 +226,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canrun: 1
-  password: 
+  password: cat
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
