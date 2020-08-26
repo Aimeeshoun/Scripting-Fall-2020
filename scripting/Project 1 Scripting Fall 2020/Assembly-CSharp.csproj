@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ifstatement.cs" />
+    <Compile Include="Assets\intdata.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Project 1 Scripting Fall 2020/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
