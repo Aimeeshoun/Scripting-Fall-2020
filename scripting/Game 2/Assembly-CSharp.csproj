@@ -56,8 +56,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\debuglog.cs" />
-    <Compile Include="Assets\ifstatements.cs" />
     <Compile Include="Assets\intdata.cs" />
+    <Compile Include="Assets\ifstatements.cs" />
+    <Compile Include="Assets\ontriggerenter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
