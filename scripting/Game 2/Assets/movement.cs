@@ -19,8 +19,10 @@ public class movement : MonoBehaviour
 
     void Update()
     {
-        { movement1.x *= -moveSpeed; }
-
+       movement1.x *= moveSpeed; 
+            if(Input.GetKeyDown(KeyCode.Y))
+            { movement1.x *= -moveSpeed;
+            }
 
         if (Input.GetButtonDown("Jump"))
         {
