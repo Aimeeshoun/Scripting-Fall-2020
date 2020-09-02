@@ -56,11 +56,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\debuglog.cs" />
+    <Compile Include="Assets\sept2jump.cs" />
     <Compile Include="Assets\movement.cs" />
     <Compile Include="Assets\intdata.cs" />
     <Compile Include="Assets\ifstatements.cs" />
     <Compile Include="Assets\ontriggerenter.cs" />
-    <Compile Include="Assets\sept2jump.cs" />
+    <Compile Include="Assets\sept2movementclass1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
