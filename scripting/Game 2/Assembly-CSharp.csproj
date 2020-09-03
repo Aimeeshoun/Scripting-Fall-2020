@@ -55,17 +55,12 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\debuglog.cs" />
-    <Compile Include="Assets\sept2jump.cs" />
-    <Compile Include="Assets\IntData1.cs" />
-    <Compile Include="Assets\movement.cs" />
-    <Compile Include="Assets\intdata.cs" />
-    <Compile Include="Assets\sept2movementclass1.cs" />
-    <Compile Include="Assets\ifstatements.cs" />
+    <Compile Include="Assets\sept3Score.cs" />
     <Compile Include="Assets\Sept3CharacterMover.cs" />
     <Compile Include="Assets\sept3addScore.cs" />
-    <Compile Include="Assets\ontriggerenter.cs" />
-    <Compile Include="Assets\sept3Score.cs" />
+    <Compile Include="Assets\Sept3Intdata.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\scripts\Sept3RotationCoin.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -42,7 +42,7 @@ public class Sept3CharacterMover : MonoBehaviour
             jumpCount = 0;
 
         }
-        if(Input.GetButtonDown("Jump")&& jumpCount < jumpCountMax)
+        if(Input.GetKeyDown(KeyCode.Space)&& jumpCount < jumpCountMax)
         {
             yVar = jumpForce;
             jumpCount++;

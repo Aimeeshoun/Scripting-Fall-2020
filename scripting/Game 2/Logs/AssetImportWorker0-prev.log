@@ -15,19 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-<<<<<<< HEAD
-59872
+60235
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 34.86 ms, found 0 plugins.
-=======
-59598
-Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
-D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 45.80 ms, found 0 plugins.
->>>>>>> master
+Refreshing native plugins compatible for Editor in 48.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -39,69 +31,40 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-<<<<<<< HEAD
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-=======
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
->>>>>>> master
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-<<<<<<< HEAD
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56356
->>>>>>> master
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56592
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-<<<<<<< HEAD
-Registered in 0.001381 seconds.
+Registered in 0.001548 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 53.07 ms, found 0 plugins.
-=======
-Registered in 0.004018 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 39.89 ms, found 0 plugins.
->>>>>>> master
+Refreshing native plugins compatible for Editor in 32.18 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  2.879 seconds
+- Completed reload, in  2.337 seconds
 Registering precompiled user dll's ...
-Registered in 0.131565 seconds.
-=======
-- Completed reload, in  2.683 seconds
-Registering precompiled user dll's ...
-Registered in 0.131509 seconds.
->>>>>>> master
+Registered in 0.111214 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Game 2\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
-=======
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
->>>>>>> master
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  1.312 seconds
-=======
-- Completed reload, in  1.615 seconds
->>>>>>> master
+- Completed reload, in  1.257 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(01df650e1b86e9f4a8e2b5dc9782506f) path("Packages/com.unity.ugui/Tests/Runtime/NestedLayout/SceneWithNestedLayoutElementsLoads.cs") state(2)
 Script is not up to date after domain reload: guid(5503f95d174761548a68a901beab13c2) path("Packages/com.unity.timeline/Editor/Window/Modes/TimelineInactiveMode.cs") state(2)
@@ -528,6 +491,7 @@ Script is not up to date after domain reload: guid(4c1821c1816c6fa44967b8ecb79ea
 Script is not up to date after domain reload: guid(fbbb1ee655846b043baf6c3502b5ce49) path("Packages/com.unity.ide.visualstudio/Editor/SolutionParser.cs") state(2)
 Script is not up to date after domain reload: guid(32a4a0ea998dd6149937d2774781c436) path("Packages/com.unity.ugui/Tests/Runtime/ScrollBar/ScrollBarClamp.cs") state(2)
 Script is not up to date after domain reload: guid(d3217d58bbd1d2b4aaee933e2e8b9195) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/PlaymodeLauncher.cs") state(2)
+Script is not up to date after domain reload: guid(17cbbac6883135e47a41d3c4c8d8e651) path("Assets/sept3Score.cs") state(2)
 Script is not up to date after domain reload: guid(7be84a49bb2cd7e4a9ed097ba22794d0) path("Packages/com.unity.ugui/Runtime/UI/Animation/CoroutineTween.cs") state(2)
 Script is not up to date after domain reload: guid(900aac3710bc14542a8d164e3f0ff820) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolListener.cs") state(2)
 Script is not up to date after domain reload: guid(961642509dec50b44a293d26240140ec) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/AndroidPlatformSetup.cs") state(2)
@@ -571,7 +535,6 @@ Script is not up to date after domain reload: guid(3e99141cd5dbef844a4338bb87930
 Script is not up to date after domain reload: guid(21364f754cf9b9b47a60742332d4af56) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Compatibility.cs") state(2)
 Script is not up to date after domain reload: guid(087cba9fa6ac867479a0b0fdc0a5864b) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackData.cs") state(2)
 Script is not up to date after domain reload: guid(34d6f60b171c1004e8335d52c65928a3) path("Packages/com.unity.timeline/Editor/Window/Modes/TimeReferenceMode.cs") state(2)
-Script is not up to date after domain reload: guid(a2217e2bdf32bfc4987d80d5e9f346b1) path("Assets/NewBehaviourScript.cs") state(2)
 Script is not up to date after domain reload: guid(b458b2c7f196bdc4581b2f9fd6a5d931) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_RichTextTagsCommon.cs") state(2)
 Script is not up to date after domain reload: guid(20cdb37e6fea6d946bbb84d2c923db85) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Utils/EditorAssemblyWrapper.cs") state(2)
 Script is not up to date after domain reload: guid(1116c8f7471936c498ab2c999c915d62) path("Packages/com.unity.collab-proxy/Editor/Presenters/ChangesPresenter.cs") state(2)
@@ -1618,6 +1581,7 @@ Script is not up to date after domain reload: guid(4c1821c1816c6fa44967b8ecb79ea
 Script is not up to date after domain reload: guid(fbbb1ee655846b043baf6c3502b5ce49) path("Packages/com.unity.ide.visualstudio/Editor/SolutionParser.cs") state(2)
 Script is not up to date after domain reload: guid(32a4a0ea998dd6149937d2774781c436) path("Packages/com.unity.ugui/Tests/Runtime/ScrollBar/ScrollBarClamp.cs") state(2)
 Script is not up to date after domain reload: guid(d3217d58bbd1d2b4aaee933e2e8b9195) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/PlaymodeLauncher.cs") state(2)
+Script is not up to date after domain reload: guid(17cbbac6883135e47a41d3c4c8d8e651) path("Assets/sept3Score.cs") state(2)
 Script is not up to date after domain reload: guid(7be84a49bb2cd7e4a9ed097ba22794d0) path("Packages/com.unity.ugui/Runtime/UI/Animation/CoroutineTween.cs") state(2)
 Script is not up to date after domain reload: guid(900aac3710bc14542a8d164e3f0ff820) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolListener.cs") state(2)
 Script is not up to date after domain reload: guid(961642509dec50b44a293d26240140ec) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/AndroidPlatformSetup.cs") state(2)
@@ -1661,7 +1625,6 @@ Script is not up to date after domain reload: guid(3e99141cd5dbef844a4338bb87930
 Script is not up to date after domain reload: guid(21364f754cf9b9b47a60742332d4af56) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Compatibility.cs") state(2)
 Script is not up to date after domain reload: guid(087cba9fa6ac867479a0b0fdc0a5864b) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackData.cs") state(2)
 Script is not up to date after domain reload: guid(34d6f60b171c1004e8335d52c65928a3) path("Packages/com.unity.timeline/Editor/Window/Modes/TimeReferenceMode.cs") state(2)
-Script is not up to date after domain reload: guid(a2217e2bdf32bfc4987d80d5e9f346b1) path("Assets/NewBehaviourScript.cs") state(2)
 Script is not up to date after domain reload: guid(b458b2c7f196bdc4581b2f9fd6a5d931) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_RichTextTagsCommon.cs") state(2)
 Script is not up to date after domain reload: guid(20cdb37e6fea6d946bbb84d2c923db85) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Utils/EditorAssemblyWrapper.cs") state(2)
 Script is not up to date after domain reload: guid(1116c8f7471936c498ab2c999c915d62) path("Packages/com.unity.collab-proxy/Editor/Presenters/ChangesPresenter.cs") state(2)
@@ -2281,79 +2244,206 @@ Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513e
 Script is not up to date after domain reload: guid(bea62e1faac8f9a48a4cb919ea05cb6a) path("Packages/com.unity.timeline/Editor/treeview/Drawers/Layers/MarkersLayer.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(02893ffb522b490a9fa28eedd2584309) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_TextContainerEditor.cs") state(2)
-<<<<<<< HEAD
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 7844, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
-=======
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 26324, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
-Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
->>>>>>> master
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 26244, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 27.6 MB.
-System memory in use after: 27.5 MB.
+System memory in use after: 27.6 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 469.
-<<<<<<< HEAD
-Total: 3.026000 ms (FindLiveObjects: 0.218300 ms CreateObjectMapping: 0.028600 ms MarkObjects: 2.619700 ms  DeleteObjects: 0.156100 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 4.939900 ms (FindLiveObjects: 0.381600 ms CreateObjectMapping: 0.027300 ms MarkObjects: 4.319900 ms  DeleteObjects: 0.207300 ms)
 
 ========================================================================
 Received Import Request.
+  path: Assets/sept 1 movement2.unity
+  artifactKey: Guid(f3ec0974d29ccf04385f3a46778de3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sept 1 movement2.unity using Guid(f3ec0974d29ccf04385f3a46778de3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aacd8b00d4bc429454e1a3d3b4f0d95') in 0.020410 seconds
+  Import took 0.023637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001319 seconds.
+  path: Assets/sept 3 CharacterMover.unity
+  artifactKey: Guid(665da2e82a3cd62498349b181d279dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sept 3 CharacterMover.unity using Guid(665da2e82a3cd62498349b181d279dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4528af4d9a7bbd07563ce72ffce487') in 0.005026 seconds
+  Import took 0.008003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000736 seconds.
+  path: Assets/sept 3 intdata_addscore.unity
+  artifactKey: Guid(c792236c48866f841a8cd8f5533b92d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sept 3 intdata_addscore.unity using Guid(c792236c48866f841a8cd8f5533b92d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209a9dc309e9c22f179eccdf35afe29f') in 0.054869 seconds
+  Import took 0.058804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000944 seconds.
+  path: Assets/sept2class2.unity
+  artifactKey: Guid(a1c72822bf627a348afd9ac25d9e5273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sept2class2.unity using Guid(a1c72822bf627a348afd9ac25d9e5273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c115163bd7807546d9ae397cdb0fcc38') in 0.003800 seconds
+  Import took 0.006133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 228.466410 seconds.
+  path: Assets/debuglog.cs
+  artifactKey: Guid(603e7cacbbd3f4e4ba8915a56b183e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/debuglog.cs using Guid(603e7cacbbd3f4e4ba8915a56b183e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea37ef73ed584fd0de177742f3ddf5dd') in 0.129899 seconds
+  Import took 0.132797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.117336 seconds.
+  path: Assets/sep1jump.unity
+  artifactKey: Guid(b26555b1a132ad54d92e2404cef11df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sep1jump.unity using Guid(b26555b1a132ad54d92e2404cef11df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41c66871d26691e0877b533a8e4c4bb') in 0.010448 seconds
+  Import took 0.012641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007748 seconds.
+  path: Assets/sep1jump.unity
+  artifactKey: Guid(b26555b1a132ad54d92e2404cef11df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sep1jump.unity using Guid(b26555b1a132ad54d92e2404cef11df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41c66871d26691e0877b533a8e4c4bb') in 0.005021 seconds
+  Import took 0.007134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.005963 seconds.
+  path: Assets/sept3Score.cs
+  artifactKey: Guid(17cbbac6883135e47a41d3c4c8d8e651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sept3Score.cs using Guid(17cbbac6883135e47a41d3c4c8d8e651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3779fccb3471b6f5a0f88e5fe0000110') in 0.030823 seconds
+  Import took 0.033756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 361.057052 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ca0a6b0bea104cbc8f478c851a6479') in 0.034667 seconds
+  Import took 0.038218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001261 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ca0a6b0bea104cbc8f478c851a6479') in 0.005850 seconds
+  Import took 0.008332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.282192 seconds.
+  path: Assets/materials
+  artifactKey: Guid(75ce4377513ac87418259ed6f85033a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials using Guid(75ce4377513ac87418259ed6f85033a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7af9e8a85d5747748327691b6be3466') in 0.002685 seconds
+  Import took 0.003550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 477.944390 seconds.
+  path: Assets/sept3Score.cs
+  artifactKey: Guid(17cbbac6883135e47a41d3c4c8d8e651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sept3Score.cs using Guid(17cbbac6883135e47a41d3c4c8d8e651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f18434cd2016e3faa9ddc00bbb012019') in 0.005208 seconds
+  Import took 0.007099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.772795 seconds.
+  path: Assets/Intdata.cs
+  artifactKey: Guid(6cdd14a9fb727ea46b3691b40a0fc9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Intdata.cs using Guid(6cdd14a9fb727ea46b3691b40a0fc9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2b2fc6baf55a15fd9da3da4f5ff4e4') in 0.008810 seconds
+  Import took 0.019007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005998 seconds.
+  path: Assets/Intdata.cs
+  artifactKey: Guid(6cdd14a9fb727ea46b3691b40a0fc9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Intdata.cs using Guid(6cdd14a9fb727ea46b3691b40a0fc9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2b2fc6baf55a15fd9da3da4f5ff4e4') in 0.007234 seconds
+  Import took 0.013292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.449639 seconds.
+  path: Assets/Sept3Intdata.cs
+  artifactKey: Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sept3Intdata.cs using Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8578307daedb7a6c71893a30ee89d240') in 0.013296 seconds
+  Import took 0.016094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002444 seconds.
+  path: Assets/Sept3Intdata.cs
+  artifactKey: Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sept3Intdata.cs using Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8578307daedb7a6c71893a30ee89d240') in 0.006932 seconds
+  Import took 0.008869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.942179 seconds.
+  path: Assets/Sept3Intdata.cs
+  artifactKey: Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sept3Intdata.cs using Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06fed9a36d8ca29adbd9d4619c5996b') in 0.007133 seconds
+  Import took 0.010349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.931553 seconds.
+  path: Assets/sept3Score.cs
+  artifactKey: Guid(17cbbac6883135e47a41d3c4c8d8e651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sept3Score.cs using Guid(17cbbac6883135e47a41d3c4c8d8e651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b344b8cfc67e271bba0092f005e13d25') in 0.033959 seconds
+  Import took 0.036439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.821388 seconds.
+  path: Assets/movement.cs
+  artifactKey: Guid(8c0796bf16f18d1499312159921e5048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/movement.cs using Guid(8c0796bf16f18d1499312159921e5048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2d1e10d57e4006de829d329066da5b') in 0.068129 seconds
+  Import took 0.070334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.998467 seconds.
   path: Assets/Sept3CharacterMover.cs
   artifactKey: Guid(462b017d12a25a444bddc5b7117cfe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sept3CharacterMover.cs using Guid(462b017d12a25a444bddc5b7117cfe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb935c19bd5132f5248a78d3639a54c') in 0.088097 seconds
-  Import took 0.090081 seconds .
-=======
-Total: 3.309700 ms (FindLiveObjects: 0.990100 ms CreateObjectMapping: 0.022600 ms MarkObjects: 2.224600 ms  DeleteObjects: 0.068900 ms)
+Start importing Assets/Sept3CharacterMover.cs using Guid(462b017d12a25a444bddc5b7117cfe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49cc03ad2d441b3d7a2827a20725a46e') in 0.046383 seconds
+  Import took 0.048489 seconds .
 
 ========================================================================
 Received Import Request.
-  path: Assets/addScore.cs
-  artifactKey: Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/addScore.cs using Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c79ca631d4cfd77ac2b06d545785db') in 0.215916 seconds
-  Import took 0.220277 seconds .
+  Time since last request: 98.429126 seconds.
+  path: Assets/Sept3Intdata.cs
+  artifactKey: Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sept3Intdata.cs using Guid(a793edcfbad06984785826bbab16dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a85b0d2a7e63b6f3054373a5bb98013') in 0.002283 seconds
+  Import took 0.003433 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 541.526800 seconds.
-  path: Assets/addScore.cs
-  artifactKey: Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/addScore.cs using Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b04805228ed2366f2900bcc1dd1d7e8') in 0.011422 seconds
-  Import took 0.026486 seconds .
+  Time since last request: 5.169567 seconds.
+  path: Assets/aug28ifstatment.unity
+  artifactKey: Guid(4ff3bb27903eb9345ae950b27ea09d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug28ifstatment.unity using Guid(4ff3bb27903eb9345ae950b27ea09d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd772caf2dda271eee263cf3e252731fb') in 0.018160 seconds
+  Import took 0.021368 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.315422 seconds.
-  path: Assets/addScore.cs
-  artifactKey: Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/addScore.cs using Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b04805228ed2366f2900bcc1dd1d7e8') in 0.010966 seconds
-  Import took 0.012743 seconds .
+  Time since last request: 0.004008 seconds.
+  path: Assets/aug28ifstatment.unity
+  artifactKey: Guid(4ff3bb27903eb9345ae950b27ea09d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug28ifstatment.unity using Guid(4ff3bb27903eb9345ae950b27ea09d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd772caf2dda271eee263cf3e252731fb') in 0.010842 seconds
+  Import took 0.014675 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.695622 seconds.
-  path: Assets/addScore.cs
-  artifactKey: Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/addScore.cs using Guid(eb631617df541134e9217dab867c630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8621944c11a722a04f1340dd66afea52') in 0.004092 seconds
-  Import took 0.006405 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 249.581895 seconds.
-  path: Assets/IntData1.cs
-  artifactKey: Guid(cd3528ffb84474845a667d7fa77d0542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/IntData1.cs using Guid(cd3528ffb84474845a667d7fa77d0542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61dd390880b2e262537c8bbf3b4bc026') in 0.010327 seconds
-  Import took 0.012211 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 242.685389 seconds.
-  path: Assets/sept3addScore.cs
-  artifactKey: Guid(1f951e62e9e7c1943b619e9291dd93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sept3addScore.cs using Guid(1f951e62e9e7c1943b619e9291dd93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d68a65a8da57d94e2e97e5ed10321ef') in 0.007775 seconds
-  Import took 0.056955 seconds .
->>>>>>> master
+  Time since last request: 37.059886 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(4fadbf6edd90f4744b50f8790aa6b059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(4fadbf6edd90f4744b50f8790aa6b059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb13487b9de2170de3e6d2b31fd872ee') in 0.009290 seconds
+  Import took 0.012527 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

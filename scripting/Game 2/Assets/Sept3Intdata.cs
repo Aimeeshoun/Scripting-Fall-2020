@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
-public class IntData1 : ScriptableObject
+public class Sept3Intdata : ScriptableObject
 {
     public int value;
 }
