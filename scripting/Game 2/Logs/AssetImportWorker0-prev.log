@@ -16,17 +16,17 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
+59872
+Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
+D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.86 ms, found 0 plugins.
+=======
 59598
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 45.80 ms, found 0 plugins.
-=======
-64209
-Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
-D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 27.26 ms, found 0 plugins.
 >>>>>>> master
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
@@ -40,33 +40,33 @@ Direct3D:
     VRAM:     8079 MB
     Driver:   26.21.14.4614
 <<<<<<< HEAD
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
 =======
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
 >>>>>>> master
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56356
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
 =======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56356
 >>>>>>> master
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 <<<<<<< HEAD
+Registered in 0.001381 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.07 ms, found 0 plugins.
+=======
 Registered in 0.004018 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 39.89 ms, found 0 plugins.
-=======
-Registered in 0.001366 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 26.33 ms, found 0 plugins.
 >>>>>>> master
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
@@ -74,29 +74,33 @@ RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
+- Completed reload, in  2.879 seconds
+Registering precompiled user dll's ...
+Registered in 0.131565 seconds.
+=======
 - Completed reload, in  2.683 seconds
 Registering precompiled user dll's ...
 Registered in 0.131509 seconds.
-=======
-- Completed reload, in  1.513 seconds
-Registering precompiled user dll's ...
-Registered in 0.071634 seconds.
 >>>>>>> master
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Game 2\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+<<<<<<< HEAD
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+=======
 Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+>>>>>>> master
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
-- Completed reload, in  1.615 seconds
+- Completed reload, in  1.312 seconds
 =======
-- Completed reload, in  0.953 seconds
+- Completed reload, in  1.615 seconds
 >>>>>>> master
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(01df650e1b86e9f4a8e2b5dc9782506f) path("Packages/com.unity.ugui/Tests/Runtime/NestedLayout/SceneWithNestedLayoutElementsLoads.cs") state(2)
@@ -284,6 +288,7 @@ Script is not up to date after domain reload: guid(fc34cd6ea308f3940a729e1a44cd0
 Script is not up to date after domain reload: guid(dfd084fea478f3148b7de3d83bab1d8c) path("Packages/com.unity.timeline/Editor/Manipulators/EditMode.cs") state(2)
 Script is not up to date after domain reload: guid(26721f9940339264fb14bdbfe1290e21) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/RestoreTestContextAfterDomainReload.cs") state(2)
 Script is not up to date after domain reload: guid(3664a2ade19bb7848a4d2c96ac9148e3) path("Packages/com.unity.timeline/Editor/treeview/Snapping/ISnappable.cs") state(2)
+Script is not up to date after domain reload: guid(cd3528ffb84474845a667d7fa77d0542) path("Assets/IntData1.cs") state(2)
 Script is not up to date after domain reload: guid(07b8b72b8f62e694ca3d8a35b7ca065d) path("Packages/com.unity.collab-proxy/Editor/Models/HistoryModel.cs") state(2)
 Script is not up to date after domain reload: guid(6e7c80eefe2def5459e0b486b3ab96e2) path("Packages/com.unity.timeline/Editor/Manipulators/Sequence/TrackZoom.cs") state(2)
 Script is not up to date after domain reload: guid(e9253e696cd45794d9aec6d4de366b6e) path("Packages/com.unity.ugui/Editor/UI/SelectableEditor.cs") state(2)
@@ -603,10 +608,11 @@ Script is not up to date after domain reload: guid(5359645287a8484499e79d0fca4b4
 Script is not up to date after domain reload: guid(a7842a837a4b13e41ae16193db753418) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/ITestRunnerApi.cs") state(2)
 Script is not up to date after domain reload: guid(f73fc901e4b0f2d4daf11f46506054ba) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackInitializer.cs") state(2)
 Script is not up to date after domain reload: guid(51a7878f6c989394782db73339e90e46) path("Packages/com.unity.timeline/Editor/Signals/SignalEmitterEditor.cs") state(2)
-Script is not up to date after domain reload: guid(66b2b8fd1d9b4bc4c96b07335ad822f3) path("Packages/com.unity.timeline/Runtime/Utilities/IPropertyCollector.cs") state(2)
+Script is not up to date after domain reload: guid(462b017d12a25a444bddc5b7117cfe23) path("Assets/Sept3CharacterMover.cs") state(2)
 Script is not up to date after domain reload: guid(8a13cbeb2099aca47bb456f49845f86c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/CommandLineTest/ISettingsBuilder.cs") state(2)
 Script is not up to date after domain reload: guid(c26636c25de34fd1b5d32fd8fdb9b47d) path("Packages/com.unity.collab-proxy/Tests/Editor/Presenters/TestStartView.cs") state(2)
 Script is not up to date after domain reload: guid(5af3322745e78aa488fca5a2090f8755) path("Packages/com.unity.ugui/Tests/Runtime/Layout/HorizonalLayoutGroupTests.cs") state(2)
+Script is not up to date after domain reload: guid(66b2b8fd1d9b4bc4c96b07335ad822f3) path("Packages/com.unity.timeline/Runtime/Utilities/IPropertyCollector.cs") state(2)
 Script is not up to date after domain reload: guid(cf1fe50a641faac4691bf49eb32ce333) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_PackageResourceImporter.cs") state(2)
 Script is not up to date after domain reload: guid(167329c8289a3a14a9e342df49fc4104) path("Packages/com.unity.timeline/Editor/State/ISequenceState.cs") state(2)
 Script is not up to date after domain reload: guid(5ddd9f7d3cce6724696a33752ab2f5a4) path("Packages/com.unity.timeline/Editor/Manipulators/Trim/TrimItemModeMix.cs") state(2)
@@ -714,6 +720,7 @@ Script is not up to date after domain reload: guid(b10cb8fee5b39014d8a417bf413f5
 Script is not up to date after domain reload: guid(3069a00b8c364df395994d7d379e0a99) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_UGUI_Private.cs") state(2)
 Script is not up to date after domain reload: guid(f6bd368ab00d75c459e2582e017191e6) path("Packages/com.unity.timeline/Editor/Manipulators/Move/MoveItemHandler.cs") state(2)
 Script is not up to date after domain reload: guid(2c87ec8c97244cd47945ec90a99abe35) path("Packages/com.unity.timeline/Editor/Items/ITimelineItem.cs") state(2)
+Script is not up to date after domain reload: guid(1f951e62e9e7c1943b619e9291dd93ed) path("Assets/sept3addScore.cs") state(2)
 Script is not up to date after domain reload: guid(b9ba34e0b1884454fbc4257260e22b64) path("Packages/com.unity.ugui/Runtime/UI/Core/SetPropertyUtility.cs") state(2)
 Script is not up to date after domain reload: guid(6797ef5b31abfd44993cf9870584620e) path("Packages/com.unity.collab-proxy/Editor/Views/Adapters/IAdapterObserver.cs") state(2)
 Script is not up to date after domain reload: guid(d208a1684f8aa6a40ad91d6aa9600c14) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestSettings/ITestSettingsDeserializer.cs") state(2)
@@ -1371,6 +1378,7 @@ Script is not up to date after domain reload: guid(fc34cd6ea308f3940a729e1a44cd0
 Script is not up to date after domain reload: guid(dfd084fea478f3148b7de3d83bab1d8c) path("Packages/com.unity.timeline/Editor/Manipulators/EditMode.cs") state(2)
 Script is not up to date after domain reload: guid(26721f9940339264fb14bdbfe1290e21) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/RestoreTestContextAfterDomainReload.cs") state(2)
 Script is not up to date after domain reload: guid(3664a2ade19bb7848a4d2c96ac9148e3) path("Packages/com.unity.timeline/Editor/treeview/Snapping/ISnappable.cs") state(2)
+Script is not up to date after domain reload: guid(cd3528ffb84474845a667d7fa77d0542) path("Assets/IntData1.cs") state(2)
 Script is not up to date after domain reload: guid(07b8b72b8f62e694ca3d8a35b7ca065d) path("Packages/com.unity.collab-proxy/Editor/Models/HistoryModel.cs") state(2)
 Script is not up to date after domain reload: guid(6e7c80eefe2def5459e0b486b3ab96e2) path("Packages/com.unity.timeline/Editor/Manipulators/Sequence/TrackZoom.cs") state(2)
 Script is not up to date after domain reload: guid(e9253e696cd45794d9aec6d4de366b6e) path("Packages/com.unity.ugui/Editor/UI/SelectableEditor.cs") state(2)
@@ -1690,10 +1698,11 @@ Script is not up to date after domain reload: guid(5359645287a8484499e79d0fca4b4
 Script is not up to date after domain reload: guid(a7842a837a4b13e41ae16193db753418) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/ITestRunnerApi.cs") state(2)
 Script is not up to date after domain reload: guid(f73fc901e4b0f2d4daf11f46506054ba) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackInitializer.cs") state(2)
 Script is not up to date after domain reload: guid(51a7878f6c989394782db73339e90e46) path("Packages/com.unity.timeline/Editor/Signals/SignalEmitterEditor.cs") state(2)
-Script is not up to date after domain reload: guid(66b2b8fd1d9b4bc4c96b07335ad822f3) path("Packages/com.unity.timeline/Runtime/Utilities/IPropertyCollector.cs") state(2)
+Script is not up to date after domain reload: guid(462b017d12a25a444bddc5b7117cfe23) path("Assets/Sept3CharacterMover.cs") state(2)
 Script is not up to date after domain reload: guid(8a13cbeb2099aca47bb456f49845f86c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/CommandLineTest/ISettingsBuilder.cs") state(2)
 Script is not up to date after domain reload: guid(c26636c25de34fd1b5d32fd8fdb9b47d) path("Packages/com.unity.collab-proxy/Tests/Editor/Presenters/TestStartView.cs") state(2)
 Script is not up to date after domain reload: guid(5af3322745e78aa488fca5a2090f8755) path("Packages/com.unity.ugui/Tests/Runtime/Layout/HorizonalLayoutGroupTests.cs") state(2)
+Script is not up to date after domain reload: guid(66b2b8fd1d9b4bc4c96b07335ad822f3) path("Packages/com.unity.timeline/Runtime/Utilities/IPropertyCollector.cs") state(2)
 Script is not up to date after domain reload: guid(cf1fe50a641faac4691bf49eb32ce333) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_PackageResourceImporter.cs") state(2)
 Script is not up to date after domain reload: guid(167329c8289a3a14a9e342df49fc4104) path("Packages/com.unity.timeline/Editor/State/ISequenceState.cs") state(2)
 Script is not up to date after domain reload: guid(5ddd9f7d3cce6724696a33752ab2f5a4) path("Packages/com.unity.timeline/Editor/Manipulators/Trim/TrimItemModeMix.cs") state(2)
@@ -1801,6 +1810,7 @@ Script is not up to date after domain reload: guid(b10cb8fee5b39014d8a417bf413f5
 Script is not up to date after domain reload: guid(3069a00b8c364df395994d7d379e0a99) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_UGUI_Private.cs") state(2)
 Script is not up to date after domain reload: guid(f6bd368ab00d75c459e2582e017191e6) path("Packages/com.unity.timeline/Editor/Manipulators/Move/MoveItemHandler.cs") state(2)
 Script is not up to date after domain reload: guid(2c87ec8c97244cd47945ec90a99abe35) path("Packages/com.unity.timeline/Editor/Items/ITimelineItem.cs") state(2)
+Script is not up to date after domain reload: guid(1f951e62e9e7c1943b619e9291dd93ed) path("Assets/sept3addScore.cs") state(2)
 Script is not up to date after domain reload: guid(b9ba34e0b1884454fbc4257260e22b64) path("Packages/com.unity.ugui/Runtime/UI/Core/SetPropertyUtility.cs") state(2)
 Script is not up to date after domain reload: guid(6797ef5b31abfd44993cf9870584620e) path("Packages/com.unity.collab-proxy/Editor/Views/Adapters/IAdapterObserver.cs") state(2)
 Script is not up to date after domain reload: guid(d208a1684f8aa6a40ad91d6aa9600c14) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestSettings/ITestSettingsDeserializer.cs") state(2)
@@ -2272,15 +2282,30 @@ Script is not up to date after domain reload: guid(bea62e1faac8f9a48a4cb919ea05c
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(02893ffb522b490a9fa28eedd2584309) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_TextContainerEditor.cs") state(2)
 <<<<<<< HEAD
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 7844, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+=======
 Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 26324, restarting
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
 Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+>>>>>>> master
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 27.6 MB.
 System memory in use after: 27.5 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 469.
+<<<<<<< HEAD
+Total: 3.026000 ms (FindLiveObjects: 0.218300 ms CreateObjectMapping: 0.028600 ms MarkObjects: 2.619700 ms  DeleteObjects: 0.156100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sept3CharacterMover.cs
+  artifactKey: Guid(462b017d12a25a444bddc5b7117cfe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sept3CharacterMover.cs using Guid(462b017d12a25a444bddc5b7117cfe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb935c19bd5132f5248a78d3639a54c') in 0.088097 seconds
+  Import took 0.090081 seconds .
+=======
 Total: 3.309700 ms (FindLiveObjects: 0.990100 ms CreateObjectMapping: 0.022600 ms MarkObjects: 2.224600 ms  DeleteObjects: 0.068900 ms)
 
 ========================================================================
@@ -2329,24 +2354,6 @@ Received Import Request.
   artifactKey: Guid(1f951e62e9e7c1943b619e9291dd93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/sept3addScore.cs using Guid(1f951e62e9e7c1943b619e9291dd93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d68a65a8da57d94e2e97e5ed10321ef') in 0.007775 seconds
   Import took 0.056955 seconds .
-=======
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 24212, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 27.5 MB.
-System memory in use after: 27.4 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 469.
-Total: 2.568300 ms (FindLiveObjects: 0.361400 ms CreateObjectMapping: 0.008800 ms MarkObjects: 2.067300 ms  DeleteObjects: 0.129600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/sept2movementclass1.cs
-  artifactKey: Guid(f5d284444a33003469071f61347ee763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sept2movementclass1.cs using Guid(f5d284444a33003469071f61347ee763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bfa9cf3c70c232ade1550363c80f03') in 0.077189 seconds
-  Import took 0.079317 seconds .
 >>>>>>> master
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
