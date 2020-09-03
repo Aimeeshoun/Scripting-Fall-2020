@@ -15,11 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50966
+51399
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 23.00 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 21.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -31,40 +31,39 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001295 seconds.
+Registered in 0.001209 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 18.98 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 19.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.214 seconds
+- Completed reload, in  1.189 seconds
 Registering precompiled user dll's ...
-Registered in 0.054324 seconds.
+Registered in 0.055716 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Game 2\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.698 seconds
+- Completed reload, in  0.708 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(01df650e1b86e9f4a8e2b5dc9782506f) path("Packages/com.unity.ugui/Tests/Runtime/NestedLayout/SceneWithNestedLayoutElementsLoads.cs") state(2)
 Script is not up to date after domain reload: guid(5503f95d174761548a68a901beab13c2) path("Packages/com.unity.timeline/Editor/Window/Modes/TimelineInactiveMode.cs") state(2)
@@ -1034,6 +1033,7 @@ Script is not up to date after domain reload: guid(5c3b27069cb3ddf42ba1260eeefcd
 Script is not up to date after domain reload: guid(ae8ce3ffe04ac2c42945fd27e0291fc3) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AttributeHelper.cs") state(2)
 Script is not up to date after domain reload: guid(d0ca7b2e84542bf4ab9987087e8d79ad) path("Packages/com.unity.timeline/Runtime/Utilities/HashUtility.cs") state(2)
 Script is not up to date after domain reload: guid(382a4f9ad2723e14cad85369d33f3ce8) path("Packages/com.unity.collab-proxy/Editor/Components/TopBar.cs") state(2)
+Script is not up to date after domain reload: guid(5bc8098dd666eba45a53e945b05d2434) path("Assets/scripts/Sept3RotationCoin.cs") state(2)
 Script is not up to date after domain reload: guid(bede4033d9f359b41878c4cda6a910b3) path("Packages/com.unity.ugui/Tests/Editor/Canvas/AssertionFailureOnOutputVertexCount.cs") state(2)
 Script is not up to date after domain reload: guid(f96d0ea807c081145a1170ed1b6d71e0) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Utils/EditorAssembliesProxy.cs") state(2)
 Script is not up to date after domain reload: guid(19a6f000f81e24c4a826c1abd43e77c7) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestMethodCommand.cs") state(2)
@@ -2118,6 +2118,7 @@ Script is not up to date after domain reload: guid(5c3b27069cb3ddf42ba1260eeefcd
 Script is not up to date after domain reload: guid(ae8ce3ffe04ac2c42945fd27e0291fc3) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AttributeHelper.cs") state(2)
 Script is not up to date after domain reload: guid(d0ca7b2e84542bf4ab9987087e8d79ad) path("Packages/com.unity.timeline/Runtime/Utilities/HashUtility.cs") state(2)
 Script is not up to date after domain reload: guid(382a4f9ad2723e14cad85369d33f3ce8) path("Packages/com.unity.collab-proxy/Editor/Components/TopBar.cs") state(2)
+Script is not up to date after domain reload: guid(5bc8098dd666eba45a53e945b05d2434) path("Assets/scripts/Sept3RotationCoin.cs") state(2)
 Script is not up to date after domain reload: guid(bede4033d9f359b41878c4cda6a910b3) path("Packages/com.unity.ugui/Tests/Editor/Canvas/AssertionFailureOnOutputVertexCount.cs") state(2)
 Script is not up to date after domain reload: guid(f96d0ea807c081145a1170ed1b6d71e0) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Utils/EditorAssembliesProxy.cs") state(2)
 Script is not up to date after domain reload: guid(19a6f000f81e24c4a826c1abd43e77c7) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestMethodCommand.cs") state(2)
@@ -2232,102 +2233,38 @@ Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513e
 Script is not up to date after domain reload: guid(bea62e1faac8f9a48a4cb919ea05cb6a) path("Packages/com.unity.timeline/Editor/treeview/Drawers/Layers/MarkersLayer.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(02893ffb522b490a9fa28eedd2584309) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_TextContainerEditor.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 18948, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 15856, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 27.7 MB.
-System memory in use after: 27.6 MB.
+System memory in use before: 28.2 MB.
+System memory in use after: 28.1 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 470.
-Total: 2.344500 ms (FindLiveObjects: 0.236900 ms CreateObjectMapping: 0.026500 ms MarkObjects: 1.970600 ms  DeleteObjects: 0.109200 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/example scripts
-  artifactKey: Guid(e64650d1d3d5d284597146cbf93c8e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/example scripts using Guid(e64650d1d3d5d284597146cbf93c8e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d48d80bdd692d04805e246a7bd6ddb') in 0.019258 seconds
-  Import took 0.019985 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 2.134100 ms (FindLiveObjects: 0.169000 ms CreateObjectMapping: 0.006100 ms MarkObjects: 1.852500 ms  DeleteObjects: 0.105800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1272.952437 seconds.
-  path: Assets/example scripts/NewBehaviourScript.cs
-  artifactKey: Guid(6fbe3a7c6cbb14e4ea3b5a4bf4368632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/example scripts/NewBehaviourScript.cs using Guid(6fbe3a7c6cbb14e4ea3b5a4bf4368632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948ba9810862164c490340bc0d3534ed') in 0.072130 seconds
-  Import took 0.073129 seconds .
+  path: Assets/aug29thindata.unity
+  artifactKey: Guid(100b35549dd491243a57074d3ea74011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug29thindata.unity using Guid(100b35549dd491243a57074d3ea74011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a77096a41bd8ef97289dac59a9c2ba5') in 0.010342 seconds
+  Import took 0.011148 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.392254 seconds.
-  path: Assets/scripts
-  artifactKey: Guid(48005b3097e557e4a98ac9920024440e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts using Guid(48005b3097e557e4a98ac9920024440e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78248b5a7eb67bceeba179c3a800f53') in 0.002322 seconds
-  Import took 0.003487 seconds .
+  Time since last request: 17.378344 seconds.
+  path: Assets/aug27.unity
+  artifactKey: Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug27.unity using Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5b6958dc60169ee2775f1a73a41a02') in 0.003112 seconds
+  Import took 0.004424 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.973133 seconds.
-  path: Assets/scripts/Sept3Rotate.cs
-  artifactKey: Guid(f0939e1e3a8bc314d8238d6dfb2e9806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3Rotate.cs using Guid(f0939e1e3a8bc314d8238d6dfb2e9806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc6f2b5c058e8a035baf45bf2dc0550') in 0.014602 seconds
-  Import took 0.016179 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 51.335619 seconds.
-  path: Assets/scripts/Sept3RotationCoin.cs
-  artifactKey: Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3RotationCoin.cs using Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29754db3cb3d0f5193664ef1070c7c67') in 0.014075 seconds
-  Import took 0.015491 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 165.054032 seconds.
-  path: Assets/scripts/Sept3RotationCoin.cs
-  artifactKey: Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3RotationCoin.cs using Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8edb07309ba3b3a916f72fda8d34e353') in 0.037558 seconds
-  Import took 0.038858 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 186.648917 seconds.
-  path: Assets/scripts/Sept3RotationCoin.cs
-  artifactKey: Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3RotationCoin.cs using Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953885ec20c57e70772aed775816618d') in 0.002406 seconds
-  Import took 0.003467 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001850 seconds.
-  path: Assets/scripts/Sept3RotationCoin.cs
-  artifactKey: Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3RotationCoin.cs using Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953885ec20c57e70772aed775816618d') in 0.002197 seconds
-  Import took 0.003129 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.530799 seconds.
-  path: Assets/scripts/Sept3RotationCoin.cs
-  artifactKey: Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3RotationCoin.cs using Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1927b6329b9ed1b976099c9f7b27a772') in 0.006842 seconds
-  Import took 0.010319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.422562 seconds.
-  path: Assets/scripts/Sept3RotationCoin.cs
-  artifactKey: Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3RotationCoin.cs using Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44ce6a1bdd521cd40ab875eb732b3f2') in 0.002767 seconds
-  Import took 0.004102 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.424137 seconds.
-  path: Assets/scripts/Sept3RotationCoin.cs
-  artifactKey: Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scripts/Sept3RotationCoin.cs using Guid(5bc8098dd666eba45a53e945b05d2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791196b0a6548847c3e561a58b3b28b1') in 0.002757 seconds
-  Import took 0.003877 seconds .
+  Time since last request: 0.002794 seconds.
+  path: Assets/aug27.unity
+  artifactKey: Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug27.unity using Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5b6958dc60169ee2775f1a73a41a02') in 0.002993 seconds
+  Import took 0.004972 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
