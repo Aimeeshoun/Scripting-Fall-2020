@@ -64,7 +64,12 @@
     <Compile Include="Assets\ifstatements.cs" />
     <Compile Include="Assets\sept3addScore.cs" />
     <Compile Include="Assets\ontriggerenter.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Sept3CharacterMover.cs" />
+=======
+    <Compile Include="Assets\IntData1.cs" />
+    <Compile Include="Assets\sept3addScore.cs" />
+>>>>>>> master
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
