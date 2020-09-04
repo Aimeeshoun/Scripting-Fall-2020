@@ -55,10 +55,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\script experiments\PickUpDestroy.cs" />
     <Compile Include="Assets\script experiments\CoinRotation.cs" />
-    <Compile Include="Assets\MovementPlayer.cs" />
-    <Compile Include="Assets\CameraOffset.cs" />
-    <Compile Include="Assets\PickUpDestroy.cs" />
+    <Compile Include="Assets\sept 3 scripts\MovementPlayer.cs" />
+    <Compile Include="Assets\script experiments\CameraOffset.cs" />
+    <Compile Include="Assets\sept 3 scripts\AddScore.cs" />
+    <Compile Include="Assets\sept 3 scripts\Intdata.cs" />
+    <Compile Include="Assets\sept 3 scripts\Score.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
