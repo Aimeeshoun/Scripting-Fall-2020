@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Assets\script experiments\CoinRotation.cs" />
     <Compile Include="Assets\MovementPlayer.cs" />
+    <Compile Include="Assets\CameraOffset.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
