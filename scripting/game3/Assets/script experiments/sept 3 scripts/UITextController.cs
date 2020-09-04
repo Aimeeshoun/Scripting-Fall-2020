@@ -5,13 +5,14 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Text))]
 public class UITextController : MonoBehaviour
 {
-    private Text textLabel;
+    private Text myText;
+
     void Awake()
     {
-        textLabel = GetComponent<Text>();
+        myText = GetComponent<Text>();
     }
     public void UpdateText(IntData data)
     {
-        textLabel.text = data.value.ToString();
+        myText.text = data.value.ToString();
     }
 }
