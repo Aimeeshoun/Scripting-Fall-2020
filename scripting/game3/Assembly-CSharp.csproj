@@ -56,12 +56,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\script experiments\PickUpDestroy.cs" />
+    <Compile Include="Assets\sept 3 scripts\Score.cs" />
     <Compile Include="Assets\script experiments\CoinRotation.cs" />
     <Compile Include="Assets\sept 3 scripts\MovementPlayer.cs" />
     <Compile Include="Assets\script experiments\CameraOffset.cs" />
     <Compile Include="Assets\sept 3 scripts\AddScore.cs" />
-    <Compile Include="Assets\sept 3 scripts\Intdata.cs" />
-    <Compile Include="Assets\sept 3 scripts\Score.cs" />
+    <Compile Include="Assets\script experiments\OntriggerEvent.cs" />
+    <Compile Include="Assets\sept 3 scripts\UITextController.cs" />
+    <Compile Include="Assets\script experiments\Monoevent.cs" />
+    <Compile Include="Assets\IntData.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
