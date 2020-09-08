@@ -58,7 +58,6 @@
     <Compile Include="Assets\script experiments\Monoevent.cs" />
     <Compile Include="Assets\script experiments\PickUpDestroy.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\Score.cs" />
-    <Compile Include="Assets\IntData.cs" />
     <Compile Include="Assets\script experiments\sept 4 scripts\ScoreTextScript.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\UITextController.cs" />
     <Compile Include="Assets\script experiments\CoinRotation.cs" />
@@ -69,6 +68,7 @@
     <Compile Include="Assets\script experiments\CameraOffset.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5 scripts\rightAndLeft.cs" />
+    <Compile Include="Assets\script experiments\sept8scripts\UIImageController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
