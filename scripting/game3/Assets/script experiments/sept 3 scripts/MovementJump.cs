@@ -24,7 +24,10 @@ public class MovementJump : MonoBehaviour
         {
             moveSpeed = fastSpeed;
         }
-
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            moveSpeed = normalSpeed;
+        }
 
         var vInput = Input.GetAxis("Vertical") * moveSpeed.value;
         movement.Set(vInput, yvar, 0);
