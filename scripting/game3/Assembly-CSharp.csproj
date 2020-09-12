@@ -56,11 +56,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\script experiments\sept10\Monoevent.cs" />
-    <Compile Include="Assets\script experiments\PickUpDestroy.cs" />
+    <Compile Include="Assets\script experiments\ImageControl.cs" />
+    <Compile Include="Assets\script experiments\sept 3 scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\Score.cs" />
-    <Compile Include="Assets\script experiments\sept8scripts\UIImageController.cs" />
+    <Compile Include="Assets\script experiments\sept10\HealthController.cs" />
+    <Compile Include="Assets\script experiments\sept10\UIImageController.cs" />
     <Compile Include="Assets\script experiments\sept 4 scripts\ScoreTextScript.cs" />
+    <Compile Include="Assets\script experiments\sept10\FloatData1.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\UITextController.cs" />
+    <Compile Include="Assets\TriggerEvent.cs" />
     <Compile Include="Assets\script experiments\CoinRotation.cs" />
     <Compile Include="Assets\script experiments\sept10\IntData.cs" />
     <Compile Include="Assets\script experiments\sept10\FloatData.cs" />
@@ -68,10 +72,12 @@
     <Compile Include="Assets\script experiments\sept 4 scripts\Ontriggerenter.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\MovementPlayer.cs" />
     <Compile Include="Assets\script experiments\OntriggerEvent.cs" />
+    <Compile Include="Assets\FloatDataHealth.cs" />
     <Compile Include="Assets\script experiments\CameraOffset.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5 scripts\rightAndLeft.cs" />
-    <Compile Include="Assets\script experiments\sept 3 scripts\MovementJump.cs" />
+    <Compile Include="Assets\script experiments\sept10\TriggerEvent.cs" />
+    <Compile Include="Assets\particle.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -1,7 +1,8 @@
+
 using UnityEngine;
 using UnityEngine.Events;
 
-public class Monoevent : MonoBehaviour
+public class MonoEvent : MonoBehaviour
 {
     public UnityEvent startEvent;
     void Start()
