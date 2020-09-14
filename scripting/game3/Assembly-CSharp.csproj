@@ -77,7 +77,11 @@
     <Compile Include="Assets\script experiments\sept 3 scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5 scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\TriggerEvent.cs" />
-    <Compile Include="Assets\particle.cs" />
+    <Compile Include="Assets\Damage.cs" />
+    <Compile Include="Assets\Instaciate.cs" />
+    <Compile Include="Assets\ApplyForce.cs" />
+    <Compile Include="Assets\SpawnPoint.cs" />
+    <Compile Include="Assets\AddScore1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
