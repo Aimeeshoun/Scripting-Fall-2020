@@ -5686,6 +5686,7 @@ GameObject:
   - component: {fileID: 1468583607}
   - component: {fileID: 1468583606}
   - component: {fileID: 1468583605}
+  - component: {fileID: 1468583603}
   - component: {fileID: 1468583604}
   m_Layer: 0
   m_Name: player2
@@ -5694,6 +5695,26 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &1468583603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468583602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5825b22387cfdb34eb705d062325081a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotatespeed: 38
+  gravity: -9.81
+  jumpForce: 10
+  playerJumpCount: 7
+  normalSpeed: {fileID: 11400000, guid: bf0424da620a06c40b4d8961f9e201a4, type: 2}
+  fastSpeed: {fileID: 11400000, guid: b524b803dac16f04ca1792c89a94a788, type: 2}
+  JumpCountMax: {fileID: 11400000, guid: 46d276f822399504d834ba35fb74f045, type: 2}
+  currentSpawnpoint: {fileID: 11400000, guid: 36863511c1648c74b819903c1a995b14, type: 2}
 --- !u!143 &1468583604
 CharacterController:
   m_ObjectHideFlags: 0
@@ -5895,7 +5916,6 @@ GameObject:
   - component: {fileID: 1628980823}
   - component: {fileID: 1628980822}
   - component: {fileID: 1628980821}
-  - component: {fileID: 1628980820}
   m_Layer: 0
   m_Name: enemy
   m_TagString: Untagged
@@ -5903,22 +5923,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!54 &1628980820
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1628980819}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!65 &1628980821
 BoxCollider:
   m_ObjectHideFlags: 0

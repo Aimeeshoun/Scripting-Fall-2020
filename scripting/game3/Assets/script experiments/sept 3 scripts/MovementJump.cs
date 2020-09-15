@@ -8,14 +8,15 @@ public class MovementJump : MonoBehaviour
     private Vector3 movement;
     public float rotatespeed = 38f, gravity = -9.81f, jumpForce = 10f;
     private float yvar;
-
-    public FloatData moveSpeed, normalSpeed, fastSpeed;
-    public int JumpCountMax = 7;
+    public int playerJumpCount;
+    public FloatData  normalSpeed, fastSpeed;
+    public IntData JumpCountMax ;
+    private FloatData moveSpeed;
     private int jumpCount;
-
+    public Vector3dataobject currentSpawnpoint;
     private void Start()
     {
-
+        moveSpeed = normalSpeed;
         controller = GetComponent<CharacterController>();
     }
     private void Update()
@@ -40,7 +41,7 @@ public class MovementJump : MonoBehaviour
             yvar = -1f;
             jumpCount = 0;
         }
-        if (Input.GetButtonDown("Jump") && jumpCount < JumpCountMax)
+        if (Input.GetButtonDown("Jump") && jumpCount < JumpCountMax.value)
         {
             yvar = jumpForce;
             jumpCount++;
@@ -48,5 +49,9 @@ public class MovementJump : MonoBehaviour
         }
         movement = transform.TransformDirection(movement);
         controller.Move(movement * Time.deltaTime);
+    }
+        private void OnEnable()
+    {
+            transform.position = currentSpawnpoint.value;
     }
 }
