@@ -9,8 +9,8 @@ public class MovementJump : MonoBehaviour
     public float rotatespeed = 38f, gravity = -9.81f, jumpForce = 10f;
     private float yvar;
     public int playerJumpCount;
-    public FloatData  normalSpeed, fastSpeed;
-    public IntData JumpCountMax ;
+    public FloatData normalSpeed, fastSpeed;
+    public IntData JumpCountMax;
     private FloatData moveSpeed;
     private int jumpCount;
     public Vector3dataobject currentSpawnpoint;
@@ -50,8 +50,15 @@ public class MovementJump : MonoBehaviour
         movement = transform.TransformDirection(movement);
         controller.Move(movement * Time.deltaTime);
     }
-        private void OnEnable()
+
+    private void OnEnable()
     {
+
+        {
+
             transform.position = currentSpawnpoint.value;
+        }
+
     }
+
 }
