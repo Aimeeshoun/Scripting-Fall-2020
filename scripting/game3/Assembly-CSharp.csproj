@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\script experiments\sept10\Monoevent.cs" />
+    <Compile Include="Assets\sept 16\Instan.cs" />
     <Compile Include="Assets\script experiments\ImageControl.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\Score.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="Assets\sept15scrpts\JumpPowerUp.cs" />
     <Compile Include="Assets\sept 14 class scripts\ApplyForce.cs" />
     <Compile Include="Assets\script experiments\sept10\UIImageController.cs" />
+    <Compile Include="Assets\sept15scrpts\ApplyForce1.cs" />
     <Compile Include="Assets\script experiments\sept 4 scripts\ScoreTextScript.cs" />
     <Compile Include="Assets\sept 14 class scripts\Damage.cs" />
     <Compile Include="Assets\script experiments\sept10\FloatData1.cs" />
@@ -86,7 +88,8 @@
     <Compile Include="Assets\script experiments\sept 3 scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5 scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\TriggerEvent.cs" />
-    <Compile Include="Assets\sept15scrpts\ApplyForce1.cs" />
+    <Compile Include="Assets\sept 16\lerp.cs" />
+    <Compile Include="Assets\sept 16\look at.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
