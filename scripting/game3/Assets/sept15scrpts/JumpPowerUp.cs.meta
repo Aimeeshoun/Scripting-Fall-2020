@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e33f9e898f6681469ff3af97dcadc4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerJumpCount: {fileID: 11400000, guid: 7da4ddad550be4d4da28a909c38a0ca8, type: 2}
+  - normalJumpCount: {fileID: 11400000, guid: b20012601bf22244db665e1f13dc4dd2, type: 2}
+  - powerUpCount: {fileID: 11400000, guid: abbb23a7c0b06594f961c7baaa682033, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

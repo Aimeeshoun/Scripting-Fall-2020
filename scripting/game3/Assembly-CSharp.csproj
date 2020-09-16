@@ -60,6 +60,7 @@
     <Compile Include="Assets\script experiments\sept 3 scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\Score.cs" />
     <Compile Include="Assets\script experiments\sept10\HealthController.cs" />
+    <Compile Include="Assets\sept15scrpts\Spawn1.cs" />
     <Compile Include="Assets\sept 14 class scripts\ApplyForce.cs" />
     <Compile Include="Assets\script experiments\sept10\UIImageController.cs" />
     <Compile Include="Assets\script experiments\sept 4 scripts\ScoreTextScript.cs" />
@@ -69,21 +70,21 @@
     <Compile Include="Assets\sept15scrpts\TriggerEvent.cs" />
     <Compile Include="Assets\sept 14 class scripts\Instaciate.cs" />
     <Compile Include="Assets\script experiments\CoinRotation.cs" />
+    <Compile Include="Assets\sept15scrpts\Vector3dataobject.cs" />
     <Compile Include="Assets\script experiments\sept10\IntData.cs" />
     <Compile Include="Assets\script experiments\sept10\FloatData.cs" />
     <Compile Include="Assets\script experiments\sept 4 scripts\CoinScript.cs" />
     <Compile Include="Assets\script experiments\sept 4 scripts\Ontriggerenter.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\MovementPlayer.cs" />
     <Compile Include="Assets\script experiments\OntriggerEvent.cs" />
+    <Compile Include="Assets\sept15scrpts\Spawn.cs" />
     <Compile Include="Assets\sept 14 class scripts\FloatDataHealth.cs" />
     <Compile Include="Assets\sept 14 class scripts\AddScore1.cs" />
     <Compile Include="Assets\script experiments\CameraOffset.cs" />
     <Compile Include="Assets\script experiments\sept 3 scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5 scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\TriggerEvent.cs" />
-    <Compile Include="Assets\sept15scrpts\Vector3dataobject.cs" />
-    <Compile Include="Assets\sept15scrpts\Spawn.cs" />
-    <Compile Include="Assets\sept15scrpts\Spawn1.cs" />
+    <Compile Include="Assets\sept15scrpts\JumpPowerUp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
