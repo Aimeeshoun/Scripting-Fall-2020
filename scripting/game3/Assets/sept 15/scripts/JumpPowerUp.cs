@@ -5,6 +5,7 @@ public class JumpPowerUp : MonoBehaviour
 {
     public IntData playerJumpCount, normalJumpCount, powerUpCount;
     public float waitTime = 2f;
+    
 
     private void Start()
     {

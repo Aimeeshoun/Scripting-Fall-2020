@@ -87,10 +87,19 @@
     <Compile Include="Assets\sept 14\class scripts\AddScore1.cs" />
     <Compile Include="Assets\sept 16\scripts\lerp.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\CameraOffset.cs" />
+    <Compile Include="Assets\script experiments\sept 3\rewatch class\scripts\ScoreExampleScript.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\script experiments\sept 3\rewatch class\scripts\ScoreExampleScript.cs" />
+    <Compile Include="Assets\sept 18\ApplyForce2.cs" />
+    <Compile Include="Assets\sept 18\PowerUpHealth.cs" />
+    <Compile Include="Assets\sept 18\HealthMinusFive.cs" />
+    <Compile Include="Assets\sept 18\scenes\Particles.cs" />
+    <Compile Include="Assets\sept 18\scenes\Health2.cs" />
+    <Compile Include="Assets\sept 18\scenes\PowerUpHealth.cs" />
+    <Compile Include="Assets\sept 18\Instancer2.cs" />
+    <Compile Include="Assets\sept 18\scenes\Health3.cs" />
+    <Compile Include="Assets\sept 18\scenes\EnemyHealth.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

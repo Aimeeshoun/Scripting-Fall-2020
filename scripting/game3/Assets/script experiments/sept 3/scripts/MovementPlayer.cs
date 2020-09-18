@@ -10,7 +10,7 @@ public class MovementPlayer : MonoBehaviour
     private Vector3 movement;
     public float moveSpeed = 5f, rotateSpeed = 30f, gravity = -9.81f, jumpForce = 10f;
     private float yVar;
-    public int jumpCountMax = 2;
+    public IntData playerJumpCount;
     private int jumpCount;
     void Start()
     {
@@ -32,7 +32,7 @@ public class MovementPlayer : MonoBehaviour
             jumpCount = 0;
 
         }
-        if (Input.GetButtonDown("Jump") && jumpCount < jumpCountMax)
+        if (Input.GetButtonDown("Jump") && jumpCount < playerJumpCount.value)
         {
             yVar = jumpForce;
             jumpCount++;

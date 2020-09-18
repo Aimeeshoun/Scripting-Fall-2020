@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 636f9c139a47d9943aea31120b03d262, type: 3}
   m_Name: power up count
   m_EditorClassIdentifier: 
-  value: 7
+  value: 4
