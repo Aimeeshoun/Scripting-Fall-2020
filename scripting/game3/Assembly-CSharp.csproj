@@ -56,13 +56,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\script experiments\sept10\scripts\Monoevent.cs" />
+    <Compile Include="Assets\sept 18\Instancer2.cs" />
     <Compile Include="Assets\sept 16\scripts\Instan.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\ImageControl.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\Score.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\HealthController.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn1.cs" />
+    <Compile Include="Assets\sept 18\PowerUpHealth.cs" />
     <Compile Include="Assets\sept 15\scripts\JumpPowerUp.cs" />
+    <Compile Include="Assets\sept 18\scenes\Health2.cs" />
     <Compile Include="Assets\sept 14\class scripts\ApplyForce.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\UIImageController.cs" />
     <Compile Include="Assets\sept 15\scripts\ApplyForce1.cs" />
@@ -73,33 +76,35 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\UITextController.cs" />
     <Compile Include="Assets\sept 15\scripts\TriggerEvent.cs" />
     <Compile Include="Assets\sept 16\scripts\look at.cs" />
+    <Compile Include="Assets\sept 18\scenes\Particles.cs" />
     <Compile Include="Assets\sept 14\class scripts\Instaciate.cs" />
+    <Compile Include="Assets\sept 18\ApplyForce2.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\CoinRotation.cs" />
     <Compile Include="Assets\sept 15\scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\IntData.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\FloatData.cs" />
+    <Compile Include="Assets\sept 18\scenes\PowerUpHealth.cs" />
     <Compile Include="Assets\script experiments\sept 4\scripts\CoinScript.cs" />
     <Compile Include="Assets\script experiments\sept 4\scripts\Ontriggerenter.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementPlayer.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\OntriggerEvent.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn.cs" />
+    <Compile Include="Assets\sept 18\scenes\Health3.cs" />
     <Compile Include="Assets\sept 14\class scripts\FloatDataHealth.cs" />
     <Compile Include="Assets\sept 14\class scripts\AddScore1.cs" />
     <Compile Include="Assets\sept 16\scripts\lerp.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\CameraOffset.cs" />
+    <Compile Include="Assets\sept 18\HealthMinusFive.cs" />
+    <Compile Include="Assets\sept 18\scenes\EnemyHealth.cs" />
     <Compile Include="Assets\script experiments\sept 3\rewatch class\scripts\ScoreExampleScript.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\sept 18\ApplyForce2.cs" />
-    <Compile Include="Assets\sept 18\PowerUpHealth.cs" />
-    <Compile Include="Assets\sept 18\HealthMinusFive.cs" />
-    <Compile Include="Assets\sept 18\scenes\Particles.cs" />
-    <Compile Include="Assets\sept 18\scenes\Health2.cs" />
-    <Compile Include="Assets\sept 18\scenes\PowerUpHealth.cs" />
-    <Compile Include="Assets\sept 18\Instancer2.cs" />
-    <Compile Include="Assets\sept 18\scenes\Health3.cs" />
-    <Compile Include="Assets\sept 18\scenes\EnemyHealth.cs" />
+    <Compile Include="Assets\sept 18\sept 19\SelfDestruct.cs" />
+    <Compile Include="Assets\sept 18\sept 19\BulletCounter.cs" />
+    <Compile Include="Assets\sept 18\sept 19\InstanciatePrefab.cs" />
+    <Compile Include="Assets\sept 18\sept 19\MouseEventBehaviour.cs" />
+    <Compile Include="Assets\sept 18\sept 19\SelfDestruct2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
