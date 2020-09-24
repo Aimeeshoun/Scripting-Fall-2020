@@ -61,9 +61,12 @@
     <Compile Include="Assets\script experiments\sept10\scripts\ImageControl.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\Score.cs" />
+    <Compile Include="Assets\sept 18\sept 19\SelfDestruct.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\HealthController.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn1.cs" />
     <Compile Include="Assets\sept 18\PowerUpHealth.cs" />
+    <Compile Include="Assets\sept 18\sept 19\MouseEventBehaviour.cs" />
+    <Compile Include="Assets\sept 18\sept 19\InstanciatePrefab.cs" />
     <Compile Include="Assets\sept 15\scripts\JumpPowerUp.cs" />
     <Compile Include="Assets\sept 18\scenes\Health2.cs" />
     <Compile Include="Assets\sept 14\class scripts\ApplyForce.cs" />
@@ -71,6 +74,7 @@
     <Compile Include="Assets\sept 15\scripts\ApplyForce1.cs" />
     <Compile Include="Assets\script experiments\sept 4\scripts\ScoreTextScript.cs" />
     <Compile Include="Assets\sept 14\class scripts\Damage.cs" />
+    <Compile Include="Assets\sept 18\sept 19\SelfDestruct2.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\FloatData1.cs" />
     <Compile Include="Assets\sept 14\class scripts\CallAFuntion.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\UITextController.cs" />
@@ -85,6 +89,7 @@
     <Compile Include="Assets\script experiments\sept10\scripts\FloatData.cs" />
     <Compile Include="Assets\sept 18\scenes\PowerUpHealth.cs" />
     <Compile Include="Assets\script experiments\sept 4\scripts\CoinScript.cs" />
+    <Compile Include="Assets\sept 18\sept 19\BulletCounter.cs" />
     <Compile Include="Assets\script experiments\sept 4\scripts\Ontriggerenter.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementPlayer.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\OntriggerEvent.cs" />
@@ -100,11 +105,11 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\sept 18\sept 19\SelfDestruct.cs" />
-    <Compile Include="Assets\sept 18\sept 19\BulletCounter.cs" />
-    <Compile Include="Assets\sept 18\sept 19\InstanciatePrefab.cs" />
-    <Compile Include="Assets\sept 18\sept 19\MouseEventBehaviour.cs" />
-    <Compile Include="Assets\sept 18\sept 19\SelfDestruct2.cs" />
+    <Compile Include="Assets\sept23\Instancer3.cs" />
+    <Compile Include="Assets\sept23\Vector3data.cs" />
+    <Compile Include="Assets\sept23\GameAction.cs" />
+    <Compile Include="Assets\sept23\GameActionHandleler.cs" />
+    <Compile Include="Assets\sept23\ImageController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
