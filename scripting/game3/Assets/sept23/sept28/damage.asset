@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 636f9c139a47d9943aea31120b03d262, type: 3}
-  m_Name: newPlayerJumpCountMax
+  m_Script: {fileID: 11500000, guid: a4ff5ab11c03af645805b0e8c05755cd, type: 3}
+  m_Name: damage
   m_EditorClassIdentifier: 
-  value: 4
+  value: 3
+  maxValue: 6

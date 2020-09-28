@@ -85,7 +85,7 @@
     <Compile Include="Assets\sept 16\scripts\look at.cs" />
     <Compile Include="Assets\sept 18\scenes\Particles.cs" />
     <Compile Include="Assets\sept 14\class scripts\Instaciate.cs" />
-    <Compile Include="Assets\sept 18\ApplyForce2.cs" />
+    <Compile Include="Assets\script experiments\sept27\LookAt.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\CoinRotation.cs" />
     <Compile Include="Assets\sept 15\scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\IntData.cs" />
@@ -110,7 +110,8 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\script experiments\sept27\LookAt.cs" />
+    <Compile Include="Assets\sept23\Vector3Data1.cs" />
+    <Compile Include="Assets\sept23\sept28\EnemyConfig.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

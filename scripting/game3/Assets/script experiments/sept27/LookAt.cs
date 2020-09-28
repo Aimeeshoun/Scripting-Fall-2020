@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class LookAtBehaviour : MonoBehaviour
 {
-    public void OnLook(Vector3Data obj)
+    public void OnLook(Vector3data obj)
     {
         Transform transform1;
         (transform1 = transform).LookAt(obj.value);
