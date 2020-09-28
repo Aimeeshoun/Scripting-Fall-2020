@@ -62,15 +62,18 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\Score.cs" />
     <Compile Include="Assets\sept 18\sept 19\SelfDestruct.cs" />
+    <Compile Include="Assets\sept23\GameActionHandleler.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\HealthController.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn1.cs" />
     <Compile Include="Assets\sept 18\PowerUpHealth.cs" />
     <Compile Include="Assets\sept 18\sept 19\MouseEventBehaviour.cs" />
     <Compile Include="Assets\sept 18\sept 19\InstanciatePrefab.cs" />
+    <Compile Include="Assets\sept23\GameAction.cs" />
     <Compile Include="Assets\sept 15\scripts\JumpPowerUp.cs" />
     <Compile Include="Assets\sept 18\scenes\Health2.cs" />
     <Compile Include="Assets\sept 14\class scripts\ApplyForce.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\UIImageController.cs" />
+    <Compile Include="Assets\sept23\Instancer3.cs" />
     <Compile Include="Assets\sept 15\scripts\ApplyForce1.cs" />
     <Compile Include="Assets\script experiments\sept 4\scripts\ScoreTextScript.cs" />
     <Compile Include="Assets\sept 14\class scripts\Damage.cs" />
@@ -96,20 +99,18 @@
     <Compile Include="Assets\sept 15\scripts\Spawn.cs" />
     <Compile Include="Assets\sept 18\scenes\Health3.cs" />
     <Compile Include="Assets\sept 14\class scripts\FloatDataHealth.cs" />
+    <Compile Include="Assets\sept23\Vector3data.cs" />
     <Compile Include="Assets\sept 14\class scripts\AddScore1.cs" />
     <Compile Include="Assets\sept 16\scripts\lerp.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\CameraOffset.cs" />
+    <Compile Include="Assets\sept23\ImageController.cs" />
     <Compile Include="Assets\sept 18\HealthMinusFive.cs" />
     <Compile Include="Assets\sept 18\scenes\EnemyHealth.cs" />
     <Compile Include="Assets\script experiments\sept 3\rewatch class\scripts\ScoreExampleScript.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\sept23\Instancer3.cs" />
-    <Compile Include="Assets\sept23\Vector3data.cs" />
-    <Compile Include="Assets\sept23\GameAction.cs" />
-    <Compile Include="Assets\sept23\GameActionHandleler.cs" />
-    <Compile Include="Assets\sept23\ImageController.cs" />
+    <Compile Include="Assets\script experiments\sept27\LookAt.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
