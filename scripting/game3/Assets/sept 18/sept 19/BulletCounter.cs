@@ -9,6 +9,7 @@ public class BulletCounter : MonoBehaviour
 
     public int ammo = 30;
     public Text UItext;
+    public GameObject prefab;
 
 
     void Start()
@@ -41,5 +42,13 @@ public class BulletCounter : MonoBehaviour
             UItext.text = data.value.ToString();
 
         }
+
+        if(ammo <= 0)
+        {
+            Destroy(this.prefab);
+
+
+        }
     }
+
 }
