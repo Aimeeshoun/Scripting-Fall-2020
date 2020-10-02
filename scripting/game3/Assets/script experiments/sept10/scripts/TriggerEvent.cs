@@ -1,12 +1,27 @@
+using System.Collections;
 using UnityEngine;
-using UnityEngine.Events;
 
-public class TriggerEvent : MonoBehaviour
+[RequireComponent(typeof(CharacterController))]
+public class CharacterKnockBack : MonoBehaviour
 {
-    public UnityEvent myTriggerEvent;
+    private CharacterController controller;
 
-    public void OnTriggerEnter(Collider other)
+    Vector3 move = Vector3.left;
+    void Update()
     {
-        myTriggerEvent.Invoke();
+        controller = GetComponent<CharacterController>();
+        controller.Move(move * Time.deltaTime);
+    }
+
+    private IEnumerator OnTriggerEnter(Collider other)
+    {
+        var i = 2f;
+        move = other.attachedRigidbody.velocity * i;
+        while (i > 0)
+        {
+            yield return new WaitForFixedUpdate();
+            i -= 0.1f;
+        }
+        move = Vector3.left;
     }
 }

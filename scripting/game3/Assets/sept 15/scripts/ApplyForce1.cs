@@ -5,16 +5,17 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 public class ApplyForce1 : MonoBehaviour
 {
-    private Rigidbody rBody;
-    public float force = 30f;
+    private Rigidbody myRBody;
+    public float myforce = 35f;
 
 
     void Start()
     {
-        rBody = GetComponent<Rigidbody>();
-        var forceDirection = new Vector3(force, 0, 0);
-        //forceDirection needs to be based on Player rotation (hint SO)
-        rBody.AddRelativeForce(forceDirection);
-    }
+        var forceDirection = new Vector3(myforce, 0, 0);
+        myRBody = GetComponent<Rigidbody>();
+        myRBody.AddRelativeForce(forceDirection);
+        
+        
+                 }
 
 }

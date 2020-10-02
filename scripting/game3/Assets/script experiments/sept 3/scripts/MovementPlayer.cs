@@ -6,15 +6,19 @@ using UnityEngine.EventSystems;
 [RequireComponent(typeof(CharacterController))]
 public class MovementPlayer : MonoBehaviour
 {
-    private CharacterController controller;
+    
     private Vector3 movement;
-    public float moveSpeed = 5f, rotateSpeed = 30f, gravity = -9.81f, jumpForce = 10f;
+    public float jumpForce = 12f;
+    public float rotateSpeed = 35f;
+    public float gravity = -9.81f; 
     private float yVar;
     public IntData playerJumpCount;
-    private int jumpCount;
+    public float moveSpeed = 8f;
+    private CharacterController myController;
+    private int theJumpCount;
     void Start()
     {
-        controller = GetComponent<CharacterController>();
+        myController = GetComponent<CharacterController>();
     }
 
     private void Update()
@@ -26,18 +30,18 @@ public class MovementPlayer : MonoBehaviour
 
         yVar += gravity * Time.deltaTime;
         //what is y
-        if (controller.isGrounded && movement.y < 0)
+        if (myController.isGrounded && movement.y < 0)
         {
             yVar = -1f;
-            jumpCount = 0;
+            theJumpCount = 0;
 
         }
-        if (Input.GetButtonDown("Jump") && jumpCount < playerJumpCount.value)
+        if (Input.GetButtonDown("Jump") && theJumpCount < playerJumpCount.value)
         {
             yVar = jumpForce;
-            jumpCount++;
+            theJumpCount++;
         }
         movement = transform.TransformDirection(movement);
-        controller.Move(movement * Time.deltaTime);
+        myController.Move(movement * Time.deltaTime);
     }
 }

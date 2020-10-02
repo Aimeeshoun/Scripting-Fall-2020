@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class SelfDestruct : MonoBehaviour
 {
-    public GameObject bullets;
+    public GameObject theBullets;
     public int NumberofBullets;
 
     void Start()

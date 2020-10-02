@@ -4,13 +4,13 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 public class Instan : MonoBehaviour
 {
-    public GameObject prefab;
+    public GameObject myPrefab;
     private Rigidbody rBody;
 
 
     private void Start()
     {
         var location = transform.position;
-        Instantiate(prefab, location, Quaternion.identity); 
+        Instantiate(myPrefab, location, Quaternion.identity); 
     }
 }
