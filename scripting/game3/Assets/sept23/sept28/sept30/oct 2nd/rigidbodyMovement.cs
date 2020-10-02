@@ -3,21 +3,12 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-public class movementScript : MonoBehaviour
+public class rigidbodyMovement : MonoBehaviour
 {
-    public Rigidbody myRigid;
+    public float characterSpeed;
     public float normalSpeed;
     public float fastSpeed;
-    public float characterSpeed;
-
-
-
-    void Start()
-    {
-        myRigid = GetComponent<Rigidbody>();
-    }
-
-
+    public Rigidbody myRigid;
     void Update()
     {
         float verticalAxis = Input.GetAxis("Vertical");
@@ -31,11 +22,11 @@ public class movementScript : MonoBehaviour
 
         }
         if (Input.GetKeyDown(KeyCode.RightShift))
-                {
-                characterSpeed=fastSpeed;
-            }
-
+        {
+            characterSpeed = fastSpeed;
         }
 
-
     }
+
+
+}

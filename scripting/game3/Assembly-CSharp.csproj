@@ -62,6 +62,7 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\Score.cs" />
     <Compile Include="Assets\sept 18\sept 19\SelfDestruct.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\movement.cs" />
     <Compile Include="Assets\sept23\GameActionHandleler.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\HealthController.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn1.cs" />
@@ -112,7 +113,7 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\movement.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\rigidbodyMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
