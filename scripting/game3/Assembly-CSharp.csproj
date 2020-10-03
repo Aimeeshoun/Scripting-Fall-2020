@@ -57,14 +57,17 @@
   <ItemGroup>
     <Compile Include="Assets\script experiments\sept10\scripts\Monoevent.cs" />
     <Compile Include="Assets\sept 18\Instancer2.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\KnockBack.cs" />
     <Compile Include="Assets\sept 16\scripts\Instan.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\ImageControl.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementJump.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\Score.cs" />
     <Compile Include="Assets\sept 18\sept 19\SelfDestruct.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\movement.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\TriggerEventExample.cs" />
     <Compile Include="Assets\sept23\GameActionHandleler.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\HealthController.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\EventBehaviors.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn1.cs" />
     <Compile Include="Assets\sept 18\PowerUpHealth.cs" />
     <Compile Include="Assets\sept 18\sept 19\MouseEventBehaviour.cs" />
@@ -98,8 +101,10 @@
     <Compile Include="Assets\sept 18\sept 19\BulletCounter.cs" />
     <Compile Include="Assets\script experiments\sept 4\scripts\Ontriggerenter.cs" />
     <Compile Include="Assets\script experiments\sept 3\scripts\MovementPlayer.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\InstancerBehaviour.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\OntriggerEvent.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\LookAtbehavior.cs" />
     <Compile Include="Assets\sept 18\scenes\Health3.cs" />
     <Compile Include="Assets\sept 14\class scripts\FloatDataHealth.cs" />
     <Compile Include="Assets\sept23\Vector3data.cs" />
@@ -113,11 +118,8 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\KnockBack.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\TriggerEventExample.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\LookAtbehavior.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\InstancerBehaviour.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\EventBehaviors.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\MoveLocate.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\LookAtme.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
