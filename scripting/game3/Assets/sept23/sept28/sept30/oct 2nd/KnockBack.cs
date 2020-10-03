@@ -22,6 +22,12 @@ public class KnockBack : MonoBehaviour
             yield return new WaitForFixedUpdate();
             p -= 0.1f;
         }
-        moving = Vector3.left;
+
+        if (CompareTag("Bullet"))
+        {
+            moving = Vector3.left;
+        } 
+        
+        
     }
 }
