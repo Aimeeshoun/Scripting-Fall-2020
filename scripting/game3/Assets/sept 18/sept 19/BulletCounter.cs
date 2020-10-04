@@ -11,11 +11,9 @@ public class BulletCounter : MonoBehaviour
     public Text UItext;
     public GameObject prefab;
 
-
     void Start()
     {
         UItext = GetComponent<Text>();
-
 
     }
 
@@ -29,12 +27,9 @@ public class BulletCounter : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.RightShift))
             {
                 ammo -= 1;
-
-                ;
+                               
             }
 
-
-            Debug.Log(ammo);
         }
 
         void UpdateText(IntData data)
@@ -46,7 +41,6 @@ public class BulletCounter : MonoBehaviour
         if(ammo <= 0)
         {
             Destroy(this.prefab);
-
 
         }
     }

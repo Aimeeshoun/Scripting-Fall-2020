@@ -12,7 +12,7 @@ public class HealthScript : MonoBehaviour
     {
         Health -= 5;
 
-        Debug.Log("Heath is" + Health);
+       
     }
 
 }

@@ -10,9 +10,9 @@ public class SelfDestruct : MonoBehaviour
 
     void Start()
     {
-        while (NumberofBullets > 10)
+        while (NumberofBullets < 30)
         {
-            Debug.Log("You have" + (NumberofBullets));
+            Destroy(this.theBullets);
         }
     }
 }

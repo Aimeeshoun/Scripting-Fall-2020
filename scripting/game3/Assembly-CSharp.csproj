@@ -78,6 +78,7 @@
     <Compile Include="Assets\sept 15\scripts\JumpPowerUp.cs" />
     <Compile Include="Assets\sept 18\scenes\Health2.cs" />
     <Compile Include="Assets\sept 14\class scripts\ApplyForce.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\FireAmmo.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\UIImageController.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\MoveLocate.cs" />
     <Compile Include="Assets\sept23\Instancer3.cs" />
@@ -120,7 +121,9 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\FireAmmo.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\Debug.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\Mouse.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\LookAt.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
