@@ -3,7 +3,7 @@ using UnityEngine;
 public class InstancerBehaviour : MonoBehaviour
 {
     public GameObject thePrefab;
-    public Vector3data rotationDirection;
+    public Vector3Data1 rotationDirection;
 
     public void Instance()
     {
