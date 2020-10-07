@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5159917afa6755e4ebccbc64d2f7f6fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myController: {instanceID: 0}
+  - JumpCountMax: {fileID: 11400000, guid: 17dfc5662eb35eb4a996f3ce72bfd9c9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

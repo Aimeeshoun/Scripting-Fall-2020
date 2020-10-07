@@ -55,6 +55,7 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\Debug.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\Monoevent.cs" />
     <Compile Include="Assets\sept 18\Instancer2.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\KnockBack.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Assets\sept 18\sept 19\MouseEventBehaviour.cs" />
     <Compile Include="Assets\sept23\sept28\EnemyConfig.cs" />
     <Compile Include="Assets\sept 18\sept 19\InstanciatePrefab.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\Mouse.cs" />
     <Compile Include="Assets\sept23\GameAction.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\LookAtme.cs" />
     <Compile Include="Assets\sept 15\scripts\JumpPowerUp.cs" />
@@ -113,6 +115,7 @@
     <Compile Include="Assets\sept23\Vector3data.cs" />
     <Compile Include="Assets\sept 14\class scripts\AddScore1.cs" />
     <Compile Include="Assets\sept 16\scripts\lerp.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\LookAt.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\CameraOffset.cs" />
     <Compile Include="Assets\sept23\ImageController.cs" />
     <Compile Include="Assets\sept 18\HealthMinusFive.cs" />
@@ -121,9 +124,8 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\Debug.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\Mouse.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\LookAt.cs" />
+    <Compile Include="Assets\script experiments\sept10\scripts\NewBehaviourScript.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\oct 5\movement3.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
