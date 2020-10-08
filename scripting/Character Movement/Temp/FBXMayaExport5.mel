@@ -1,0 +1,22 @@
+print "Starting maya loading and fbx conversion \n";
+	
+if (`file -q -exists "D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Character Movement/Assets/wallhole.mb"`)
+{		
+	file -o "D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Character Movement/Assets/wallhole.mb";
+	FBXExportEmbeddedTextures -v false;
+	// FBXExportHardEdges -v true;
+	FBXExportApplyConstantKeyReducer -v false;
+	FBXExportShowUI -v false;
+
+	print "Before fbx export\n";
+	FBXExport -f "D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Character Movement/Temp/ExportedFBXFile.fbx";
+	print "after fbx export\n";
+}
+else
+	print "Could not open Maya file.";
+
+sysFile -delete "D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Character Movement/Temp/CommandPipe";
+
+$donepipeKill = `fopen "D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Character Movement/Temp/SyncPipeKill" "w"`;
+fwrite $donepipeKill "Done";
+fclose $donepipeKill;

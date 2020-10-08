@@ -31,14 +31,14 @@ public class MovementJump : MonoBehaviour
         }
 
         var vInput = Input.GetAxis("Vertical") * moveSpeed.value;
-        movement.Set(vInput, yvar, 0);
+        var hInput = Input.GetAxis("Horizontal") * moveSpeed.value;
+        movement.Set(vInput, yvar, hInput);
 
-        var hInput = Input.GetAxis("Horizontal") * Time.deltaTime * rotatespeed;
         transform.Rotate(0, hInput, 0);
         yvar += gravity * Time.deltaTime;
         if (controller.isGrounded && movement.y < 0)
         {
-            yvar = -1f;
+            yvar = -2f;
             jumpCount = 0;
         }
         if (Input.GetButtonDown("Jump") && jumpCount < JumpCountMax.value)
