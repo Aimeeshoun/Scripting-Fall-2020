@@ -8,8 +8,7 @@ public class Jump : MonoBehaviour
 {
     public int normalSpeed = 20;
     public float jumpMax = 3;
-    private Vector3 movement
-        ;
+    private Vector3 movement;
     private float gravity = -9.81f;
     public float thePlayerSpeed;
     public CharacterController myController;

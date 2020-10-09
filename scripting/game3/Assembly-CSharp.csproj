@@ -67,6 +67,7 @@
     <Compile Include="Assets\sept23\sept28\sept30\movement.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\TriggerEventExample.cs" />
     <Compile Include="Assets\sept23\GameActionHandleler.cs" />
+    <Compile Include="Assets\script experiments\sept10\scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\HealthController.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\EventBehaviors.cs" />
     <Compile Include="Assets\sept 15\scripts\Spawn1.cs" />
@@ -78,6 +79,7 @@
     <Compile Include="Assets\sept23\GameAction.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\LookAtme.cs" />
     <Compile Include="Assets\sept 15\scripts\JumpPowerUp.cs" />
+    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\oct 5\movement3.cs" />
     <Compile Include="Assets\sept 18\scenes\Health2.cs" />
     <Compile Include="Assets\sept 14\class scripts\ApplyForce.cs" />
     <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\FireAmmo.cs" />
@@ -124,8 +126,7 @@
     <Compile Include="Assets\script experiments\sept 3\scripts\AddScore.cs" />
     <Compile Include="Assets\script experiments\sept 5\scripts\rightAndLeft.cs" />
     <Compile Include="Assets\script experiments\sept10\scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\script experiments\sept10\scripts\NewBehaviourScript.cs" />
-    <Compile Include="Assets\sept23\sept28\sept30\oct 2nd\oct3\oct 5\movement3.cs" />
+    <Compile Include="Assets\AI.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
