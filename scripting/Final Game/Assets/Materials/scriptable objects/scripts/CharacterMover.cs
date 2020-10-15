@@ -43,13 +43,11 @@ public class CharacterMover : MonoBehaviour
             {
                 moveSpeed = normalSpeed;
             }
-
             var vInput = Input.GetAxis("Vertical") * moveSpeed.value;
-
-            movement.Set(vInput, yVar, 0);
-
-            var hInput = Input.GetAxis("Horizontal") * Time.deltaTime * rotateSpeed;
-            transform.Rotate(0, hInput, 0);
+            var hInput = Input.GetAxis("Horizontal") * moveSpeed.value;
+             movement.Set(vInput, yVar, hInput);
+       //var hInput = Input.GetAxis("Horizontal")*moveSpeed.value;
+       //transform.Rotate(0,hInput,0);
 
             yVar += gravity * Time.deltaTime;
 
