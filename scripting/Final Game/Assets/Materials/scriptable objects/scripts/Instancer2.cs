@@ -5,10 +5,16 @@ using UnityEngine;
 public class Instancer2 : MonoBehaviour
 {
     public GameObject prefab;
-    private void Start()
+
+    private void Update()
     {
-        var location = transform.position;
-        var rotationDirection = new Vector3(0f, 45f, 0f);
-        Instantiate(prefab, location, Quaternion.identity);
+        
+    
+        if (Input.GetKeyDown(KeyCode.RightShift))
+        {
+            var location = transform.position;
+            var rotationDirection = new Vector3(0f, 25f, 0f);
+            Instantiate(prefab, location, Quaternion.identity);
+        }
     }
 }

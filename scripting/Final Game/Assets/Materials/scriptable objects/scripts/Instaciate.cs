@@ -5,7 +5,7 @@ using UnityEngine.Events;
 public class Instaciate : MonoBehaviour
 {
     public GameObject prefab;
-    public UnityEvent Instanciating;
+  //  public UnityEvent Instanciating;
 
     //Make a method to call the Instance Method
 
