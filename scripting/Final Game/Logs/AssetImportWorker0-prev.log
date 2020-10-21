@@ -15,11 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53530
+54932
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 67.23 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 54.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -31,40 +31,40 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001613 seconds.
+Registered in 0.002307 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 44.51 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 46.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.631 seconds
+- Completed reload, in  2.166 seconds
 Registering precompiled user dll's ...
-Registered in 0.114423 seconds.
+Registered in 0.134846 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.965 seconds
+- Completed reload, in  1.113 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(3411e19edd44cfd46b548b058c3bc36c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs") state(2)
 Script is not up to date after domain reload: guid(73deb9b8722aa284eab27c4dc90956c6) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs") state(2)
@@ -394,6 +394,7 @@ Script is not up to date after domain reload: guid(007e8b9701e00aa4b934ca58ee397
 Script is not up to date after domain reload: guid(c606041f02fc7d542b1429806872292b) path("Packages/com.unity.ugui/Runtime/UI/Core/Culling/RectangularVertexClipper.cs") state(2)
 Script is not up to date after domain reload: guid(c09652e660b34484cb10d35ed2206df5) path("Packages/com.unity.analytics/Tests/Editor/AdSkipTests.cs") state(2)
 Script is not up to date after domain reload: guid(cba6266894deb46eb97f67618ef9a559) path("Packages/com.unity.ads/Runtime/Monetization/MonetizationPlatform.cs") state(2)
+Script is not up to date after domain reload: guid(b8e7e184b41fd3f43837fbbe3c297808) path("Assets/PlayerController.cs") state(2)
 Script is not up to date after domain reload: guid(202d758d102b6854a9710c8b93db742c) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteCharacter.cs") state(2)
 Script is not up to date after domain reload: guid(5359645287a8484499e79d0fca4b40be) path("Packages/com.unity.collab-proxy/Editor/Views/HistoryTabPageView.cs") state(2)
 Script is not up to date after domain reload: guid(76118d802ed312b47b8575c1e7ca7937) path("Assets/AmmoCounter.cs") state(2)
@@ -445,6 +446,7 @@ Script is not up to date after domain reload: guid(49fff12c7f5d6c64891198440e774
 Script is not up to date after domain reload: guid(e1e957d39ca70834f9212a1289b6a0d5) path("Packages/com.unity.timeline/Editor/Utilities/CustomTrackDrawerAttribute.cs") state(2)
 Script is not up to date after domain reload: guid(e9a32780b69dcdb438da3e3f43202f54) path("Packages/com.unity.ugui/Tests/Runtime/LayoutGroup/LayoutGroupArrangement.cs") state(2)
 Script is not up to date after domain reload: guid(de86b4ed8106fd84a8bc2f5d69798d53) path("Packages/com.unity.timeline/Editor/Actions/Menus/TimelineContextMenu.cs") state(2)
+Script is not up to date after domain reload: guid(67cde477176eb414584610cd0892e31d) path("Assets/laser.cs") state(2)
 Script is not up to date after domain reload: guid(4585b5feb801bdb44b0e5eafdd95a3be) path("Packages/com.unity.ugui/Tests/Editor/Canvas/CanvasWidthAssertionErrorWithRectTransform.cs") state(2)
 Script is not up to date after domain reload: guid(70b265ed18dc14041bedc0263d4578ef) path("Packages/com.unity.timeline/Editor/Signals/SignalReceiverInspector.cs") state(2)
 Script is not up to date after domain reload: guid(f244cfcc2f79c6f43b7f088d6b0cd58e) path("Packages/com.unity.collab-proxy/Editor/Components/ChangeListElements/BaseChangeListElement.cs") state(2)
@@ -1034,7 +1036,6 @@ Script is not up to date after domain reload: guid(f700f31b2e40d7f4bb69753fdbbbc
 Script is not up to date after domain reload: guid(8f8f74fe8e363da42875d9cab025d3b2) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/ICallbacksDelegator.cs") state(2)
 Script is not up to date after domain reload: guid(cc456ba93311a3a43ad896449fee9868) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Callbacks/EditModeRunnerCallback.cs") state(2)
 Script is not up to date after domain reload: guid(083c6a3a5426382449369ddc12b691d8) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/CommandLineTest/Executer.cs") state(2)
-Script is not up to date after domain reload: guid(9de5f4b8df2b1d949ab4739e23cea0db) path("Assets/SCRIPTS/scripts/LookAt1.cs") state(2)
 Script is not up to date after domain reload: guid(ac68f5ae37c8957468562b8da42f9984) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/EditModeLauncher.cs") state(2)
 Script is not up to date after domain reload: guid(afdd90e2c7bbe4c0dabd6b08ea3229e8) path("Packages/com.unity.ads/Runtime/Advertisement/Utilities/UnityLifecycleManager.cs") state(2)
 Script is not up to date after domain reload: guid(d061ada5d3169454daf54243390b5fdb) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/TestResultAdaptor.cs") state(2)
@@ -1069,11 +1070,13 @@ Script is not up to date after domain reload: guid(1116c8f7471936c498ab2c999c915
 Script is not up to date after domain reload: guid(dc99dfeec967f2644b25dd6bace59b7e) path("Packages/com.unity.timeline/Editor/treeview/TimelineClipUnion.cs") state(2)
 Script is not up to date after domain reload: guid(fd661411ada16794aa7015ddf3778407) path("Packages/com.unity.xr.legacyinputhelpers/Editor/ArmModels/ArmModelEditor.cs") state(2)
 Script is not up to date after domain reload: guid(6ad632cbcc87f634d9b86006cdffdaf5) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextParsingUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(81462656ab6db3c4a8fd78002a7d6ebb) path("Assets/Coroutine.cs") state(2)
 Script is not up to date after domain reload: guid(f42adf554c6bd4e43895f0261912d574) path("Packages/com.unity.ads/Runtime/Advertisement/Advertisement.cs") state(2)
 Script is not up to date after domain reload: guid(4b34c3b8e57e3294da0eb22fbf7250af) path("Assets/SCRIPTS/scripts/HealthController.cs") state(2)
 Script is not up to date after domain reload: guid(16548db454f7a3344b41ca2e5cdb52b2) path("Packages/com.unity.timeline/Editor/Window/TimelineWindow_Selection.cs") state(2)
 Script is not up to date after domain reload: guid(3c09dc5cd0a70cf40856b7d406106ee1) path("Packages/com.unity.timeline/Editor/Animation/BindingTreeViewDataSourceGUI.cs") state(2)
 Script is not up to date after domain reload: guid(ced1ff58c85b80a43afc170d3563244c) path("Assets/WeaponEnum.cs") state(2)
+Script is not up to date after domain reload: guid(11bee28ce5c17ac4796718e13f14bc96) path("Assets/InstanciateBullet.cs") state(2)
 Script is not up to date after domain reload: guid(a2a8aecb05814e644abbb070fbd91156) path("Packages/com.unity.timeline/Editor/Manipulators/Move/MoveItemModeMix.cs") state(2)
 Script is not up to date after domain reload: guid(5b2eeca598284bd4abb4a15c30df1576) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/UnexpectedLogMessageException.cs") state(2)
 Script is not up to date after domain reload: guid(5e249ae353801f043a6e4173410c6152) path("Packages/com.unity.ide.visualstudio/Editor/Messaging/Messenger.cs") state(2)
@@ -1169,6 +1172,7 @@ Script is not up to date after domain reload: guid(5653477a5039f674da8f856adcf47
 Script is not up to date after domain reload: guid(8bc74398aa3944646ade4ee78cd57484) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs") state(2)
 Script is not up to date after domain reload: guid(2c03ae9aa36a4fd44a983831f44654be) path("Packages/com.unity.timeline/Editor/treeview/ItemGui/TimelineMarkerClusterGUI.cs") state(2)
 Script is not up to date after domain reload: guid(0ebe55970036fb44d9996caaae44d242) path("Assets/SCRIPTS/scripts/AddScore.cs") state(2)
+Script is not up to date after domain reload: guid(7cfdb143e1694e742ba40408fc282e92) path("Assets/JMO Assets/Toony Colors/Editor/TCF_MaterialInspector.cs") state(2)
 Script is not up to date after domain reload: guid(e6323ebef616fee4486ee155cd56d191) path("Packages/com.unity.ugui/Tests/Runtime/EventSystem/GraphicRaycasterTests.cs") state(2)
 Script is not up to date after domain reload: guid(4825accaef6da41c287f05d3eddb6c41) path("Packages/com.unity.ads/Runtime/Advertisement/Utilities/MiniJSON.cs") state(2)
 Script is not up to date after domain reload: guid(65f3a4c67e4927a478b7036bae1da0e3) path("Packages/com.unity.timeline/Runtime/TimelineClip.cs") state(2)
@@ -1223,6 +1227,7 @@ Script is not up to date after domain reload: guid(d8c4a920f001ca64680ed6fdb52d1
 Script is not up to date after domain reload: guid(aa160f27c3fe4052a5850e21108811b6) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_InputFieldEditor.cs") state(2)
 Script is not up to date after domain reload: guid(89b48a03f6f43e94e87cc8d2104d3d4d) path("Packages/com.unity.timeline/Runtime/Events/Marker.cs") state(2)
 Script is not up to date after domain reload: guid(3b0c53b13a1539949b3b212e049151d1) path("Packages/com.unity.timeline/Runtime/AssetUpgrade/AnimationTrackUpgrade.cs") state(2)
+Script is not up to date after domain reload: guid(18c63a9718c329c4686cb043a1c54f4b) path("Assets/JMO Assets/Toony Colors/Demo 2.0/TCF_Demo.cs") state(2)
 Script is not up to date after domain reload: guid(e086b15460c228c4f9b116f0e3e2f175) path("Packages/com.unity.timeline/Editor/inspectors/BasicAssetInspector.cs") state(2)
 Script is not up to date after domain reload: guid(c9cb65dec35078943a603e10cec9af75) path("Assets/SCRIPTS/scripts/AI.cs") state(2)
 Script is not up to date after domain reload: guid(79625444e604a17488759196b88b8e62) path("Assets/SCRIPTS/scripts/CharacterMover.cs") state(2)
@@ -1813,6 +1818,7 @@ Script is not up to date after domain reload: guid(007e8b9701e00aa4b934ca58ee397
 Script is not up to date after domain reload: guid(c606041f02fc7d542b1429806872292b) path("Packages/com.unity.ugui/Runtime/UI/Core/Culling/RectangularVertexClipper.cs") state(2)
 Script is not up to date after domain reload: guid(c09652e660b34484cb10d35ed2206df5) path("Packages/com.unity.analytics/Tests/Editor/AdSkipTests.cs") state(2)
 Script is not up to date after domain reload: guid(cba6266894deb46eb97f67618ef9a559) path("Packages/com.unity.ads/Runtime/Monetization/MonetizationPlatform.cs") state(2)
+Script is not up to date after domain reload: guid(b8e7e184b41fd3f43837fbbe3c297808) path("Assets/PlayerController.cs") state(2)
 Script is not up to date after domain reload: guid(202d758d102b6854a9710c8b93db742c) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteCharacter.cs") state(2)
 Script is not up to date after domain reload: guid(5359645287a8484499e79d0fca4b40be) path("Packages/com.unity.collab-proxy/Editor/Views/HistoryTabPageView.cs") state(2)
 Script is not up to date after domain reload: guid(76118d802ed312b47b8575c1e7ca7937) path("Assets/AmmoCounter.cs") state(2)
@@ -1864,6 +1870,7 @@ Script is not up to date after domain reload: guid(49fff12c7f5d6c64891198440e774
 Script is not up to date after domain reload: guid(e1e957d39ca70834f9212a1289b6a0d5) path("Packages/com.unity.timeline/Editor/Utilities/CustomTrackDrawerAttribute.cs") state(2)
 Script is not up to date after domain reload: guid(e9a32780b69dcdb438da3e3f43202f54) path("Packages/com.unity.ugui/Tests/Runtime/LayoutGroup/LayoutGroupArrangement.cs") state(2)
 Script is not up to date after domain reload: guid(de86b4ed8106fd84a8bc2f5d69798d53) path("Packages/com.unity.timeline/Editor/Actions/Menus/TimelineContextMenu.cs") state(2)
+Script is not up to date after domain reload: guid(67cde477176eb414584610cd0892e31d) path("Assets/laser.cs") state(2)
 Script is not up to date after domain reload: guid(4585b5feb801bdb44b0e5eafdd95a3be) path("Packages/com.unity.ugui/Tests/Editor/Canvas/CanvasWidthAssertionErrorWithRectTransform.cs") state(2)
 Script is not up to date after domain reload: guid(70b265ed18dc14041bedc0263d4578ef) path("Packages/com.unity.timeline/Editor/Signals/SignalReceiverInspector.cs") state(2)
 Script is not up to date after domain reload: guid(f244cfcc2f79c6f43b7f088d6b0cd58e) path("Packages/com.unity.collab-proxy/Editor/Components/ChangeListElements/BaseChangeListElement.cs") state(2)
@@ -2453,7 +2460,6 @@ Script is not up to date after domain reload: guid(f700f31b2e40d7f4bb69753fdbbbc
 Script is not up to date after domain reload: guid(8f8f74fe8e363da42875d9cab025d3b2) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/ICallbacksDelegator.cs") state(2)
 Script is not up to date after domain reload: guid(cc456ba93311a3a43ad896449fee9868) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRunner/Callbacks/EditModeRunnerCallback.cs") state(2)
 Script is not up to date after domain reload: guid(083c6a3a5426382449369ddc12b691d8) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/CommandLineTest/Executer.cs") state(2)
-Script is not up to date after domain reload: guid(9de5f4b8df2b1d949ab4739e23cea0db) path("Assets/SCRIPTS/scripts/LookAt1.cs") state(2)
 Script is not up to date after domain reload: guid(ac68f5ae37c8957468562b8da42f9984) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/EditModeLauncher.cs") state(2)
 Script is not up to date after domain reload: guid(afdd90e2c7bbe4c0dabd6b08ea3229e8) path("Packages/com.unity.ads/Runtime/Advertisement/Utilities/UnityLifecycleManager.cs") state(2)
 Script is not up to date after domain reload: guid(d061ada5d3169454daf54243390b5fdb) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/TestResultAdaptor.cs") state(2)
@@ -2488,11 +2494,13 @@ Script is not up to date after domain reload: guid(1116c8f7471936c498ab2c999c915
 Script is not up to date after domain reload: guid(dc99dfeec967f2644b25dd6bace59b7e) path("Packages/com.unity.timeline/Editor/treeview/TimelineClipUnion.cs") state(2)
 Script is not up to date after domain reload: guid(fd661411ada16794aa7015ddf3778407) path("Packages/com.unity.xr.legacyinputhelpers/Editor/ArmModels/ArmModelEditor.cs") state(2)
 Script is not up to date after domain reload: guid(6ad632cbcc87f634d9b86006cdffdaf5) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextParsingUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(81462656ab6db3c4a8fd78002a7d6ebb) path("Assets/Coroutine.cs") state(2)
 Script is not up to date after domain reload: guid(f42adf554c6bd4e43895f0261912d574) path("Packages/com.unity.ads/Runtime/Advertisement/Advertisement.cs") state(2)
 Script is not up to date after domain reload: guid(4b34c3b8e57e3294da0eb22fbf7250af) path("Assets/SCRIPTS/scripts/HealthController.cs") state(2)
 Script is not up to date after domain reload: guid(16548db454f7a3344b41ca2e5cdb52b2) path("Packages/com.unity.timeline/Editor/Window/TimelineWindow_Selection.cs") state(2)
 Script is not up to date after domain reload: guid(3c09dc5cd0a70cf40856b7d406106ee1) path("Packages/com.unity.timeline/Editor/Animation/BindingTreeViewDataSourceGUI.cs") state(2)
 Script is not up to date after domain reload: guid(ced1ff58c85b80a43afc170d3563244c) path("Assets/WeaponEnum.cs") state(2)
+Script is not up to date after domain reload: guid(11bee28ce5c17ac4796718e13f14bc96) path("Assets/InstanciateBullet.cs") state(2)
 Script is not up to date after domain reload: guid(a2a8aecb05814e644abbb070fbd91156) path("Packages/com.unity.timeline/Editor/Manipulators/Move/MoveItemModeMix.cs") state(2)
 Script is not up to date after domain reload: guid(5b2eeca598284bd4abb4a15c30df1576) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Assertions/UnexpectedLogMessageException.cs") state(2)
 Script is not up to date after domain reload: guid(5e249ae353801f043a6e4173410c6152) path("Packages/com.unity.ide.visualstudio/Editor/Messaging/Messenger.cs") state(2)
@@ -2588,6 +2596,7 @@ Script is not up to date after domain reload: guid(5653477a5039f674da8f856adcf47
 Script is not up to date after domain reload: guid(8bc74398aa3944646ade4ee78cd57484) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs") state(2)
 Script is not up to date after domain reload: guid(2c03ae9aa36a4fd44a983831f44654be) path("Packages/com.unity.timeline/Editor/treeview/ItemGui/TimelineMarkerClusterGUI.cs") state(2)
 Script is not up to date after domain reload: guid(0ebe55970036fb44d9996caaae44d242) path("Assets/SCRIPTS/scripts/AddScore.cs") state(2)
+Script is not up to date after domain reload: guid(7cfdb143e1694e742ba40408fc282e92) path("Assets/JMO Assets/Toony Colors/Editor/TCF_MaterialInspector.cs") state(2)
 Script is not up to date after domain reload: guid(e6323ebef616fee4486ee155cd56d191) path("Packages/com.unity.ugui/Tests/Runtime/EventSystem/GraphicRaycasterTests.cs") state(2)
 Script is not up to date after domain reload: guid(4825accaef6da41c287f05d3eddb6c41) path("Packages/com.unity.ads/Runtime/Advertisement/Utilities/MiniJSON.cs") state(2)
 Script is not up to date after domain reload: guid(65f3a4c67e4927a478b7036bae1da0e3) path("Packages/com.unity.timeline/Runtime/TimelineClip.cs") state(2)
@@ -2642,6 +2651,7 @@ Script is not up to date after domain reload: guid(d8c4a920f001ca64680ed6fdb52d1
 Script is not up to date after domain reload: guid(aa160f27c3fe4052a5850e21108811b6) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_InputFieldEditor.cs") state(2)
 Script is not up to date after domain reload: guid(89b48a03f6f43e94e87cc8d2104d3d4d) path("Packages/com.unity.timeline/Runtime/Events/Marker.cs") state(2)
 Script is not up to date after domain reload: guid(3b0c53b13a1539949b3b212e049151d1) path("Packages/com.unity.timeline/Runtime/AssetUpgrade/AnimationTrackUpgrade.cs") state(2)
+Script is not up to date after domain reload: guid(18c63a9718c329c4686cb043a1c54f4b) path("Assets/JMO Assets/Toony Colors/Demo 2.0/TCF_Demo.cs") state(2)
 Script is not up to date after domain reload: guid(e086b15460c228c4f9b116f0e3e2f175) path("Packages/com.unity.timeline/Editor/inspectors/BasicAssetInspector.cs") state(2)
 Script is not up to date after domain reload: guid(c9cb65dec35078943a603e10cec9af75) path("Assets/SCRIPTS/scripts/AI.cs") state(2)
 Script is not up to date after domain reload: guid(79625444e604a17488759196b88b8e62) path("Assets/SCRIPTS/scripts/CharacterMover.cs") state(2)
@@ -2902,39 +2912,23 @@ Script is not up to date after domain reload: guid(3c01b61b3a6887c49a15276fd38be
 Script is not up to date after domain reload: guid(9c8ceb9efacb4974bb3b7e2a87137b07) path("Packages/com.unity.timeline/Editor/inspectors/DirectorNamedColorInspector.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513ef38) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 12676, restarting
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 44648, restarting
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 32.1 MB.
-System memory in use after: 32.0 MB.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 35.7 MB.
+System memory in use after: 35.7 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 483.
-Total: 2.357700 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.006500 ms MarkObjects: 2.062200 ms  DeleteObjects: 0.110700 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/EnumHandlerBar.cs
-  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8d62ea8adfb63ce3611bf5f2ad6448') in 0.164240 seconds
-  Import took 0.175305 seconds .
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 2.583300 ms (FindLiveObjects: 0.200000 ms CreateObjectMapping: 0.007700 ms MarkObjects: 2.246000 ms  DeleteObjects: 0.128200 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 71.280966 seconds.
-  path: Assets/EnumHandlerBar.cs
-  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b8041e26e231d9837e4a33efa5d6be') in 0.002616 seconds
-  Import took 0.004997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007323 seconds.
-  path: Assets/EnumHandlerBar.cs
-  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b8041e26e231d9837e4a33efa5d6be') in 0.002917 seconds
-  Import took 0.004369 seconds .
+  path: Assets/oct17_8_17.unity
+  artifactKey: Guid(6ba15f166d5ee204b9b1ba88e2ae784a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/oct17_8_17.unity using Guid(6ba15f166d5ee204b9b1ba88e2ae784a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a13d77c3dc5937fdc1046813a7c6708') in 0.037998 seconds
+  Import took 0.040767 seconds .
 
 ========================================================================
 Received Prepare
@@ -2943,19 +2937,237 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002722 seconds.
+Registered in 0.001954 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 47.60 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 53.92 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.275 seconds
+- Completed reload, in  1.451 seconds
 Registering precompiled user dll's ...
-Registered in 0.110968 seconds.
+Registered in 0.143746 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1447 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.5 MB.
+System memory in use after: 74.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1917.
+Total: 2.447900 ms (FindLiveObjects: 0.443800 ms CreateObjectMapping: 0.077300 ms MarkObjects: 1.849200 ms  DeleteObjects: 0.076400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001875 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.629 seconds
+Registering precompiled user dll's ...
+Registered in 0.178750 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.161 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 46.1 MB.
+System memory in use after: 46.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1921.
+Total: 2.551300 ms (FindLiveObjects: 0.316200 ms CreateObjectMapping: 0.040300 ms MarkObjects: 2.107300 ms  DeleteObjects: 0.086000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001401 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 58.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.728 seconds
+Registering precompiled user dll's ...
+Registered in 0.129154 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.113 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 46.1 MB.
+System memory in use after: 46.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1925.
+Total: 5.008900 ms (FindLiveObjects: 0.516000 ms CreateObjectMapping: 0.129200 ms MarkObjects: 4.227200 ms  DeleteObjects: 0.134000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001321 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.594 seconds
+Registering precompiled user dll's ...
+Registered in 0.128369 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.134 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 46.2 MB.
+System memory in use after: 46.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1929.
+Total: 2.132500 ms (FindLiveObjects: 0.312600 ms CreateObjectMapping: 0.078900 ms MarkObjects: 1.642300 ms  DeleteObjects: 0.097400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.979524 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abe72a3dff27ca7263aeeeed108a913') in 0.177732 seconds
+  Import took 0.184546 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002017 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 55.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.866 seconds
+Registering precompiled user dll's ...
+Registered in 0.148461 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.3 MB.
+System memory in use after: 49.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1941.
+Total: 3.457000 ms (FindLiveObjects: 0.796900 ms CreateObjectMapping: 0.109300 ms MarkObjects: 2.478600 ms  DeleteObjects: 0.069500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001340 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 75.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.438 seconds
+Registering precompiled user dll's ...
+Registered in 0.182355 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
@@ -2967,16 +3179,24 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.979 seconds
+- Completed reload, in  1.318 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1442 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.1 MB.
-System memory in use after: 72.2 MB.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.4 MB.
+System memory in use after: 49.4 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1904.
-Total: 2.278800 ms (FindLiveObjects: 0.410000 ms CreateObjectMapping: 0.065600 ms MarkObjects: 1.688700 ms  DeleteObjects: 0.113500 ms)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1946.
+Total: 2.643800 ms (FindLiveObjects: 0.510800 ms CreateObjectMapping: 0.104300 ms MarkObjects: 1.880700 ms  DeleteObjects: 0.146100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 381.293164 seconds.
+  path: Assets/InstanciatePrefab2.cs
+  artifactKey: Guid(7a735425d11281a45af0953917044aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InstanciatePrefab2.cs using Guid(7a735425d11281a45af0953917044aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8faa29679352316e183cbd8316d89908') in 0.033609 seconds
+  Import took 0.039329 seconds .
 
 ========================================================================
 Received Prepare
@@ -2985,40 +3205,120 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001883 seconds.
+Registered in 0.001654 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 189.28 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 72.12 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.926 seconds
+- Completed reload, in  2.356 seconds
 Registering precompiled user dll's ...
-Registered in 0.127875 seconds.
+Registered in 0.168158 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.241 seconds
+- Completed reload, in  1.646 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 44.5 MB.
-System memory in use after: 44.6 MB.
+System memory in use before: 49.4 MB.
+System memory in use after: 49.4 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1908.
-Total: 2.664000 ms (FindLiveObjects: 0.346400 ms CreateObjectMapping: 0.079000 ms MarkObjects: 2.126000 ms  DeleteObjects: 0.111200 ms)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1950.
+Total: 2.179600 ms (FindLiveObjects: 0.379100 ms CreateObjectMapping: 0.077900 ms MarkObjects: 1.666500 ms  DeleteObjects: 0.055000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.926964 seconds.
+  path: Assets/Low-Poly Weapons
+  artifactKey: Guid(75638d2427390a54d9b2119a7ddd7b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low-Poly Weapons using Guid(75638d2427390a54d9b2119a7ddd7b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae33ac412476982e1d561d206ef00608') in 0.063204 seconds
+  Import took 0.070983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Fruits_Pack - 3D_Models/Meshes/FP_pineapple.FBX
+  artifactKey: Guid(acdd0fd9f9427464b8a0a1adea24dc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fruits_Pack - 3D_Models/Meshes/FP_pineapple.FBX using Guid(acdd0fd9f9427464b8a0a1adea24dc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea2577a15d04a17edaae98d18be000e') in 0.398550 seconds
+  Import took 0.404252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Fruits_Pack - 3D_Models/Prefabs/FP_apple_half.prefab
+  artifactKey: Guid(1c261736c0230ad49aad2c80df3d8168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fruits_Pack - 3D_Models/Prefabs/FP_apple_half.prefab using Guid(1c261736c0230ad49aad2c80df3d8168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49995f8907ff43ce60997d852de8b456') in 0.576057 seconds
+  Import took 0.580554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0862cc064df9fafcc12337d538049da') in 0.025662 seconds
+  Import took 0.030652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Fruits_Pack - 3D_Models/Meshes/FP_apple_half.FBX
+  artifactKey: Guid(6e9ef1837a44a8a43af125dc6bd51f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fruits_Pack - 3D_Models/Meshes/FP_apple_half.FBX using Guid(6e9ef1837a44a8a43af125dc6bd51f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '569ece6a9bdbc23ca98a163ca6661186') in 0.029380 seconds
+  Import took 0.035957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Fruits_Pack - 3D_Models/Prefabs/FP_pineapple.prefab
+  artifactKey: Guid(925cb6d2fb16bbb49a3bf6d2ac722e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fruits_Pack - 3D_Models/Prefabs/FP_pineapple.prefab using Guid(925cb6d2fb16bbb49a3bf6d2ac722e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ec0bfc960bcef36d9ce13965bf74f0') in 0.028273 seconds
+  Import took 0.033142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Fruits_Pack - 3D_Models/Meshes/FP_apple.FBX
+  artifactKey: Guid(4978f16742352e24dbc339cde19a3d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fruits_Pack - 3D_Models/Meshes/FP_apple.FBX using Guid(4978f16742352e24dbc339cde19a3d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe37f4217c04cabc07b2b5c5b31e4444') in 0.034537 seconds
+  Import took 0.041724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001179 seconds.
+  path: Assets/Low-Poly Weapons/Models/Materials
+  artifactKey: Guid(1e246a66a60994d37a13380d39124149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low-Poly Weapons/Models/Materials using Guid(1e246a66a60994d37a13380d39124149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fbffaa25967082dadde8c428e36da0') in 0.008478 seconds
+  Import took 0.015281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Fruits_Pack - 3D_Models/Prefabs/FP_apple.prefab
+  artifactKey: Guid(977bc03e54089ef45874db256471f61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fruits_Pack - 3D_Models/Prefabs/FP_apple.prefab using Guid(977bc03e54089ef45874db256471f61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ba46be93aa2b79a2d06174c35e354e') in 0.020305 seconds
+  Import took 0.025536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.148940 seconds.
+  path: Assets/SCRIPTS/scripts/Instancer2.cs
+  artifactKey: Guid(c4fe99118b8d74a499f1c087da3304c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SCRIPTS/scripts/Instancer2.cs using Guid(c4fe99118b8d74a499f1c087da3304c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a289dc29271c13c3757044306b7e0081') in 0.056052 seconds
+  Import took 0.065324 seconds .
 
 ========================================================================
 Received Prepare
@@ -3027,111 +3327,759 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001588 seconds.
+Registered in 0.001762 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 47.06 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 99.38 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.175 seconds
+- Completed reload, in  2.419 seconds
 Registering precompiled user dll's ...
-Registered in 0.126525 seconds.
+Registered in 0.143879 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.137 seconds
+- Completed reload, in  1.370 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.0 MB.
+System memory in use after: 50.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1960.
+Total: 3.175700 ms (FindLiveObjects: 0.351500 ms CreateObjectMapping: 0.085300 ms MarkObjects: 2.662800 ms  DeleteObjects: 0.073100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.906438 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2efe3b00ccc64f1c2c9dad8e844ffaf') in 0.116372 seconds
+  Import took 0.121582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.467059 seconds.
+  path: Assets/instancerBehavior.cs
+  artifactKey: Guid(73de15499c678dd4e937e3cc1fa4cfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/instancerBehavior.cs using Guid(73de15499c678dd4e937e3cc1fa4cfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4025aedf3d8d2668524b8bc164337d12') in 0.045275 seconds
+  Import took 0.052168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.319581 seconds.
+  path: Assets/instancerBehavior.cs
+  artifactKey: Guid(73de15499c678dd4e937e3cc1fa4cfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/instancerBehavior.cs using Guid(73de15499c678dd4e937e3cc1fa4cfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6045eb282c63deed50e270a4d56b3c7e') in 0.024208 seconds
+  Import took 0.045872 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002222 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.954 seconds
+Registering precompiled user dll's ...
+Registered in 0.141176 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.385 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 43.9 MB.
-System memory in use after: 44.0 MB.
+System memory in use before: 50.0 MB.
+System memory in use after: 50.1 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1912.
-Total: 2.581100 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.090200 ms MarkObjects: 2.032000 ms  DeleteObjects: 0.079000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 160.808597 seconds.
-  path: Assets/bar.asset
-  artifactKey: Guid(d4a05573d556b564383baaab23638b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bar.asset using Guid(d4a05573d556b564383baaab23638b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87c5977417bbb4987fd507dbcf3aee9') in 0.035270 seconds
-  Import took 0.038844 seconds .
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1965.
+Total: 2.511800 ms (FindLiveObjects: 0.348600 ms CreateObjectMapping: 0.065500 ms MarkObjects: 2.007100 ms  DeleteObjects: 0.089500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.239839 seconds.
-  path: Assets/bar 2.asset
-  artifactKey: Guid(e6d9faa4d03550341a3e22d20c48eeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bar 2.asset using Guid(e6d9faa4d03550341a3e22d20c48eeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c185d1d4ab24779bd585e31bd8165a') in 0.003630 seconds
-  Import took 0.008844 seconds .
+  Time since last request: 28.364252 seconds.
+  path: Assets/instancerBehavior.cs
+  artifactKey: Guid(73de15499c678dd4e937e3cc1fa4cfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/instancerBehavior.cs using Guid(73de15499c678dd4e937e3cc1fa4cfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84d1d4e3c36fa3304e0fc0c9356ec7c') in 0.053340 seconds
+  Import took 0.063988 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 41.847254 seconds.
-  path: Assets/beams
-  artifactKey: Guid(091de93d27caea646bad8c1fe0b2f365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/beams using Guid(091de93d27caea646bad8c1fe0b2f365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e972faccbb0f882bee9eb8b1329dde18') in 0.002518 seconds
-  Import took 0.007032 seconds .
+  Time since last request: 0.690030 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734f12d340f34c168b34cf65951f195e') in 0.073986 seconds
+  Import took 0.078871 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.682585 seconds.
-  path: Assets/beams/red beam Variant.prefab
-  artifactKey: Guid(0e3073b1246512c4d996b9f48447753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/beams/red beam Variant.prefab using Guid(0e3073b1246512c4d996b9f48447753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fd97d8ec5e18d61acc064ece9af6ad') in 0.147335 seconds
-  Import took 0.183890 seconds .
+  Time since last request: 18.219165 seconds.
+  path: Assets/bullet.asset
+  artifactKey: Guid(a7bc016d2db48f34e9beace76457638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bullet.asset using Guid(a7bc016d2db48f34e9beace76457638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f76ba6f055c8f6005fe146ae0bfb6a6') in 0.028976 seconds
+  Import took 0.034677 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.723964 seconds.
-  path: Assets/beams/green beam.prefab
-  artifactKey: Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/beams/green beam.prefab using Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded994ff02fb7711ada48bca1848d7e8') in 0.011823 seconds
-  Import took 0.016340 seconds .
+  Time since last request: 0.001327 seconds.
+  path: Assets/bullet.asset
+  artifactKey: Guid(a7bc016d2db48f34e9beace76457638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bullet.asset using Guid(a7bc016d2db48f34e9beace76457638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f76ba6f055c8f6005fe146ae0bfb6a6') in 0.029806 seconds
+  Import took 0.036302 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.805137 seconds.
-  path: Assets/beams/green beam Variant.prefab
-  artifactKey: Guid(cd2aa168d1ab4004dac7c98be877e95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/beams/green beam Variant.prefab using Guid(cd2aa168d1ab4004dac7c98be877e95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f0e60ab54c60280147c8b1f0d95d56') in 0.011006 seconds
-  Import took 0.028012 seconds .
+  Time since last request: 69.521732 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a109b5c60689f510c098d0b5e8b5f7b') in 0.045240 seconds
+  Import took 0.052320 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.851243 seconds.
-  path: Assets/beams/green beam.prefab
-  artifactKey: Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/beams/green beam.prefab using Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31338df7649f743cdfb6b6afe64b5b9a') in 0.031392 seconds
-  Import took 0.044940 seconds .
+  Time since last request: 0.005607 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a109b5c60689f510c098d0b5e8b5f7b') in 0.028701 seconds
+  Import took 0.037340 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001847 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 69.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.133 seconds
+Registering precompiled user dll's ...
+Registered in 0.151056 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.582 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.0 MB.
+System memory in use after: 50.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1970.
+Total: 2.134100 ms (FindLiveObjects: 0.407800 ms CreateObjectMapping: 0.084400 ms MarkObjects: 1.585500 ms  DeleteObjects: 0.054600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 54.144511 seconds.
-  path: Assets/beams/invisible beam Variant.prefab
-  artifactKey: Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/beams/invisible beam Variant.prefab using Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bac5ad0d0b63b90e1e1e4c586805ad5') in 0.008182 seconds
-  Import took 0.013116 seconds .
+  Time since last request: 87.389480 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f13f2c31b246652f93320be7146a86') in 0.064403 seconds
+  Import took 0.068860 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001561 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 73.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.033 seconds
+Registering precompiled user dll's ...
+Registered in 0.131181 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.0 MB.
+System memory in use after: 50.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1975.
+Total: 2.842600 ms (FindLiveObjects: 0.443300 ms CreateObjectMapping: 0.083700 ms MarkObjects: 2.239100 ms  DeleteObjects: 0.075000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000847 seconds.
-  path: Assets/beams/invisible beam Variant.prefab
-  artifactKey: Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/beams/invisible beam Variant.prefab using Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bac5ad0d0b63b90e1e1e4c586805ad5') in 0.004470 seconds
-  Import took 0.008062 seconds .
+  Time since last request: 56.228445 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae7121192f10bbc1bbd4fc3b657f9ac') in 0.086232 seconds
+  Import took 0.092321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.801338 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02639c3316311d07ab14514f5912566') in 0.049783 seconds
+  Import took 0.060613 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002186 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 93.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.957 seconds
+Registering precompiled user dll's ...
+Registered in 0.211477 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.213 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.0 MB.
+System memory in use after: 50.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 3.188600 ms (FindLiveObjects: 0.477900 ms CreateObjectMapping: 0.113400 ms MarkObjects: 2.497700 ms  DeleteObjects: 0.097800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 804.037289 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98445936c03b717e3495d52a4b0c4c71') in 0.105548 seconds
+  Import took 0.110809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.387967 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff0ab21c3c922b65fb273bc174d2ff6') in 0.083366 seconds
+  Import took 0.090856 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001695 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 56.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.614 seconds
+Registering precompiled user dll's ...
+Registered in 0.214258 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.284 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1985.
+Total: 2.720500 ms (FindLiveObjects: 0.393300 ms CreateObjectMapping: 0.076300 ms MarkObjects: 2.174800 ms  DeleteObjects: 0.074300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.179578 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30df98d78f169d462362ee7405923cf') in 0.125878 seconds
+  Import took 0.141604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.447356 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3456a5eb1e61702da66ed8171390ea75') in 0.033843 seconds
+  Import took 0.039390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.876850 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f98cdd796e3e9db8ea46e3c5732aba55') in 0.061389 seconds
+  Import took 0.071735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.826467 seconds.
+  path: Assets/PREFABS/bullet.prefab
+  artifactKey: Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/bullet.prefab using Guid(e8b46d80851d11c46bd8c100657d7b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c59aed5186e3853dd9032bc2370d4e3') in 0.026817 seconds
+  Import took 0.038404 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001691 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.270 seconds
+Registering precompiled user dll's ...
+Registered in 0.188199 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.279 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 2.553200 ms (FindLiveObjects: 0.371100 ms CreateObjectMapping: 0.075800 ms MarkObjects: 2.032200 ms  DeleteObjects: 0.072900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.468876 seconds.
+  path: Assets/DestroyBullets.cs
+  artifactKey: Guid(1e4a9a887726f9545a45ef309948b921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DestroyBullets.cs using Guid(1e4a9a887726f9545a45ef309948b921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13540630694311c79f8f63aca523dffb') in 0.033001 seconds
+  Import took 0.038334 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002680 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 292.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.319 seconds
+Registering precompiled user dll's ...
+Registered in 0.150031 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1994.
+Total: 2.223000 ms (FindLiveObjects: 0.423700 ms CreateObjectMapping: 0.117400 ms MarkObjects: 1.615100 ms  DeleteObjects: 0.065000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002188 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.696 seconds
+Registering precompiled user dll's ...
+Registered in 0.154692 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.844 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1999.
+Total: 3.027600 ms (FindLiveObjects: 0.441600 ms CreateObjectMapping: 0.096000 ms MarkObjects: 2.385000 ms  DeleteObjects: 0.103400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.979287 seconds.
+  path: Assets/PREFABS/CharacterBehavior.cs
+  artifactKey: Guid(55002e80b69eded4893d80ea0f8b01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/CharacterBehavior.cs using Guid(55002e80b69eded4893d80ea0f8b01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f91d33f3f1ef676d15eaec36b182a2') in 0.035009 seconds
+  Import took 0.043034 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002264 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.397 seconds
+Registering precompiled user dll's ...
+Registered in 0.130194 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.809 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 2.811900 ms (FindLiveObjects: 0.445700 ms CreateObjectMapping: 0.075400 ms MarkObjects: 2.175500 ms  DeleteObjects: 0.111200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.285403 seconds.
+  path: Assets/PREFABS/CharacterBehavior.cs
+  artifactKey: Guid(55002e80b69eded4893d80ea0f8b01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/CharacterBehavior.cs using Guid(55002e80b69eded4893d80ea0f8b01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6beec2c341a10119901d5d45bf3a1b80') in 0.024804 seconds
+  Import took 0.035841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.094679 seconds.
+  path: Assets/PREFABS/CharacterBehaviour.cs
+  artifactKey: Guid(55002e80b69eded4893d80ea0f8b01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PREFABS/CharacterBehaviour.cs using Guid(55002e80b69eded4893d80ea0f8b01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4f436e73f632511f2c6e4dcbb1c56c') in 0.011550 seconds
+  Import took 0.017213 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006031 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 85.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.758 seconds
+Registering precompiled user dll's ...
+Registered in 0.147140 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 2.886100 ms (FindLiveObjects: 0.504600 ms CreateObjectMapping: 0.116300 ms MarkObjects: 2.165300 ms  DeleteObjects: 0.097700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.000015 seconds.
+  path: Assets/normal speed.asset
+  artifactKey: Guid(3204c420d66374244991442cc24e7bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/normal speed.asset using Guid(3204c420d66374244991442cc24e7bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52bb63500a2b25adf1daf0e9d609f6ce') in 0.062833 seconds
+  Import took 0.069565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.622050 seconds.
+  path: Assets/Faster Speed.asset
+  artifactKey: Guid(3eac33f894ebcbf43a2df0131f4ea59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Faster Speed.asset using Guid(3eac33f894ebcbf43a2df0131f4ea59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf28056caa274ff52811e8c23389aff9') in 0.022344 seconds
+  Import took 0.028117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005522 seconds.
+  path: Assets/Faster Speed.asset
+  artifactKey: Guid(3eac33f894ebcbf43a2df0131f4ea59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Faster Speed.asset using Guid(3eac33f894ebcbf43a2df0131f4ea59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf28056caa274ff52811e8c23389aff9') in 0.021057 seconds
+  Import took 0.026889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.093246 seconds.
+  path: Assets/Player Jump Count.asset
+  artifactKey: Guid(5c9dc83aa9af37840b07c9b88566a537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player Jump Count.asset using Guid(5c9dc83aa9af37840b07c9b88566a537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60f81581fc7a649f02afde52ddfa635') in 0.022350 seconds
+  Import took 0.027892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006618 seconds.
+  path: Assets/Player Jump Count.asset
+  artifactKey: Guid(5c9dc83aa9af37840b07c9b88566a537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player Jump Count.asset using Guid(5c9dc83aa9af37840b07c9b88566a537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60f81581fc7a649f02afde52ddfa635') in 0.026161 seconds
+  Import took 0.034316 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001483 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 55.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.225 seconds
+Registering precompiled user dll's ...
+Registered in 0.151374 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.849 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2011.
+Total: 2.460400 ms (FindLiveObjects: 0.350900 ms CreateObjectMapping: 0.065400 ms MarkObjects: 1.947700 ms  DeleteObjects: 0.095000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002787 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.331 seconds
+Registering precompiled user dll's ...
+Registered in 0.169105 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.453 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.1 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2015.
+Total: 2.489900 ms (FindLiveObjects: 0.402600 ms CreateObjectMapping: 0.092200 ms MarkObjects: 1.934000 ms  DeleteObjects: 0.060000 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

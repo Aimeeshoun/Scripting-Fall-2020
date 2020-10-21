@@ -80,10 +80,12 @@
     <Compile Include="Assets\SCRIPTS\scripts\IntData1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Spawn1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\MoveLocate.cs" />
+    <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\AmmoCounter.cs" />
     <Compile Include="Assets\SCRIPTS\Lerp.cs" />
     <Compile Include="Assets\DeathCoroutine.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\GameAction.cs" />
+    <Compile Include="Assets\laser.cs" />
     <Compile Include="Assets\EnumHandler.cs" />
     <Compile Include="Assets\Score1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\MovementJump2.cs" />
@@ -139,8 +141,10 @@
     <Compile Include="Assets\SCRIPTS\scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\InstanciatePrefab.cs" />
     <Compile Include="Assets\Premator.cs" />
+    <Compile Include="Assets\Coroutine.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\HealthController.cs" />
     <Compile Include="Assets\WeaponEnum.cs" />
+    <Compile Include="Assets\InstanciateBullet.cs" />
     <Compile Include="Assets\PlayerData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\UIImageController.cs" />
     <Compile Include="Assets\MyFloatData.cs" />
@@ -156,6 +160,7 @@
     <Compile Include="Assets\Particles.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\WheelController.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\ChestDemo.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors\Demo 2.0\TCF_Demo.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\AI.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\CharacterMover.cs" />
     <Compile Include="Assets\WhileLoop.cs" />
@@ -172,9 +177,18 @@
     <Compile Include="Assets\CoinPickUp.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
-    <Compile Include="Assets\laser.cs" />
+    <Compile Include="Assets\InstanciatePrefab2.cs" />
+    <Compile Include="Assets\instancerBehavior.cs" />
+    <Compile Include="Assets\PREFABS\CharacterBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
+     <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Alpha.shader" />
+     <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Regular.shader" />
+     <None Include="Assets\FreeLabAssets\Shaders\SBS_Mana.shader" />
+     <None Include="Assets\JMO Assets\Toony Colors\!ToonyColors Readme.txt" />
+     <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Outline.shader" />
+     <None Include="Assets\Five Seamless Tileable Ground Textures\read me.txt" />
      <None Include="Assets\DOWNLOAD\AurynSky\Forest Pack\READ ME.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

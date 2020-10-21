@@ -15,9 +15,11 @@ public class MoveLocate : MonoBehaviour
     private void OnMouseDown()
     {
         if (Physics.Raycast(myCamera.ScreenPointToRay(Input.mousePosition), out var hit, 100))
-        {
-            objectPoint.position = hit.point;
-        }
-
+           {
+              objectPoint.position = hit.point;
+         }
+     //   var location  = myCamera.ScreenPointToRay(Input.mousePosition);
+     //   print(myCamera.ScreenToViewportPoint(Input.mousePosition));
+        //pointObj.position = location;
     }
 }

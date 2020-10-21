@@ -10,7 +10,7 @@ public class DestroyBullets : MonoBehaviour
   
     void Start()
     {
-        while (NumofBullets > 10)
+        while (NumofBullets > 30)
         {
             Destroy(bullets.gameObject);
         }

@@ -10,10 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 542287436384735792}
   - component: {fileID: 7972509276823813671}
-  - component: {fileID: 3238321111774555376}
+  - component: {fileID: 296977428535252718}
+  - component: {fileID: 4192576998216653820}
   - component: {fileID: 5052825403261941775}
   - component: {fileID: 2864865818039531857}
   - component: {fileID: 2117558232200690061}
+  - component: {fileID: 716895396994280571}
   m_Layer: 0
   m_Name: bullet
   m_TagString: Untagged
@@ -43,7 +45,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8280119657481853137}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &3238321111774555376
+--- !u!114 &296977428535252718
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -52,10 +54,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 8280119657481853137}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7080556b92b8ab44aa290b2b20c691e2, type: 3}
+  m_Script: {fileID: 11500000, guid: 73de15499c678dd4e937e3cc1fa4cfa2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myforce: 100
+  prefab: {fileID: 8280119657481853137}
+  rotationDirection: {fileID: 11400000, guid: a7bc016d2db48f34e9beace76457638b, type: 2}
+--- !u!114 &4192576998216653820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8280119657481853137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c3df3cc0c224bd44b0c4c700aca1448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theBullets: {fileID: 8280119657481853137}
+  NumberofBullets: 30
 --- !u!23 &5052825403261941775
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -126,3 +143,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &716895396994280571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8280119657481853137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e4a9a887726f9545a45ef309948b921, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullets: {fileID: 8280119657481853137}
+  NumofBullets: 30

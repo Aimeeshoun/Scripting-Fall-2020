@@ -4,7 +4,7 @@ public class LookAt4 : MonoBehaviour
 {
 
     public Transform lookObj;
-    public void OnLook(Vector3data obj)
+    public void Update()
     {
         // Transform transform1;
         //(transform1 = transform).LookAt(obj.value);
@@ -12,9 +12,10 @@ public class LookAt4 : MonoBehaviour
         //transformRotation.x = 0;
         // transformRotation.y -= 90;
         // transform.rotation = Quaternion.Euler(transformRotation);
+        
         transform.LookAt(lookObj);
         var transformRotation = transform.eulerAngles;
         transformRotation.x = 0;
-            transform.rotation = Quaternion.Euler(transformRotation);
+        transform.rotation = Quaternion.Euler(transformRotation);
     }
 }

@@ -15,11 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53280
+51399
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Game 2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 27.96 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 21.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -31,40 +31,39 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001552 seconds.
+Registered in 0.001209 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 23.05 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 19.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.567 seconds
+- Completed reload, in  1.189 seconds
 Registering precompiled user dll's ...
-Registered in 0.071628 seconds.
+Registered in 0.055716 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Game 2\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.981 seconds
+- Completed reload, in  0.708 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(01df650e1b86e9f4a8e2b5dc9782506f) path("Packages/com.unity.ugui/Tests/Runtime/NestedLayout/SceneWithNestedLayoutElementsLoads.cs") state(2)
 Script is not up to date after domain reload: guid(5503f95d174761548a68a901beab13c2) path("Packages/com.unity.timeline/Editor/Window/Modes/TimelineInactiveMode.cs") state(2)
@@ -2234,30 +2233,38 @@ Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513e
 Script is not up to date after domain reload: guid(bea62e1faac8f9a48a4cb919ea05cb6a) path("Packages/com.unity.timeline/Editor/treeview/Drawers/Layers/MarkersLayer.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(02893ffb522b490a9fa28eedd2584309) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_TextContainerEditor.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 37924, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 15856, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 28.2 MB.
-System memory in use after: 28.2 MB.
+System memory in use after: 28.1 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 474.
-Total: 2.093100 ms (FindLiveObjects: 0.264800 ms CreateObjectMapping: 0.008600 ms MarkObjects: 1.727300 ms  DeleteObjects: 0.090800 ms)
+Total: 2.134100 ms (FindLiveObjects: 0.169000 ms CreateObjectMapping: 0.006100 ms MarkObjects: 1.852500 ms  DeleteObjects: 0.105800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/sept3rdScore.unity
-  artifactKey: Guid(42c6a2c82207d094f882e2148288fe47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sept3rdScore.unity using Guid(42c6a2c82207d094f882e2148288fe47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599f5873cb0a9c8bc9126dcdb663af14') in 0.022557 seconds
-  Import took 0.034647 seconds .
+  path: Assets/aug29thindata.unity
+  artifactKey: Guid(100b35549dd491243a57074d3ea74011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug29thindata.unity using Guid(100b35549dd491243a57074d3ea74011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a77096a41bd8ef97289dac59a9c2ba5') in 0.010342 seconds
+  Import took 0.011148 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 21.999734 seconds.
-  path: Assets/sept2movementexperiment.unity
-  artifactKey: Guid(f79bc50b9e2b284409309e7cf97d9183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sept2movementexperiment.unity using Guid(f79bc50b9e2b284409309e7cf97d9183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ed8d40f008f0009d18358df96516be') in 0.018026 seconds
-  Import took 0.055687 seconds .
+  Time since last request: 17.378344 seconds.
+  path: Assets/aug27.unity
+  artifactKey: Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug27.unity using Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5b6958dc60169ee2775f1a73a41a02') in 0.003112 seconds
+  Import took 0.004424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002794 seconds.
+  path: Assets/aug27.unity
+  artifactKey: Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aug27.unity using Guid(8c27a059349d6f14b87834b5a2bfc499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5b6958dc60169ee2775f1a73a41a02') in 0.002993 seconds
+  Import took 0.004972 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

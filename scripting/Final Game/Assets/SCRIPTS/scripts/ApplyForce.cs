@@ -10,7 +10,9 @@ public class ApplyForce : MonoBehaviour
     void Start()
     {
         rbody = GetComponent<Rigidbody>();
-        var forceDirection = new Vector3(force, 0, 0);
+        var forceDirection = new Vector3(0, force, 0);
+        rbody.AddRelativeForce(forceDirection);
+
     }
 
 
