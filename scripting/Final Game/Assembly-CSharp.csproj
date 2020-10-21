@@ -139,7 +139,6 @@
     <Compile Include="Assets\SCRIPTS\scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\InstanciatePrefab.cs" />
     <Compile Include="Assets\Premator.cs" />
-    <Compile Include="Assets\SCRIPTS\scripts\LookAt1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\HealthController.cs" />
     <Compile Include="Assets\WeaponEnum.cs" />
     <Compile Include="Assets\PlayerData.cs" />
@@ -173,6 +172,7 @@
     <Compile Include="Assets\CoinPickUp.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
+    <Compile Include="Assets\laser.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\DOWNLOAD\AurynSky\Forest Pack\READ ME.txt" />

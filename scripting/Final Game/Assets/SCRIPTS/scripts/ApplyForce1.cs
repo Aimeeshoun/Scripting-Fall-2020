@@ -10,10 +10,10 @@ public class ApplyForce1 : MonoBehaviour
 
 
     void Start()
-    {
-        var forceDirection = new Vector3(myforce, 0, 0);
-        myRBody = GetComponent<Rigidbody>();
-        myRBody.AddRelativeForce(forceDirection);
+    { 
+        Rigidbody p = Instantiate(myRBody, transform.position, transform.rotation);
+        p.velocity = transform.forward * myforce;
+
 
 
     }

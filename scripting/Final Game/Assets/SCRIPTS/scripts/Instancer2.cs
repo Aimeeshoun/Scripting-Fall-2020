@@ -13,7 +13,7 @@ public class Instancer2 : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.RightShift))
         {
             var location = transform.position;
-            var rotationDirection = new Vector3(0f, 25f, 0f);
+            var rotationDirection = new Vector3(0f, 0f, 0f);
             Instantiate(prefab, location, Quaternion.identity);
         }
     }

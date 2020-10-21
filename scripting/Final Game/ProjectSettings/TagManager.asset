@@ -9,6 +9,7 @@ TagManager:
   - weapon1
   - weapon2
   - weapon3
+  - redbullet
   layers:
   - Default
   - TransparentFX

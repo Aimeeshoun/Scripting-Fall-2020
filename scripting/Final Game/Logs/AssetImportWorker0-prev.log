@@ -15,11 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55047
+53530
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 51.40 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 67.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -31,40 +31,40 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001551 seconds.
+Registered in 0.001613 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 38.81 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 44.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.747 seconds
+- Completed reload, in  1.631 seconds
 Registering precompiled user dll's ...
-Registered in 0.115853 seconds.
+Registered in 0.114423 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.945 seconds
+- Completed reload, in  0.965 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(3411e19edd44cfd46b548b058c3bc36c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs") state(2)
 Script is not up to date after domain reload: guid(73deb9b8722aa284eab27c4dc90956c6) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs") state(2)
@@ -335,6 +335,7 @@ Script is not up to date after domain reload: guid(1ec4b8ec4b34f4344bac53c19288e
 Script is not up to date after domain reload: guid(342d9ef4da0a19b49877f576c2deec14) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRun/Tasks/TestTaskBase.cs") state(2)
 Script is not up to date after domain reload: guid(e79658349ea684b40a48780d33ff6024) path("Packages/com.unity.2d.sprite/Editor/SpriteEditorModule/SpriteFrameModule/SpritePolygonModeModule.cs") state(2)
 Script is not up to date after domain reload: guid(898bc38486fc899428fbe5bd6adfe473) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/Messages/IEditModeTestYieldInstruction.cs") state(2)
+Script is not up to date after domain reload: guid(6fab4fb70edd9df46842fa8dfc677451) path("Assets/BarDataObject.cs") state(2)
 Script is not up to date after domain reload: guid(27769e9b00b038d47aefe306a4d20bec) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/GUI/TestListTreeView/Icons.cs") state(2)
 Script is not up to date after domain reload: guid(667a99762bdf5484fbaa02573fd396e2) path("Packages/com.unity.timeline/Runtime/ClipCaps.cs") state(2)
 Script is not up to date after domain reload: guid(102e512f651ee834f951a2516c1ea3b8) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/PlaymodeTestsController.cs") state(2)
@@ -606,6 +607,7 @@ Script is not up to date after domain reload: guid(b9d121df8c444236a5b38ccfadfdd
 Script is not up to date after domain reload: guid(ca819640f53b48919bf7774744f7f15e) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SelectionCaret.cs") state(2)
 Script is not up to date after domain reload: guid(9e9013c2188594044bd7c651ad8c9bf3) path("Packages/com.unity.collab-proxy/Editor/Common/ScriptableObjectSingleton.cs") state(2)
 Script is not up to date after domain reload: guid(d6105bc8cf5ce544487daca4cbc62583) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/ColorEqualityComparer.cs") state(2)
+Script is not up to date after domain reload: guid(71a1250f686e3014d8a03aca5a42dbe2) path("Assets/EnumHandlerBar.cs") state(2)
 Script is not up to date after domain reload: guid(3371106faf8d06f47a73979a3c8d82a1) path("Packages/com.unity.ugui/Tests/Runtime/InputField/InputFieldTests.cs") state(2)
 Script is not up to date after domain reload: guid(c27224849b8648b991691de4f0c90456) path("Packages/com.unity.collab-proxy/Tests/Editor/Presenters/MainPresenterTests.cs") state(2)
 Script is not up to date after domain reload: guid(d199490a83bb2b844b9695cbf13b01ef) path("Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs") state(2)
@@ -1752,6 +1754,7 @@ Script is not up to date after domain reload: guid(1ec4b8ec4b34f4344bac53c19288e
 Script is not up to date after domain reload: guid(342d9ef4da0a19b49877f576c2deec14) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRun/Tasks/TestTaskBase.cs") state(2)
 Script is not up to date after domain reload: guid(e79658349ea684b40a48780d33ff6024) path("Packages/com.unity.2d.sprite/Editor/SpriteEditorModule/SpriteFrameModule/SpritePolygonModeModule.cs") state(2)
 Script is not up to date after domain reload: guid(898bc38486fc899428fbe5bd6adfe473) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/Messages/IEditModeTestYieldInstruction.cs") state(2)
+Script is not up to date after domain reload: guid(6fab4fb70edd9df46842fa8dfc677451) path("Assets/BarDataObject.cs") state(2)
 Script is not up to date after domain reload: guid(27769e9b00b038d47aefe306a4d20bec) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/GUI/TestListTreeView/Icons.cs") state(2)
 Script is not up to date after domain reload: guid(667a99762bdf5484fbaa02573fd396e2) path("Packages/com.unity.timeline/Runtime/ClipCaps.cs") state(2)
 Script is not up to date after domain reload: guid(102e512f651ee834f951a2516c1ea3b8) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/PlaymodeTestsController.cs") state(2)
@@ -2023,6 +2026,7 @@ Script is not up to date after domain reload: guid(b9d121df8c444236a5b38ccfadfdd
 Script is not up to date after domain reload: guid(ca819640f53b48919bf7774744f7f15e) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SelectionCaret.cs") state(2)
 Script is not up to date after domain reload: guid(9e9013c2188594044bd7c651ad8c9bf3) path("Packages/com.unity.collab-proxy/Editor/Common/ScriptableObjectSingleton.cs") state(2)
 Script is not up to date after domain reload: guid(d6105bc8cf5ce544487daca4cbc62583) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/ColorEqualityComparer.cs") state(2)
+Script is not up to date after domain reload: guid(71a1250f686e3014d8a03aca5a42dbe2) path("Assets/EnumHandlerBar.cs") state(2)
 Script is not up to date after domain reload: guid(3371106faf8d06f47a73979a3c8d82a1) path("Packages/com.unity.ugui/Tests/Runtime/InputField/InputFieldTests.cs") state(2)
 Script is not up to date after domain reload: guid(c27224849b8648b991691de4f0c90456) path("Packages/com.unity.collab-proxy/Tests/Editor/Presenters/MainPresenterTests.cs") state(2)
 Script is not up to date after domain reload: guid(d199490a83bb2b844b9695cbf13b01ef) path("Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs") state(2)
@@ -2898,71 +2902,39 @@ Script is not up to date after domain reload: guid(3c01b61b3a6887c49a15276fd38be
 Script is not up to date after domain reload: guid(9c8ceb9efacb4974bb3b7e2a87137b07) path("Packages/com.unity.timeline/Editor/inspectors/DirectorNamedColorInspector.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513ef38) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 3092, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 12676, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 32.1 MB.
 System memory in use after: 32.0 MB.
 
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 483.
-Total: 2.118400 ms (FindLiveObjects: 0.163900 ms CreateObjectMapping: 0.016400 ms MarkObjects: 1.845300 ms  DeleteObjects: 0.091800 ms)
+Total: 2.357700 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.006500 ms MarkObjects: 2.062200 ms  DeleteObjects: 0.110700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Weapon Switch.cs
-  artifactKey: Guid(5b9fc8881b7ebd043ab6476aa9b6a491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Weapon Switch.cs using Guid(5b9fc8881b7ebd043ab6476aa9b6a491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ece364f2c850a9b853490ef0c5949b4') in 0.079733 seconds
-  Import took 0.081583 seconds .
+  path: Assets/EnumHandlerBar.cs
+  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8d62ea8adfb63ce3611bf5f2ad6448') in 0.164240 seconds
+  Import took 0.175305 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 155.474123 seconds.
-  path: Assets/scriptable objects/jump count.asset
-  artifactKey: Guid(fc6a7a38644535843a82e4f5c62c663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scriptable objects/jump count.asset using Guid(fc6a7a38644535843a82e4f5c62c663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6393ccfecf54a1d39295a6225fac01e5') in 0.023622 seconds
-  Import took 0.026887 seconds .
+  Time since last request: 71.280966 seconds.
+  path: Assets/EnumHandlerBar.cs
+  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b8041e26e231d9837e4a33efa5d6be') in 0.002616 seconds
+  Import took 0.004997 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.414494 seconds.
-  path: Assets/scriptable objects/JumpCountMax.asset
-  artifactKey: Guid(84c7940b0bc0f244dbfa88c42812f50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scriptable objects/JumpCountMax.asset using Guid(84c7940b0bc0f244dbfa88c42812f50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea67c7dffaabae21e75f50d55f978cf2') in 0.004092 seconds
-  Import took 0.005518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.458418 seconds.
-  path: Assets/scriptable objects/normal speed.asset
-  artifactKey: Guid(d3b28fe32f4219b41988b67c22bb0ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/scriptable objects/normal speed.asset using Guid(d3b28fe32f4219b41988b67c22bb0ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ffc9b4dc28bf64bae0a7d59fa69e92') in 0.003752 seconds
-  Import took 0.005374 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 231.194873 seconds.
-  path: Assets/SCRIPTS/MeshBehavior.cs
-  artifactKey: Guid(e41fb243b0057bb4b8585be09a570ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/MeshBehavior.cs using Guid(e41fb243b0057bb4b8585be09a570ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b77c1fd847df2724b789e68f7137c3b7') in 0.003183 seconds
-  Import took 0.004876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002119 seconds.
-  path: Assets/SCRIPTS/MeshBehavior.cs
-  artifactKey: Guid(e41fb243b0057bb4b8585be09a570ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/MeshBehavior.cs using Guid(e41fb243b0057bb4b8585be09a570ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b77c1fd847df2724b789e68f7137c3b7') in 0.003484 seconds
-  Import took 0.004931 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.109845 seconds.
-  path: Assets/OCT 18 2020.unity
-  artifactKey: Guid(3c52990cb03b0c647b6e2eb5f9d50a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OCT 18 2020.unity using Guid(3c52990cb03b0c647b6e2eb5f9d50a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe0cb1c4e2f78bb5c77bb22215ad6b5') in 0.013695 seconds
-  Import took 0.015450 seconds .
+  Time since last request: 0.007323 seconds.
+  path: Assets/EnumHandlerBar.cs
+  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b8041e26e231d9837e4a33efa5d6be') in 0.002917 seconds
+  Import took 0.004369 seconds .
 
 ========================================================================
 Received Prepare
@@ -2971,455 +2943,195 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001332 seconds.
+Registered in 0.002722 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 48.94 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 47.60 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.027 seconds
+- Completed reload, in  1.275 seconds
 Registering precompiled user dll's ...
-Registered in 0.122380 seconds.
+Registered in 0.110968 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.021 seconds
+- Completed reload, in  0.979 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1442 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 72.1 MB.
-System memory in use after: 72.1 MB.
+System memory in use after: 72.2 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1903.
-Total: 2.364300 ms (FindLiveObjects: 0.475900 ms CreateObjectMapping: 0.096400 ms MarkObjects: 1.692500 ms  DeleteObjects: 0.098400 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1904.
+Total: 2.278800 ms (FindLiveObjects: 0.410000 ms CreateObjectMapping: 0.065600 ms MarkObjects: 1.688700 ms  DeleteObjects: 0.113500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001883 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 189.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.926 seconds
+Registering precompiled user dll's ...
+Registered in 0.127875 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.241 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 44.5 MB.
+System memory in use after: 44.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1908.
+Total: 2.664000 ms (FindLiveObjects: 0.346400 ms CreateObjectMapping: 0.079000 ms MarkObjects: 2.126000 ms  DeleteObjects: 0.111200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001588 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.175 seconds
+Registering precompiled user dll's ...
+Registered in 0.126525 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.137 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.9 MB.
+System memory in use after: 44.0 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1912.
+Total: 2.581100 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.090200 ms MarkObjects: 2.032000 ms  DeleteObjects: 0.079000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 57.624657 seconds.
-  path: Assets/EnumHandlerBar.cs
-  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf030852776e7fded68e63c17ba54da1') in 0.005929 seconds
-  Import took 0.011172 seconds .
+  Time since last request: 160.808597 seconds.
+  path: Assets/bar.asset
+  artifactKey: Guid(d4a05573d556b564383baaab23638b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bar.asset using Guid(d4a05573d556b564383baaab23638b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87c5977417bbb4987fd507dbcf3aee9') in 0.035270 seconds
+  Import took 0.038844 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 602.084958 seconds.
-  path: Assets/EnumHandlerBar.cs
-  artifactKey: Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EnumHandlerBar.cs using Guid(71a1250f686e3014d8a03aca5a42dbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b84fa8b16d79d4b7a08f129db7e400') in 0.012547 seconds
-  Import took 0.025464 seconds .
+  Time since last request: 12.239839 seconds.
+  path: Assets/bar 2.asset
+  artifactKey: Guid(e6d9faa4d03550341a3e22d20c48eeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bar 2.asset using Guid(e6d9faa4d03550341a3e22d20c48eeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c185d1d4ab24779bd585e31bd8165a') in 0.003630 seconds
+  Import took 0.008844 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 33.068967 seconds.
-  path: Assets/New Player Data.asset
-  artifactKey: Guid(672d014bcc1b4f14990a3cf50209d365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Player Data.asset using Guid(672d014bcc1b4f14990a3cf50209d365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd7e0c75d5b47338fe2297238b52980') in 0.019376 seconds
-  Import took 0.023775 seconds .
+  Time since last request: 41.847254 seconds.
+  path: Assets/beams
+  artifactKey: Guid(091de93d27caea646bad8c1fe0b2f365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beams using Guid(091de93d27caea646bad8c1fe0b2f365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e972faccbb0f882bee9eb8b1329dde18') in 0.002518 seconds
+  Import took 0.007032 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 35.857069 seconds.
-  path: Assets/DOWNLOAD/Ball Pack
-  artifactKey: Guid(3081dc5fcda3e2946a94d54f45304af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Ball Pack using Guid(3081dc5fcda3e2946a94d54f45304af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126fa74dcb54abba0becbf6594020bff') in 0.003236 seconds
-  Import took 0.007960 seconds .
+  Time since last request: 6.682585 seconds.
+  path: Assets/beams/red beam Variant.prefab
+  artifactKey: Guid(0e3073b1246512c4d996b9f48447753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beams/red beam Variant.prefab using Guid(0e3073b1246512c4d996b9f48447753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fd97d8ec5e18d61acc064ece9af6ad') in 0.147335 seconds
+  Import took 0.183890 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000370 seconds.
-  path: Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/Sliced/banana_cut_part1.png
-  artifactKey: Guid(7b62eb7b2e61bed428009279997002a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/Sliced/banana_cut_part1.png using Guid(7b62eb7b2e61bed428009279997002a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f15236f02fde1b450079064948bd25e') in 0.216501 seconds
-  Import took 0.220193 seconds .
+  Time since last request: 1.723964 seconds.
+  path: Assets/beams/green beam.prefab
+  artifactKey: Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beams/green beam.prefab using Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded994ff02fb7711ada48bca1848d7e8') in 0.011823 seconds
+  Import took 0.016340 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/Atlas/PNG/fruits_atlas.png
-  artifactKey: Guid(8c33e932013a95242a5a5619db7794e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/Atlas/PNG/fruits_atlas.png using Guid(8c33e932013a95242a5a5619db7794e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439bbed9ffa7ed42fd848606d8eca491') in 0.184605 seconds
-  Import took 0.189876 seconds .
+  Time since last request: 20.805137 seconds.
+  path: Assets/beams/green beam Variant.prefab
+  artifactKey: Guid(cd2aa168d1ab4004dac7c98be877e95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beams/green beam Variant.prefab using Guid(cd2aa168d1ab4004dac7c98be877e95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f0e60ab54c60280147c8b1f0d95d56') in 0.011006 seconds
+  Import took 0.028012 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/DOWNLOAD/Ball Pack/Models/Materials/AtomBall-No Name.mat
-  artifactKey: Guid(eaa368b68efb7d645908f7f6294d25d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Ball Pack/Models/Materials/AtomBall-No Name.mat using Guid(eaa368b68efb7d645908f7f6294d25d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5b7c595c96ba108fe8d46b212d46b6') in 0.055698 seconds
-  Import took 0.058976 seconds .
+  Time since last request: 0.851243 seconds.
+  path: Assets/beams/green beam.prefab
+  artifactKey: Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beams/green beam.prefab using Guid(ee865e13b791d2d4196fee5ca41969f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31338df7649f743cdfb6b6afe64b5b9a') in 0.031392 seconds
+  Import took 0.044940 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000474 seconds.
-  path: Assets/DOWNLOAD/Free 2D Adventure Beach Pack/night-backgrounds
-  artifactKey: Guid(ca19bb7b1fce94341805f6e8ff2c92c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Free 2D Adventure Beach Pack/night-backgrounds using Guid(ca19bb7b1fce94341805f6e8ff2c92c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35a48d518d340a0b42c9898596b9c31') in 0.002741 seconds
-  Import took 0.007006 seconds .
+  Time since last request: 54.144511 seconds.
+  path: Assets/beams/invisible beam Variant.prefab
+  artifactKey: Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beams/invisible beam Variant.prefab using Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bac5ad0d0b63b90e1e1e4c586805ad5') in 0.008182 seconds
+  Import took 0.013116 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000468 seconds.
-  path: Assets/DOWNLOAD/Free 2D Adventure Beach Pack/day-backgrounds
-  artifactKey: Guid(ee470ba69cfab644c8dbd5054d6230bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Free 2D Adventure Beach Pack/day-backgrounds using Guid(ee470ba69cfab644c8dbd5054d6230bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa37e3700cf02a68db5236635bec920') in 0.002543 seconds
-  Import took 0.006276 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000430 seconds.
-  path: Assets/DOWNLOAD/Ball Pack/Models/Materials/AtomBall-AtomSphere.mat
-  artifactKey: Guid(5c353f7057da35640bdff38d63dda4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Ball Pack/Models/Materials/AtomBall-AtomSphere.mat using Guid(5c353f7057da35640bdff38d63dda4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f594df3b132a133d143f40688a1f5ee') in 0.011266 seconds
-  Import took 0.017169 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000449 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Prefabs/ForestBarrel.prefab
-  artifactKey: Guid(31d3a77f906791342bc79acdc84f5218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Prefabs/ForestBarrel.prefab using Guid(31d3a77f906791342bc79acdc84f5218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8904590fe56cf40994b380f51ed308e') in 0.035984 seconds
-  Import took 0.042060 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000325 seconds.
-  path: Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/banana_cut.png
-  artifactKey: Guid(56dea198d31c2e443b1250f0c7a8129c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/banana_cut.png using Guid(56dea198d31c2e443b1250f0c7a8129c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc37c8878569730e183c6470cdc6604') in 0.016514 seconds
-  Import took 0.020257 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/DOWNLOAD/Easy Primitive People/Materials/Baby Blue.mat
-  artifactKey: Guid(4ac2606202e713b4ab55573f04556e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Easy Primitive People/Materials/Baby Blue.mat using Guid(4ac2606202e713b4ab55573f04556e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8852906c0117640fa67b3c850b343a') in 0.012643 seconds
-  Import took 0.017215 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/DOWNLOAD/Free 2D Adventure Beach Pack/sunset-backgrounds
-  artifactKey: Guid(a56e387bfd9638a4db424e7e138f5c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Free 2D Adventure Beach Pack/sunset-backgrounds using Guid(a56e387bfd9638a4db424e7e138f5c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8357fa268b01b471d045cfa22fc67a42') in 0.005209 seconds
-  Import took 0.009835 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/banana.png
-  artifactKey: Guid(2f6bf45ba2820c9479f8f9be3e740506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/banana.png using Guid(2f6bf45ba2820c9479f8f9be3e740506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f4c90623784f8899cd3014f11aece1') in 0.016017 seconds
-  Import took 0.020419 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000364 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Models/ForestBarrel.fbx
-  artifactKey: Guid(0e448df1bb3fe6d44ae7119bf0d484aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Models/ForestBarrel.fbx using Guid(0e448df1bb3fe6d44ae7119bf0d484aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8435fb251b74bc3d3d1eaffef82d0a') in 0.097853 seconds
-  Import took 0.102432 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.891707 seconds.
-  path: Assets/NewBehaviourScript.cs
-  artifactKey: Guid(cb9c1ae224a7a6143a1cb57b6ac4b869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewBehaviourScript.cs using Guid(cb9c1ae224a7a6143a1cb57b6ac4b869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c55fb6702a8115351aa9494cbc8141a') in 0.003015 seconds
-  Import took 0.007765 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.136315 seconds.
-  path: Assets/BarDataObject.cs
-  artifactKey: Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BarDataObject.cs using Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4246a685593eb2afff8eaaef1f76ebae') in 0.032315 seconds
-  Import took 0.042925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000985 seconds.
-  path: Assets/BarDataObject.cs
-  artifactKey: Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BarDataObject.cs using Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4246a685593eb2afff8eaaef1f76ebae') in 0.010702 seconds
-  Import took 0.015760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 97619.547489 seconds.
-  path: Assets/SCRIPTS/scripts/EnemyHealth.cs
-  artifactKey: Guid(cc0e1420ddc06b940803fdbc0ddcb29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/scripts/EnemyHealth.cs using Guid(cc0e1420ddc06b940803fdbc0ddcb29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801b4e65624b4552103ec94a6618913d') in 0.009784 seconds
-  Import took 0.359116 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2278.327018 seconds.
-  path: Assets/SCRIPTS/scripts/CharacterMover.cs
-  artifactKey: Guid(79625444e604a17488759196b88b8e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/scripts/CharacterMover.cs using Guid(79625444e604a17488759196b88b8e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9e33ac4c205c43f6622119ff8e0cea') in 0.003552 seconds
-  Import took 0.047448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001926 seconds.
-  path: Assets/SCRIPTS/scripts/CharacterMover.cs
-  artifactKey: Guid(79625444e604a17488759196b88b8e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/scripts/CharacterMover.cs using Guid(79625444e604a17488759196b88b8e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d9e33ac4c205c43f6622119ff8e0cea') in 0.002970 seconds
-  Import took 0.008886 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.300052 seconds.
-  path: Assets/SCRIPTS/scripts/EnemyConfig.cs
-  artifactKey: Guid(3e40289248257c84f81da86b8266db8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/scripts/EnemyConfig.cs using Guid(3e40289248257c84f81da86b8266db8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c46f40ffc7f93fd4453c086e070667e') in 0.020228 seconds
-  Import took 0.055010 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.819899 seconds.
-  path: Assets/DOWNLOAD/BitGem/Birch_Tree_Proto_Series
-  artifactKey: Guid(64f0d01bba2e64769bbe0ad031b3d0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/BitGem/Birch_Tree_Proto_Series using Guid(64f0d01bba2e64769bbe0ad031b3d0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d6eae54c912b1c98ebb65e2126776a') in 0.004726 seconds
-  Import took 0.296920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000530 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack
-  artifactKey: Guid(64873b84fd5aaab49b640b53146e381b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack using Guid(64873b84fd5aaab49b640b53146e381b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a4b31270f111e8b203ff9357816ae5') in 0.003126 seconds
-  Import took 0.011657 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000616 seconds.
-  path: Assets/DOWNLOAD/2D_fruits_and_candies/Candies
-  artifactKey: Guid(2a415a5564c6d1741bacf75396f439fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/2D_fruits_and_candies/Candies using Guid(2a415a5564c6d1741bacf75396f439fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd0788df74b50d87ae53a4db02e24a5') in 0.002568 seconds
-  Import took 0.015905 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000458 seconds.
-  path: Assets/DOWNLOAD/DL_Fantasy_RPG_Effects
-  artifactKey: Guid(ba9e0faaa6cb2bb4f9ddf8ec62cb5e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/DL_Fantasy_RPG_Effects using Guid(ba9e0faaa6cb2bb4f9ddf8ec62cb5e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f36b13dbba7af4cd5c98caef3f75d1') in 0.003450 seconds
-  Import took 0.012037 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000620 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Scripts
-  artifactKey: Guid(63112726efe1fb244be32ec87d43d2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Scripts using Guid(63112726efe1fb244be32ec87d43d2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30200027815a609ef5cf0551708357b6') in 0.004409 seconds
-  Import took 0.009271 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000644 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Scenes
-  artifactKey: Guid(0539da41b8aa6f3499a9b0f3a17bf660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Scenes using Guid(0539da41b8aa6f3499a9b0f3a17bf660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f603cff9b72ae48f82de23f6ea0baca0') in 0.003682 seconds
-  Import took 0.008651 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000938 seconds.
-  path: Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/Sliced
-  artifactKey: Guid(791ed264847083c48aa8b356cb035115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/2D_fruits_and_candies/Fruits/Sliced using Guid(791ed264847083c48aa8b356cb035115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce8281f3db6ba7df51d6fec95e48cd9') in 0.002870 seconds
-  Import took 0.008789 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000823 seconds.
-  path: Assets/DOWNLOAD/2D_fruits_and_candies/Candies/Sliced
-  artifactKey: Guid(b686708d462c244409672805745f89d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/2D_fruits_and_candies/Candies/Sliced using Guid(b686708d462c244409672805745f89d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90d3d9e2efde3a0c8308b791d375860') in 0.003430 seconds
-  Import took 0.035934 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2267.473272 seconds.
-  path: Assets/NewAssemblyReference.asmref
-  artifactKey: Guid(68747e17bf86a054ca3f6b5fdbf8a079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewAssemblyReference.asmref using Guid(68747e17bf86a054ca3f6b5fdbf8a079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c05ddaafed94ee9d181dafb2457028') in 0.014731 seconds
-  Import took 0.022527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.772366 seconds.
-  path: Assets/SCRIPTS/scripts/Health2.cs
-  artifactKey: Guid(bf28e33092534344c8665958e72570cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/scripts/Health2.cs using Guid(bf28e33092534344c8665958e72570cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de3744227b590b7ed0e50fb387a764f') in 0.003605 seconds
-  Import took 0.027954 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.818436 seconds.
-  path: Assets/BarDataObject.cs
-  artifactKey: Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BarDataObject.cs using Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a38f4bad8bc0b7cbef5452432165d86') in 0.003862 seconds
-  Import took 0.010212 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000678 seconds.
-  path: Assets/SCRIPTS/scripts/Vector3Data1.cs
-  artifactKey: Guid(2fa8822b4dc1b2440a18c59951d88e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/scripts/Vector3Data1.cs using Guid(2fa8822b4dc1b2440a18c59951d88e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796bc552041409a3bca913332475ea8c') in 0.005170 seconds
-  Import took 0.009826 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000590 seconds.
-  path: Assets/BarDataObject.cs
-  artifactKey: Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BarDataObject.cs using Guid(6fab4fb70edd9df46842fa8dfc677451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a38f4bad8bc0b7cbef5452432165d86') in 0.003145 seconds
-  Import took 0.008059 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000338 seconds.
-  path: Assets/DOWNLOAD/Easy Primitive People/Materials/Dark Grey.mat
-  artifactKey: Guid(3f4e7dbaeaf9a6345adaa2a628039b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Easy Primitive People/Materials/Dark Grey.mat using Guid(3f4e7dbaeaf9a6345adaa2a628039b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969ec4847beeaa6742f39fe9d002bd1a') in 0.088772 seconds
-  Import took 0.130021 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Models/ForestBlock02.fbx
-  artifactKey: Guid(481b9e0107aab3041b49f72c38151e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Models/ForestBlock02.fbx using Guid(481b9e0107aab3041b49f72c38151e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fc6d45bb0203a72c7ecb6624e4dc62') in 0.025071 seconds
-  Import took 0.038073 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000403 seconds.
-  path: Assets/DOWNLOAD/Easy Primitive People/Materials/Dark Brown.mat
-  artifactKey: Guid(49bacf2cc9778004589af42d84598932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Easy Primitive People/Materials/Dark Brown.mat using Guid(49bacf2cc9778004589af42d84598932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86123aad4ca82c57b21c5578bcfae2e1') in 0.014184 seconds
-  Import took 0.028415 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/DOWNLOAD/Easy Primitive People/Materials/Dark Pink.mat
-  artifactKey: Guid(50627c534554cca469933baa5dd9676d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/Easy Primitive People/Materials/Dark Pink.mat using Guid(50627c534554cca469933baa5dd9676d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f884752c2d78c7f54fbcc809c6f528') in 0.011714 seconds
-  Import took 0.020771 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 302.098746 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Materials/ColorPaletteBLUE.mat
-  artifactKey: Guid(e77b003cd8771304abfc74dd93c9f934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Materials/ColorPaletteBLUE.mat using Guid(e77b003cd8771304abfc74dd93c9f934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5100fb9dd4511f7ae10b918cf7eaf195') in 0.023194 seconds
-  Import took 0.065811 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000454 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Materials/ColorPaletteNormal.mat
-  artifactKey: Guid(f731a2ae89bef7a47a008811dfbd4680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Materials/ColorPaletteNormal.mat using Guid(f731a2ae89bef7a47a008811dfbd4680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce1d314cabde2a6a4353c7dd393cebc') in 0.015275 seconds
-  Import took 0.025947 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000433 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Textures/ColorPaletteRed.png
-  artifactKey: Guid(5c87e1c6b6eff8b4abe9ea58df2b3b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Textures/ColorPaletteRed.png using Guid(5c87e1c6b6eff8b4abe9ea58df2b3b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74dad1eeaf016c1baa59a21bb018cfb8') in 0.017172 seconds
-  Import took 0.026548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000476 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Textures/ColorPaletteBLUE.png
-  artifactKey: Guid(d5fb391f53f55904c8e59e6670523ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Textures/ColorPaletteBLUE.png using Guid(d5fb391f53f55904c8e59e6670523ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c466e8af931db41f0b2096f0ccb34cbd') in 0.023300 seconds
-  Import took 0.036214 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000964 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Textures/ColorPaletteNormal.png
-  artifactKey: Guid(5d607b30e410f964a9389dfbb7223cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Textures/ColorPaletteNormal.png using Guid(5d607b30e410f964a9389dfbb7223cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea965ba2e2bb4f55a58a631392021f5') in 0.039939 seconds
-  Import took 0.054290 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000491 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Materials/ColorPaletteRED.mat
-  artifactKey: Guid(4484256e7ebbe4a4eab77924649bab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Materials/ColorPaletteRED.mat using Guid(4484256e7ebbe4a4eab77924649bab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549975d4f4e5243286d0f68e01583f11') in 0.027155 seconds
-  Import took 0.039753 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000638 seconds.
-  path: Assets/SCENESS/doorcoloroct5.unity
-  artifactKey: Guid(f80de35bc7b3ab54db82e097de32e83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCENESS/doorcoloroct5.unity using Guid(f80de35bc7b3ab54db82e097de32e83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6115391525390f033d14963562cb5be0') in 0.006624 seconds
-  Import took 0.024185 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.582696 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Models/ForestCoin.fbx
-  artifactKey: Guid(200be9953d192cd48a8b41a5db3fd1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Models/ForestCoin.fbx using Guid(200be9953d192cd48a8b41a5db3fd1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974cd451bbdc4d59672e261964b6956e') in 0.042287 seconds
-  Import took 0.056684 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.349350 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Prefabs/RiverQuadCombined.prefab
-  artifactKey: Guid(7fe364418169a2e4f9dd663ecb4d5311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Prefabs/RiverQuadCombined.prefab using Guid(7fe364418169a2e4f9dd663ecb4d5311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b75c34aba17b709183aa8ba08f7a34') in 0.110269 seconds
-  Import took 0.153517 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/SCRIPTS/scripts/UIImageController.cs
-  artifactKey: Guid(99ddf8eee5d1b3b4ca076c3612896cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SCRIPTS/scripts/UIImageController.cs using Guid(99ddf8eee5d1b3b4ca076c3612896cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea3d799bd6ed3a01295bf2215549d3a') in 0.003914 seconds
-  Import took 0.012630 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/DOWNLOAD/AurynSky/Forest Pack/Scripts/WheelController.cs
-  artifactKey: Guid(36c0437b056074a4fa083c93ffe4027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DOWNLOAD/AurynSky/Forest Pack/Scripts/WheelController.cs using Guid(36c0437b056074a4fa083c93ffe4027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde815b864ffe96d4270ba34b5e344f8') in 0.002868 seconds
-  Import took 0.017643 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000343 seconds.
-  path: Assets/Score1.cs
-  artifactKey: Guid(1c000cb2b9a694648b47d47c9df7cc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Score1.cs using Guid(1c000cb2b9a694648b47d47c9df7cc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33637101790ef7e5b3b83118cb434e48') in 0.003357 seconds
-  Import took 0.018613 seconds .
+  Time since last request: 0.000847 seconds.
+  path: Assets/beams/invisible beam Variant.prefab
+  artifactKey: Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/beams/invisible beam Variant.prefab using Guid(bc4fc29938a96f74a876565fb045da9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bac5ad0d0b63b90e1e1e4c586805ad5') in 0.004470 seconds
+  Import took 0.008062 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
