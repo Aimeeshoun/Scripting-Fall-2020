@@ -69,8 +69,10 @@
     <Compile Include="Assets\SCRIPTS\scripts\PowerUpHealth.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Vector3Data1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\FloatData1.cs" />
+    <Compile Include="Assets\instancerBehavior.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\TriggerEventExample.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\MaterialMover.cs" />
+    <Compile Include="Assets\PREFABS\CharacterBehaviour.cs" />
     <Compile Include="Assets\AINavMesh.cs" />
     <Compile Include="Assets\BackandForth.cs" />
     <Compile Include="Assets\BarDataObject.cs" />
@@ -170,6 +172,7 @@
     <Compile Include="Assets\SCRIPTS\scripts\UITextController.cs" />
     <Compile Include="Assets\OnMouseDown.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\CoinRotation.cs" />
+    <Compile Include="Assets\InstanciatePrefab2.cs" />
     <Compile Include="Assets\EnumSwitch2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\IntData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\MouseEventBehavior.cs" />
@@ -177,9 +180,7 @@
     <Compile Include="Assets\CoinPickUp.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
-    <Compile Include="Assets\InstanciatePrefab2.cs" />
-    <Compile Include="Assets\instancerBehavior.cs" />
-    <Compile Include="Assets\PREFABS\CharacterBehaviour.cs" />
+    <Compile Include="Assets\DestroyParticles.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />

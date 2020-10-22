@@ -10,6 +10,7 @@ TagManager:
   - weapon2
   - weapon3
   - redbullet
+  - fruit
   layers:
   - Default
   - TransparentFX
