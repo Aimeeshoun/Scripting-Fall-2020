@@ -10,8 +10,8 @@ public class UIImageController : MonoBehaviour
         img = GetComponent<Image>();
     }
 
-    public void UpdateImage(FloatData1 data)
+    public void UpdateImage(FloatData data)
     {
-        img.fillAmount = data.theMaximumValue;
+        img.fillAmount = data.value;
     }
 }

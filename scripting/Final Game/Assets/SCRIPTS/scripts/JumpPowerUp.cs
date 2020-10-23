@@ -5,7 +5,7 @@ public class JumpPowerUp : MonoBehaviour
 {
     public IntData normalJumpCount;
     public IntData thePlayerJumpCount;
-    public float waitTime = 2.5f;
+    public float waitTime = 0f;
     public IntData powerUpCount;
 
     private void Start()
@@ -21,5 +21,7 @@ public class JumpPowerUp : MonoBehaviour
         yield return new WaitForSeconds(waitTime);
         thePlayerJumpCount.value = normalJumpCount.value;
         gameObject.SetActive(false);
+        yield return new WaitForSeconds(1);
     }
-}
+}    
+   

@@ -13,7 +13,7 @@ public class HealthController : MonoBehaviour
         image = GetComponent<Image>();
     }
 
-    public void UpdateImage(FloatData data)
+    public void UpdateImage(FloatData2 data)
 
     {
         image.fillAmount = data.value;

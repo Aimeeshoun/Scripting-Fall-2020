@@ -72,6 +72,7 @@
     <Compile Include="Assets\instancerBehavior.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\TriggerEventExample.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\MaterialMover.cs" />
+    <Compile Include="Assets\ParticlesSystem.cs" />
     <Compile Include="Assets\PREFABS\CharacterBehaviour.cs" />
     <Compile Include="Assets\AINavMesh.cs" />
     <Compile Include="Assets\BackandForth.cs" />
@@ -125,6 +126,7 @@
     <Compile Include="Assets\WeaponData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\JumpPowerUp.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\LookAt4.cs" />
+    <Compile Include="Assets\Destroy1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\HealthMinusFive.cs" />
     <Compile Include="Assets\SCRIPTS\lookat3.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Vector3data.cs" />
@@ -161,6 +163,7 @@
     <Compile Include="Assets\Countdown.cs" />
     <Compile Include="Assets\Particles.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\WheelController.cs" />
+    <Compile Include="Assets\DestroyObject.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\ChestDemo.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors\Demo 2.0\TCF_Demo.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\AI.cs" />
@@ -176,11 +179,14 @@
     <Compile Include="Assets\EnumSwitch2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\IntData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\MouseEventBehavior.cs" />
-    <Compile Include="Assets\SCRIPTS\scripts\FloatDataHealth.cs" />
+    <Compile Include="Assets\SCRIPTS\scripts\FloatDataScript.cs" />
     <Compile Include="Assets\CoinPickUp.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
-    <Compile Include="Assets\DestroyParticles.cs" />
+    <Compile Include="Assets\SCRIPTS\scripts\EnemyHealthScript.cs" />
+    <Compile Include="Assets\SCRIPTS\scripts\FloatData2.cs" />
+    <Compile Include="Assets\SliderController.cs" />
+    <Compile Include="Assets\ImageBehavior.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
