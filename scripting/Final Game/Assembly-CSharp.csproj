@@ -107,6 +107,7 @@
     <Compile Include="Assets\SCRIPTS\scripts\Instan.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\GameActionHandleler.cs" />
     <Compile Include="Assets\GameArtData.cs" />
+    <Compile Include="Assets\SliderController.cs" />
     <Compile Include="Assets\EnumHandlerBar.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\ApplyForce.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\BulletCounter.cs" />
@@ -121,6 +122,7 @@
     <Compile Include="Assets\CoinRotate.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\leftand.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\rightandLeft.cs" />
+    <Compile Include="Assets\SCRIPTS\scripts\FloatData2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Instancer3.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\LookAtme.cs" />
     <Compile Include="Assets\WeaponData.cs" />
@@ -128,6 +130,7 @@
     <Compile Include="Assets\SCRIPTS\scripts\LookAt4.cs" />
     <Compile Include="Assets\Destroy1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\HealthMinusFive.cs" />
+    <Compile Include="Assets\ImageBehavior.cs" />
     <Compile Include="Assets\SCRIPTS\lookat3.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Vector3data.cs" />
     <Compile Include="Assets\SCRIPTS\ColorChange.cs" />
@@ -151,7 +154,7 @@
     <Compile Include="Assets\InstanciateBullet.cs" />
     <Compile Include="Assets\PlayerData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\UIImageController.cs" />
-    <Compile Include="Assets\MyFloatData.cs" />
+    <Compile Include="Assets\MyfloatData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\rigidbodyMovement.cs" />
     <Compile Include="Assets\Weapon Switch.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EventBehaviors.cs" />
@@ -184,9 +187,15 @@
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\SCRIPTS\scripts\FloatData2.cs" />
-    <Compile Include="Assets\SliderController.cs" />
-    <Compile Include="Assets\ImageBehavior.cs" />
+    <Compile Include="Assets\SliderControl.cs" />
+    <Compile Include="Assets\Health.cs" />
+    <Compile Include="Assets\HealthBar2.cs" />
+    <Compile Include="Assets\WalkinCircles.cs" />
+    <Compile Include="Assets\UIimageController4.cs" />
+    <Compile Include="Assets\FloatData4.cs" />
+    <Compile Include="Assets\Image Controller2.cs" />
+    <Compile Include="Assets\imagecontrollerForgameAction.cs" />
+    <Compile Include="Assets\rotatefix.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />

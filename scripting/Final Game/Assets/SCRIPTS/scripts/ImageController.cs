@@ -6,7 +6,7 @@ public class ImageController : MonoBehaviour
 {
 	public GameAction imageAction;
 	private Image imageComponent;
-	public FloatData data;
+	public MyfloatData data;
 	private void Start()
 	{
 		imageAction.action = UpdateImageHandler;
@@ -25,7 +25,7 @@ public class ImageController : MonoBehaviour
 		imageComponent.fillAmount += amount;
 	}
 
-	public void UpdateImageComponent(FloatData dataObj)
+	public void UpdateImageComponent(MyfloatData dataObj)
 	{
 		imageComponent.fillAmount = dataObj.value;
 	}

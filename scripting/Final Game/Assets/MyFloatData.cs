@@ -4,33 +4,33 @@ using UnityEngine;
 [CreateAssetMenu]
 public class MyfloatData : ScriptableObject
 {
-    public float myFloatValue = 1f;
+    public float value = 1f;
     public float theMaximumValue = 1f;
     public float theMinimunValue = 0f;
 
     public void UpdateValue(float numberAmount)
     {
-        myFloatValue += numberAmount;
+        value += numberAmount;
     }
 
     public void TheUpdateValueRange(float numberAmount)
     {
-        if (myFloatValue <= theMaximumValue)
+        if (value <= theMaximumValue)
         {
             UpdateValue(numberAmount);
         }
         else
         {
-            myFloatValue = theMaximumValue;
+            value = theMaximumValue;
         }
 
-        if (myFloatValue >= theMinimunValue)
+        if (value >= theMinimunValue)
         {
             UpdateValue(numberAmount);
         }
         else
         {
-            myFloatValue = theMinimunValue;
+            value = theMinimunValue;
         }
     }
 

@@ -13,7 +13,7 @@ public class ImageControl : MonoBehaviour
         img = GetComponent<Image>();
     }
 
-    public void UpdateImage(FloatData data)
+    public void UpdateImage(MyfloatData data)
 
     {
         img.fillAmount = data.value;
