@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HealthScript : MonoBehaviour
+public class Health2 : MonoBehaviour
 {
     public int healthValue;
     public float Health = 100;

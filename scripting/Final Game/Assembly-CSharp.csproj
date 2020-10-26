@@ -57,7 +57,9 @@
   <ItemGroup>
     <Compile Include="Assets\UIScore.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Mouse.cs" />
+    <Compile Include="Assets\UIimageController4.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\AIbehavior.cs" />
+    <Compile Include="Assets\HealthBar2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EnemyHealth.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\SelfDestruct2.cs" />
     <Compile Include="Assets\Projectile.cs" />
@@ -72,6 +74,7 @@
     <Compile Include="Assets\instancerBehavior.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\TriggerEventExample.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\MaterialMover.cs" />
+    <Compile Include="Assets\Health.cs" />
     <Compile Include="Assets\ParticlesSystem.cs" />
     <Compile Include="Assets\PREFABS\CharacterBehaviour.cs" />
     <Compile Include="Assets\AINavMesh.cs" />
@@ -122,11 +125,14 @@
     <Compile Include="Assets\CoinRotate.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\leftand.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\rightandLeft.cs" />
+    <Compile Include="Assets\SliderControl.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\FloatData2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Instancer3.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\LookAtme.cs" />
     <Compile Include="Assets\WeaponData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\JumpPowerUp.cs" />
+    <Compile Include="Assets\WalkinCircles.cs" />
+    <Compile Include="Assets\rotatefix.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\LookAt4.cs" />
     <Compile Include="Assets\Destroy1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\HealthMinusFive.cs" />
@@ -172,12 +178,15 @@
     <Compile Include="Assets\SCRIPTS\scripts\AI.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\CharacterMover.cs" />
     <Compile Include="Assets\WhileLoop.cs" />
+    <Compile Include="Assets\Image Controller2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Spawn.cs" />
+    <Compile Include="Assets\imagecontrollerForgameAction.cs" />
     <Compile Include="Assets\AudioPlay.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\MovementPlayer.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\UITextController.cs" />
     <Compile Include="Assets\OnMouseDown.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\CoinRotation.cs" />
+    <Compile Include="Assets\FloatData4.cs" />
     <Compile Include="Assets\InstanciatePrefab2.cs" />
     <Compile Include="Assets\EnumSwitch2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\IntData.cs" />
@@ -187,15 +196,16 @@
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\SliderControl.cs" />
-    <Compile Include="Assets\Health.cs" />
-    <Compile Include="Assets\HealthBar2.cs" />
-    <Compile Include="Assets\WalkinCircles.cs" />
-    <Compile Include="Assets\UIimageController4.cs" />
-    <Compile Include="Assets\FloatData4.cs" />
-    <Compile Include="Assets\Image Controller2.cs" />
-    <Compile Include="Assets\imagecontrollerForgameAction.cs" />
-    <Compile Include="Assets\rotatefix.cs" />
+    <Compile Include="Assets\PlayerRespwn.cs" />
+    <Compile Include="Assets\RespawnClamp.cs" />
+    <Compile Include="Assets\Death.cs" />
+    <Compile Include="Assets\Damage.cs" />
+    <Compile Include="Assets\Player Health.cs" />
+    <Compile Include="Assets\DamageAmount.cs" />
+    <Compile Include="Assets\New\playerHealth.cs" />
+    <Compile Include="Assets\New\EnemyDamage3.cs" />
+    <Compile Include="Assets\Respawn.cs" />
+    <Compile Include="Assets\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />

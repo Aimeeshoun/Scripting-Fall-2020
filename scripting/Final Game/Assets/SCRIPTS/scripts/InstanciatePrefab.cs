@@ -8,6 +8,9 @@ public class InstanciatePrefab : MonoBehaviour
 
     public float bulletSpeed = 10;
     public Rigidbody bullet1;
+    public AudioSource Clip;
+    
+
     void Fire1()
     {
         Rigidbody bullet = (Rigidbody)Instantiate(bullet1, transform.position, transform.rotation);
@@ -19,7 +22,9 @@ public class InstanciatePrefab : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.RightShift))
         {
             Fire1();
-
+          
+            Clip.Play();
         }
+
     }
-}
+    }

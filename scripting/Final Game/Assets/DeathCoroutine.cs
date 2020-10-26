@@ -1,22 +1,28 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Transactions;
 using UnityEngine;
 
 public class DeathCoroutine : MonoBehaviour
 {
 
     public GameObject Prefab;
+    public float currentHealth;
 
-    void Update()
+    private void Update()
     {
-        StartCoroutine(death());
-    }
 
-    IEnumerator death()
-    {
+        if (currentHealth <= 0)
         {
-            Destroy(gameObject, 3f);
+            StartCoroutine(death());
         }
-        yield return new WaitForSeconds(1);
+
+        IEnumerator death()
+        {
+            {
+                Destroy(gameObject, 3f);
+            }
+            yield return new WaitForSeconds(1);
+        }
     }
 }

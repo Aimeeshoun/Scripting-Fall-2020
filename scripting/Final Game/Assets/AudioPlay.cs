@@ -2,18 +2,21 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
-public class audioplay : MonoBehaviour
+public class AudioPlay : MonoBehaviour
 {
     public AudioSource Clip;
-    private GameObject trig;
 
-    void OnTriggerEnter(Collider collider)
+
+  
+
+    void OnTriggerEnter(GameObject other)
     {
-        if (collider.tag == "Player")
+        if (other.gameObject.CompareTag("Bullet"))
         {
-            trig.SetActive(true);
+         
             Clip.Play();
         }
     }

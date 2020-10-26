@@ -7,6 +7,8 @@ public class KnockBack : MonoBehaviour
     private CharacterController theController;
 
     Vector3 moving = Vector3.left;
+    
+    
     void Update()
     {
         theController = GetComponent<CharacterController>();
