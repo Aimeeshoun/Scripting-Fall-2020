@@ -61,6 +61,7 @@
     <Compile Include="Assets\SCRIPTS\scripts\AIbehavior.cs" />
     <Compile Include="Assets\HealthBar2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EnemyHealth.cs" />
+    <Compile Include="Assets\DamageAmount.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\SelfDestruct2.cs" />
     <Compile Include="Assets\Projectile.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\CameraOffset.cs" />
@@ -76,9 +77,12 @@
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\MaterialMover.cs" />
     <Compile Include="Assets\Health.cs" />
     <Compile Include="Assets\ParticlesSystem.cs" />
+    <Compile Include="Assets\RespawnClamp.cs" />
     <Compile Include="Assets\PREFABS\CharacterBehaviour.cs" />
     <Compile Include="Assets\AINavMesh.cs" />
     <Compile Include="Assets\BackandForth.cs" />
+    <Compile Include="Assets\Death.cs" />
+    <Compile Include="Assets\Damage.cs" />
     <Compile Include="Assets\BarDataObject.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Ontriggerenter.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\ImageControl.cs" />
@@ -135,6 +139,8 @@
     <Compile Include="Assets\rotatefix.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\LookAt4.cs" />
     <Compile Include="Assets\Destroy1.cs" />
+    <Compile Include="Assets\Respawn.cs" />
+    <Compile Include="Assets\New\EnemyDamage3.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\HealthMinusFive.cs" />
     <Compile Include="Assets\ImageBehavior.cs" />
     <Compile Include="Assets\SCRIPTS\lookat3.cs" />
@@ -149,6 +155,7 @@
     <Compile Include="Assets\SCRIPTS\scripts\Health2.cs" />
     <Compile Include="Assets\CharacterSwitchEnum.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Score.cs" />
+    <Compile Include="Assets\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\InstancerBehavior.cs" />
     <Compile Include="Assets\SCRIPTS\PlayerController.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Vector3dataobject.cs" />
@@ -169,6 +176,7 @@
     <Compile Include="Assets\SCRIPTS\scripts\AddScore.cs" />
     <Compile Include="Assets\DestroyBullets.cs" />
     <Compile Include="Assets\Event.cs" />
+    <Compile Include="Assets\New\playerHealth.cs" />
     <Compile Include="Assets\Countdown.cs" />
     <Compile Include="Assets\Particles.cs" />
     <Compile Include="Assets\DOWNLOAD\AurynSky\Forest Pack\Scripts\WheelController.cs" />
@@ -186,6 +194,8 @@
     <Compile Include="Assets\SCRIPTS\scripts\UITextController.cs" />
     <Compile Include="Assets\OnMouseDown.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\CoinRotation.cs" />
+    <Compile Include="Assets\PlayerRespwn.cs" />
+    <Compile Include="Assets\Player Health.cs" />
     <Compile Include="Assets\FloatData4.cs" />
     <Compile Include="Assets\InstanciatePrefab2.cs" />
     <Compile Include="Assets\EnumSwitch2.cs" />
@@ -196,16 +206,10 @@
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\PlayerRespwn.cs" />
-    <Compile Include="Assets\RespawnClamp.cs" />
-    <Compile Include="Assets\Death.cs" />
-    <Compile Include="Assets\Damage.cs" />
-    <Compile Include="Assets\Player Health.cs" />
-    <Compile Include="Assets\DamageAmount.cs" />
-    <Compile Include="Assets\New\playerHealth.cs" />
-    <Compile Include="Assets\New\EnemyDamage3.cs" />
-    <Compile Include="Assets\Respawn.cs" />
-    <Compile Include="Assets\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
+    <Compile Include="Assets\CoroutineTransform.cs" />
+    <Compile Include="Assets\Coroutines.cs" />
+    <Compile Include="Assets\AI.cs" />
+    <Compile Include="Assets\AIPatrol2.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
