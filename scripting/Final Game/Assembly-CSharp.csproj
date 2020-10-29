@@ -60,6 +60,7 @@
     <Compile Include="Assets\UIimageController4.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\AIbehavior.cs" />
     <Compile Include="Assets\HealthBar2.cs" />
+    <Compile Include="Assets\AIPatrol2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EnemyHealth.cs" />
     <Compile Include="Assets\DamageAmount.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\SelfDestruct2.cs" />
@@ -126,12 +127,14 @@
     <Compile Include="Assets\SCRIPTS\scripts\PowerUpHealth1.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\FireAmmo.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\FloatData.cs" />
+    <Compile Include="Assets\CoroutineTransform.cs" />
     <Compile Include="Assets\CoinRotate.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\leftand.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\rightandLeft.cs" />
     <Compile Include="Assets\SliderControl.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\FloatData2.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\Instancer3.cs" />
+    <Compile Include="Assets\AI.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\LookAtme.cs" />
     <Compile Include="Assets\WeaponData.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\JumpPowerUp.cs" />
@@ -196,6 +199,7 @@
     <Compile Include="Assets\SCRIPTS\scripts\CoinRotation.cs" />
     <Compile Include="Assets\PlayerRespwn.cs" />
     <Compile Include="Assets\Player Health.cs" />
+    <Compile Include="Assets\Coroutines.cs" />
     <Compile Include="Assets\FloatData4.cs" />
     <Compile Include="Assets\InstanciatePrefab2.cs" />
     <Compile Include="Assets\EnumSwitch2.cs" />
@@ -206,10 +210,8 @@
     <Compile Include="Assets\SCRIPTS\scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\SCRIPTS\scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\CoroutineTransform.cs" />
-    <Compile Include="Assets\Coroutines.cs" />
-    <Compile Include="Assets\AI.cs" />
-    <Compile Include="Assets\AIPatrol2.cs" />
+    <Compile Include="Assets\CameraFollowScript.cs" />
+    <Compile Include="Assets\Camera2.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
