@@ -65,8 +65,9 @@
     <Compile Include="Assets\DamageAmount.cs" />
     <Compile Include="Assets\my scripts\SelfDestruct2.cs" />
     <Compile Include="Assets\Projectile.cs" />
-    <Compile Include="Assets\my scripts\CameraOffset.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\CameraOffset.cs" />
     <Compile Include="Assets\my scripts\MeshBehavior.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\InvokeBehavior.cs" />
     <Compile Include="Assets\my scripts\CallAFuntion.cs" />
     <Compile Include="Assets\my scripts\KnockBack.cs" />
     <Compile Include="Assets\my scripts\Instaciate.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\MaterialMover.cs" />
     <Compile Include="Assets\Health.cs" />
     <Compile Include="Assets\ParticlesSystem.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\PlayerBehavior.cs" />
     <Compile Include="Assets\RespawnClamp.cs" />
     <Compile Include="Assets\my scripts\CharacterBehaviour.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AINavMesh.cs" />
@@ -93,6 +95,7 @@
     <Compile Include="Assets\my scripts\MoveLocate.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AmmoCounter.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MoveLocator.cs" />
     <Compile Include="Assets\my scripts\Lerp.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\DeathCoroutine.cs" />
     <Compile Include="Assets\my scripts\GameAction.cs" />
@@ -127,6 +130,7 @@
     <Compile Include="Assets\my scripts\PowerUpHealth1.cs" />
     <Compile Include="Assets\my scripts\FireAmmo.cs" />
     <Compile Include="Assets\my scripts\FloatData.cs" />
+    <Compile Include="Assets\Pl.cs" />
     <Compile Include="Assets\CoroutineTransform.cs" />
     <Compile Include="Assets\CoinRotate.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MovingCoroutines.cs" />
@@ -152,6 +156,7 @@
     <Compile Include="Assets\my scripts\ColorChange.cs" />
     <Compile Include="Assets\EnemyEnum.cs" />
     <Compile Include="Assets\my scripts\AddScore1.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\LookAtBehavior2.cs" />
     <Compile Include="Assets\my scripts\EnemyConfig.cs" />
     <Compile Include="Assets\Events.cs" />
     <Compile Include="Assets\my scripts\Monoevent.cs" />
@@ -165,10 +170,13 @@
     <Compile Include="Assets\my scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\my scripts\InstanciatePrefab.cs" />
     <Compile Include="Assets\Premator.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseController.cs" />
+    <Compile Include="Assets\my scripts\MovingBehavior.cs" />
     <Compile Include="Assets\Coroutine.cs" />
     <Compile Include="Assets\my scripts\HealthController.cs" />
     <Compile Include="Assets\WeaponEnum.cs" />
     <Compile Include="Assets\InstanciateBullet.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\PlayerData.cs" />
     <Compile Include="Assets\my scripts\UIImageController.cs" />
     <Compile Include="Assets\MyfloatData.cs" />
@@ -187,6 +195,7 @@
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MovingCoroutineSm.cs" />
     <Compile Include="Assets\DestroyObject.cs" />
     <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\ChestDemo.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseDownBehavior.cs" />
     <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Demo 2.0\TCF_Demo.cs" />
     <Compile Include="Assets\my scripts\AI.cs" />
     <Compile Include="Assets\my scripts\CharacterMover.cs" />
@@ -206,20 +215,14 @@
     <Compile Include="Assets\EnumSwitch2.cs" />
     <Compile Include="Assets\my scripts\IntData.cs" />
     <Compile Include="Assets\my scripts\MouseEventBehavior.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\OnMouseDown.cs" />
     <Compile Include="Assets\my scripts\FloatDataScript.cs" />
     <Compile Include="Assets\CoinPickUp.cs" />
     <Compile Include="Assets\my scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MoveLocator.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\OnMouseDown.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\InvokeBehavior.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseController.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseDownBehavior.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\LookAtBehavior2.cs" />
-    <Compile Include="Assets\Pl.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\PlayerBehavior.cs" />
+    <Compile Include="Assets\DestroyObject1.cs" />
+    <Compile Include="Assets\DestroyBullet2.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
