@@ -88,6 +88,7 @@
     <Compile Include="Assets\Damage.cs" />
     <Compile Include="Assets\BarDataObject.cs" />
     <Compile Include="Assets\my scripts\Ontriggerenter.cs" />
+    <Compile Include="Assets\DestroyObject1.cs" />
     <Compile Include="Assets\my scripts\ImageControl.cs" />
     <Compile Include="Assets\my scripts\Patrol.cs" />
     <Compile Include="Assets\my scripts\IntData1.cs" />
@@ -115,6 +116,7 @@
     <Compile Include="Assets\my scripts\ScoreTextScript.cs" />
     <Compile Include="Assets\my scripts\movement3.cs" />
     <Compile Include="Assets\my scripts\LookAtbehavior.cs" />
+    <Compile Include="Assets\DestroyBullet2.cs" />
     <Compile Include="Assets\my scripts\Instan.cs" />
     <Compile Include="Assets\my scripts\GameActionHandleler.cs" />
     <Compile Include="Assets\GameArtData.cs" />
@@ -221,8 +223,7 @@
     <Compile Include="Assets\my scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\DestroyObject1.cs" />
-    <Compile Include="Assets\DestroyBullet2.cs" />
+    <Compile Include="Assets\DestoyGameObject.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
