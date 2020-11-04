@@ -72,6 +72,7 @@
     <Compile Include="Assets\my scripts\KnockBack.cs" />
     <Compile Include="Assets\my scripts\Instaciate.cs" />
     <Compile Include="Assets\my scripts\PowerUpHealth.cs" />
+    <Compile Include="Assets\my scripts\CharacterKnockBack2.cs" />
     <Compile Include="Assets\my scripts\Vector3Data1.cs" />
     <Compile Include="Assets\my scripts\FloatData1.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\CameraFollowScript.cs" />
@@ -85,6 +86,7 @@
     <Compile Include="Assets\my scripts\CharacterBehaviour.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AINavMesh.cs" />
     <Compile Include="Assets\BackandForth.cs" />
+    <Compile Include="Assets\DestoyGameObject.cs" />
     <Compile Include="Assets\Damage.cs" />
     <Compile Include="Assets\BarDataObject.cs" />
     <Compile Include="Assets\my scripts\Ontriggerenter.cs" />
@@ -223,7 +225,7 @@
     <Compile Include="Assets\my scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\DestoyGameObject.cs" />
+    <Compile Include="Assets\Jump.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
