@@ -15,11 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61494
+51805
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 79.83 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 75.71 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -31,40 +31,40 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001782 seconds.
+Registered in 0.001715 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 78.37 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 62.73 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.660 seconds
+- Completed reload, in  1.634 seconds
 Registering precompiled user dll's ...
-Registered in 0.142722 seconds.
+Registered in 0.120507 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.255 seconds
+- Completed reload, in  1.192 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(3411e19edd44cfd46b548b058c3bc36c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs") state(2)
 Script is not up to date after domain reload: guid(73deb9b8722aa284eab27c4dc90956c6) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs") state(2)
@@ -3010,159 +3010,23 @@ Script is not up to date after domain reload: guid(af403e41e8c7f0a469428488646b1
 Script is not up to date after domain reload: guid(9c8ceb9efacb4974bb3b7e2a87137b07) path("Packages/com.unity.timeline/Editor/inspectors/DirectorNamedColorInspector.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513ef38) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 30476, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
-Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 20144, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.6 MB.
+System memory in use before: 48.7 MB.
 System memory in use after: 48.6 MB.
 
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 507.
-Total: 2.233300 ms (FindLiveObjects: 0.220600 ms CreateObjectMapping: 0.008700 ms MarkObjects: 1.918100 ms  DeleteObjects: 0.084600 ms)
+Total: 3.126200 ms (FindLiveObjects: 0.302500 ms CreateObjectMapping: 0.007800 ms MarkObjects: 2.672600 ms  DeleteObjects: 0.141800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/my MATERIALS 1/new brown.mat
-  artifactKey: Guid(00b85c715bcfc264d8e547cee9eaaf35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/my MATERIALS 1/new brown.mat using Guid(00b85c715bcfc264d8e547cee9eaaf35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b951b482d33d4c3afc929a089e064de') in 0.341431 seconds
-  Import took 0.343455 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 102.724052 seconds.
-  path: Assets/MY DOWNLOADS/Free LowPoly SciFi Pack/Meshes/Materials/DARK_GREY_mat.mat
-  artifactKey: Guid(5a39bd3dffc95dc4ca4759d5823e6622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/Free LowPoly SciFi Pack/Meshes/Materials/DARK_GREY_mat.mat using Guid(5a39bd3dffc95dc4ca4759d5823e6622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1104c401489802e57c95b20816fe9514') in 0.028203 seconds
-  Import took 0.030631 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000597 seconds.
-  path: Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/DarkGrey_001.mat
-  artifactKey: Guid(18f89912acd835a48b073d43db250d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/DarkGrey_001.mat using Guid(18f89912acd835a48b073d43db250d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ce1e59d5bb44d527af118d970b2c81') in 0.030383 seconds
-  Import took 0.032602 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.564585 seconds.
-  path: Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Models/LaserGreen.prefab
-  artifactKey: Guid(1f82b60d52be232439c2bdad4096e262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Models/LaserGreen.prefab using Guid(1f82b60d52be232439c2bdad4096e262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d703d74b541fcb2489aaa48e28ebc4e') in 0.147252 seconds
-  Import took 0.149518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000526 seconds.
-  path: Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/PointsOfInterest/PTK_Exclamation_green.prefab
-  artifactKey: Guid(eb07530ab699e054891205537c84145f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/PointsOfInterest/PTK_Exclamation_green.prefab using Guid(eb07530ab699e054891205537c84145f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603cd921ad46dbf0fcdadaa1f36d03c1') in 0.031717 seconds
-  Import took 0.034727 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000810 seconds.
-  path: Assets/MY DOWNLOADS/FreeLabAssets/Textures/Mana_Green.tga
-  artifactKey: Guid(bc7b190aa39d2456bbd9b12873ba8fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/FreeLabAssets/Textures/Mana_Green.tga using Guid(bc7b190aa39d2456bbd9b12873ba8fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b15943683938ed75d16e7ef82130f4') in 0.063393 seconds
-  Import took 0.066794 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000506 seconds.
-  path: Assets/my MATERIALS 1/new green.mat
-  artifactKey: Guid(9a82d8c9504eb29408437753fb74b5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/my MATERIALS 1/new green.mat using Guid(9a82d8c9504eb29408437753fb74b5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13fa8c4f2183f65882379eba386a8dd') in 0.012996 seconds
-  Import took 0.014698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000436 seconds.
-  path: Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Models/LaserGreenBlue.prefab
-  artifactKey: Guid(38e71fe4bf8051342aa6fb57c83b72c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Models/LaserGreenBlue.prefab using Guid(38e71fe4bf8051342aa6fb57c83b72c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bac89d59b39f5eeaeb463fc5c4d5139') in 0.015229 seconds
-  Import took 0.017255 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Collectables/PTK_Collectable_1_green.prefab
-  artifactKey: Guid(17d2571d67fb94a47a33e65ff8c88d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Collectables/PTK_Collectable_1_green.prefab using Guid(17d2571d67fb94a47a33e65ff8c88d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03669bb8fe561647d68a4faf526ff091') in 0.011130 seconds
-  Import took 0.013688 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000429 seconds.
-  path: Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Collectables/PTK_Collectable_2_green.prefab
-  artifactKey: Guid(33512a55346f56e4090c2acdc8fe4d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Prefabs/Collectables/PTK_Collectable_2_green.prefab using Guid(33512a55346f56e4090c2acdc8fe4d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878fe60761a719072911f8b88e33e8b4') in 0.015523 seconds
-  Import took 0.017698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 59.690682 seconds.
-  path: Assets/my PREFABS/green beam 1.prefab
-  artifactKey: Guid(62c585f42fd664d4aa99318c8e81161a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/my PREFABS/green beam 1.prefab using Guid(62c585f42fd664d4aa99318c8e81161a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db6e6588879b04a3976f6fc7c95d849') in 0.019320 seconds
-  Import took 0.022731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000448 seconds.
-  path: Assets/MY DOWNLOADS/beams/green beam Variant.prefab
-  artifactKey: Guid(cd2aa168d1ab4004dac7c98be877e95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/beams/green beam Variant.prefab using Guid(cd2aa168d1ab4004dac7c98be877e95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c6bee96ddbdfb0018df8a0490aaab6b') in 0.015130 seconds
-  Import took 0.017400 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30801.730857 seconds.
-  path: Assets/my PREFABS/blue.mat
-  artifactKey: Guid(3f1af226832a2024a88e67e7d2582e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/my PREFABS/blue.mat using Guid(3f1af226832a2024a88e67e7d2582e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8e95de9f920e219fe28b01cc321b83') in 0.267579 seconds
-  Import took 0.272968 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000487 seconds.
-  path: Assets/my MATERIALS 1/blue.mat
-  artifactKey: Guid(d7be4652a1b5dd6488cac371c0e65605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/my MATERIALS 1/blue.mat using Guid(d7be4652a1b5dd6488cac371c0e65605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877d4bacb671f6d92101c347d78552f8') in 0.085067 seconds
-  Import took 0.087369 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.038099 seconds.
-  path: Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastle_Blue.prefab
-  artifactKey: Guid(72b5f3ccc49ab5c4fa326915f1aabbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastle_Blue.prefab using Guid(72b5f3ccc49ab5c4fa326915f1aabbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6531d6301096be2e46c289c525d2ee95') in 0.610757 seconds
-  Import took 0.613765 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000617 seconds.
-  path: Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorL_Blue.prefab
-  artifactKey: Guid(dcbdac72f171da241abd88df31a61142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorL_Blue.prefab using Guid(dcbdac72f171da241abd88df31a61142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61efef9a2f53ff2a867a4e963e955b49') in 0.043711 seconds
-  Import took 0.045857 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000888 seconds.
-  path: Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorR_Blue.prefab
-  artifactKey: Guid(5032a611cb4fea140b303ed588caeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorR_Blue.prefab using Guid(5032a611cb4fea140b303ed588caeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36c0a35ef72796ef4310271867e3879') in 0.022767 seconds
-  Import took 0.026828 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000775 seconds.
-  path: Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestFlag_Blue.prefab
-  artifactKey: Guid(75836cac8af52414c85343289a17535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestFlag_Blue.prefab using Guid(75836cac8af52414c85343289a17535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc2ca2ce895139d5c397219b3139c75') in 0.028032 seconds
-  Import took 0.030794 seconds .
+  path: Assets/squirl animatio.fbx
+  artifactKey: Guid(05033083a7a8d5443a2ac0dd1a398060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/squirl animatio.fbx using Guid(05033083a7a8d5443a2ac0dd1a398060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e405aacbf0cb202e31645b437864169') in 0.874572 seconds
+  Import took 0.925182 seconds .
 
 ========================================================================
 Received Prepare
@@ -3171,91 +3035,59 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001899 seconds.
+Registered in 0.001887 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 92.98 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 108.95 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.036 seconds
+- Completed reload, in  2.432 seconds
 Registering precompiled user dll's ...
-Registered in 0.149384 seconds.
+Registered in 0.193207 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.37 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.93 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.285 seconds
+- Completed reload, in  1.205 seconds
 Platform modules already initialized, skipping
 Script error: OnTriggerEnter
 This message parameter has to be of type: Collider
 The message will be ignored.
 
-Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 92.1 MB.
-System memory in use after: 92.2 MB.
+System memory in use before: 92.5 MB.
+System memory in use after: 92.6 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2024.
-Total: 4.112300 ms (FindLiveObjects: 0.437000 ms CreateObjectMapping: 0.103500 ms MarkObjects: 3.361700 ms  DeleteObjects: 0.206000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 2433.552886 seconds.
-  path: Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/Glass_Lit_002.mat
-  artifactKey: Guid(1ff4c1c602180d74b86083a35045866e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/Glass_Lit_002.mat using Guid(1ff4c1c602180d74b86083a35045866e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221647142c4e2ecdbfee9446d64d2a53') in 0.126441 seconds
-  Import took 0.139754 seconds .
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2025.
+Total: 3.068600 ms (FindLiveObjects: 0.429500 ms CreateObjectMapping: 0.107600 ms MarkObjects: 2.431300 ms  DeleteObjects: 0.097500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1431.613442 seconds.
-  path: Assets/MY DOWNLOADS/DOWNLOAD/Easy Primitive People/Materials/Grey.mat
-  artifactKey: Guid(e792a19f03e42884bb6c7aa2f98d1906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/DOWNLOAD/Easy Primitive People/Materials/Grey.mat using Guid(e792a19f03e42884bb6c7aa2f98d1906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693c134ac9b97eac375c8922169daad6') in 0.298884 seconds
-  Import took 0.308719 seconds .
+  Time since last request: 564.974378 seconds.
+  path: Assets/squirl animatio 1.fbx
+  artifactKey: Guid(ffa5778142ccfa44db433d0f8f5149fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/squirl animatio 1.fbx using Guid(ffa5778142ccfa44db433d0f8f5149fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c57d5b6476d59c902c6288674ce3e4') in 1.036944 seconds
+  Import took 1.104789 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000715 seconds.
-  path: Assets/MY DOWNLOADS/Five Seamless Tileable Ground Textures/Textures/Grey Stones.png
-  artifactKey: Guid(60fdfa47a4e492b4f8fba1fd4d8f3a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/Five Seamless Tileable Ground Textures/Textures/Grey Stones.png using Guid(60fdfa47a4e492b4f8fba1fd4d8f3a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c325e22b8d89ed7c26444872a623ad02') in 0.229065 seconds
-  Import took 0.234250 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000531 seconds.
-  path: Assets/MY DOWNLOADS/Five Seamless Tileable Ground Textures/Materials/Grey Stones.mat
-  artifactKey: Guid(052821051301bb849ab0e4f50ad32d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/Five Seamless Tileable Ground Textures/Materials/Grey Stones.mat using Guid(052821051301bb849ab0e4f50ad32d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d13a6249f7605586133a18c7403ea0d') in 0.033493 seconds
-  Import took 0.040121 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000483 seconds.
-  path: Assets/MY DOWNLOADS/Free LowPoly SciFi Pack/Meshes/Materials/GREY_mat.mat
-  artifactKey: Guid(ded3ee337069fe34aad399430dc3856c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/Free LowPoly SciFi Pack/Meshes/Materials/GREY_mat.mat using Guid(ded3ee337069fe34aad399430dc3856c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310ae5a2528f4f0fea204090dc8284b2') in 0.023783 seconds
-  Import took 0.032821 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.213577 seconds.
-  path: Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/PenOuterGrey.mat
-  artifactKey: Guid(8e809541140501a4ca636f9e8a318ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/PenOuterGrey.mat using Guid(8e809541140501a4ca636f9e8a318ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b409bc89d2978405c32c2a9d8ffe4c25') in 0.039373 seconds
-  Import took 0.045277 seconds .
+  Time since last request: 910.903171 seconds.
+  path: Assets/ball animation.fbx
+  artifactKey: Guid(a0c4cb7556d8758419e8c018fe3ad7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ball animation.fbx using Guid(a0c4cb7556d8758419e8c018fe3ad7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad886a292499ed17f00b98062dd80ab') in 0.025671 seconds
+  Import took 0.048432 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
