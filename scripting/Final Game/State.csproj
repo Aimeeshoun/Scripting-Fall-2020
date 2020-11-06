@@ -9,10 +9,10 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}</ProjectGuid>
+    <ProjectGuid>{D53E012B-1FBF-3892-81D8-45AA9AE3B2AA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <AssemblyName>State</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -55,194 +55,10 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\UIScore.cs" />
-    <Compile Include="Assets\my scripts\Mouse.cs" />
-    <Compile Include="Assets\UIimageController4.cs" />
-    <Compile Include="Assets\my scripts\AIbehavior.cs" />
-    <Compile Include="Assets\HealthBar2.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AIPatrol2.cs" />
-    <Compile Include="Assets\my scripts\EnemyHealth.cs" />
-    <Compile Include="Assets\DamageAmount.cs" />
-    <Compile Include="Assets\my scripts\SelfDestruct2.cs" />
-    <Compile Include="Assets\Projectile.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\CameraOffset.cs" />
-    <Compile Include="Assets\my scripts\MeshBehavior.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\InvokeBehavior.cs" />
-    <Compile Include="Assets\my scripts\CallAFuntion.cs" />
-    <Compile Include="Assets\CharacterMoveStates.cs" />
-    <Compile Include="Assets\my scripts\KnockBack.cs" />
-    <Compile Include="Assets\my scripts\Instaciate.cs" />
-    <Compile Include="Assets\my scripts\PowerUpHealth.cs" />
-    <Compile Include="Assets\my scripts\CharacterKnockBack2.cs" />
-    <Compile Include="Assets\my scripts\Vector3Data1.cs" />
-    <Compile Include="Assets\my scripts\FloatData1.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\CameraFollowScript.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\instancerBehavior.cs" />
-    <Compile Include="Assets\my scripts\TriggerEventExample.cs" />
-    <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\MaterialMover.cs" />
-    <Compile Include="Assets\Health.cs" />
-    <Compile Include="Assets\ParticlesSystem.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\PlayerBehavior.cs" />
-    <Compile Include="Assets\RespawnClamp.cs" />
-    <Compile Include="Assets\my scripts\CharacterBehaviour.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AINavMesh.cs" />
-    <Compile Include="Assets\BackandForth.cs" />
-    <Compile Include="Assets\DestoyGameObject.cs" />
-    <Compile Include="Assets\Damage.cs" />
-    <Compile Include="Assets\BarDataObject.cs" />
-    <Compile Include="Assets\my scripts\Ontriggerenter.cs" />
-    <Compile Include="Assets\DestroyObject1.cs" />
-    <Compile Include="Assets\my scripts\ImageControl.cs" />
-    <Compile Include="Assets\my scripts\Patrol.cs" />
-    <Compile Include="Assets\my scripts\IntData1.cs" />
-    <Compile Include="Assets\my scripts\Spawn1.cs" />
-    <Compile Include="Assets\my scripts\MoveLocate.cs" />
-    <Compile Include="Assets\PlayerController.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AmmoCounter.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MoveLocator.cs" />
-    <Compile Include="Assets\my scripts\Lerp.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\DeathCoroutine.cs" />
-    <Compile Include="Assets\my scripts\GameAction.cs" />
-    <Compile Include="Assets\laser.cs" />
-    <Compile Include="Assets\EnumHandler.cs" />
-    <Compile Include="Assets\Score1.cs" />
-    <Compile Include="Assets\my scripts\MovementJump2.cs" />
-    <Compile Include="Assets\my scripts\MovementJump.cs" />
-    <Compile Include="Assets\DestroyCoin.cs" />
-    <Compile Include="Assets\my scripts\ImageController.cs" />
-    <Compile Include="Assets\IntData2.cs" />
-    <Compile Include="Assets\my scripts\Particles.cs" />
-    <Compile Include="Assets\Life.cs" />
-    <Compile Include="Assets\my scripts\CoinScript.cs" />
-    <Compile Include="Assets\my scripts\SelfDestruct.cs" />
-    <Compile Include="Assets\my scripts\TriggerEvent.cs" />
-    <Compile Include="Assets\my scripts\ScoreTextScript.cs" />
-    <Compile Include="Assets\my scripts\movement3.cs" />
-    <Compile Include="Assets\my scripts\LookAtbehavior.cs" />
-    <Compile Include="Assets\DestroyBullet2.cs" />
-    <Compile Include="Assets\my scripts\Instan.cs" />
-    <Compile Include="Assets\my scripts\GameActionHandleler.cs" />
-    <Compile Include="Assets\GameArtData.cs" />
-    <Compile Include="Assets\SliderController.cs" />
-    <Compile Include="Assets\EnumHandlerBar.cs" />
-    <Compile Include="Assets\my scripts\ApplyForce.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\BulletCounter.cs" />
-    <Compile Include="Assets\my scripts\ApplyForce1.cs" />
-    <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\Rotator.cs" />
-    <Compile Include="Assets\my scripts\movement.cs" />
-    <Compile Include="Assets\Animation.cs" />
-    <Compile Include="Assets\my scripts\Instancer2.cs" />
-    <Compile Include="Assets\my scripts\PowerUpHealth1.cs" />
-    <Compile Include="Assets\my scripts\FireAmmo.cs" />
-    <Compile Include="Assets\my scripts\FloatData.cs" />
-    <Compile Include="Assets\Pl.cs" />
-    <Compile Include="Assets\CoroutineTransform.cs" />
-    <Compile Include="Assets\CoinRotate.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MovingCoroutines.cs" />
-    <Compile Include="Assets\my scripts\leftand.cs" />
-    <Compile Include="Assets\my scripts\rightandLeft.cs" />
-    <Compile Include="Assets\SliderControl.cs" />
-    <Compile Include="Assets\my scripts\FloatData2.cs" />
-    <Compile Include="Assets\my scripts\Instancer3.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AI.cs" />
-    <Compile Include="Assets\my scripts\LookAtme.cs" />
-    <Compile Include="Assets\WeaponData.cs" />
-    <Compile Include="Assets\my scripts\JumpPowerUp.cs" />
-    <Compile Include="Assets\WalkinCircles.cs" />
-    <Compile Include="Assets\rotatefix.cs" />
-    <Compile Include="Assets\my scripts\LookAt4.cs" />
-    <Compile Include="Assets\Destroy1.cs" />
-    <Compile Include="Assets\Respawn.cs" />
-    <Compile Include="Assets\my scripts\EnemyDamage3.cs" />
-    <Compile Include="Assets\my scripts\HealthMinusFive.cs" />
-    <Compile Include="Assets\ImageBehavior.cs" />
-    <Compile Include="Assets\my scripts\lookat3.cs" />
-    <Compile Include="Assets\my scripts\Vector3data.cs" />
-    <Compile Include="Assets\my scripts\ColorChange.cs" />
-    <Compile Include="Assets\EnemyEnum.cs" />
-    <Compile Include="Assets\my scripts\AddScore1.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\LookAtBehavior2.cs" />
-    <Compile Include="Assets\my scripts\EnemyConfig.cs" />
-    <Compile Include="Assets\Events.cs" />
-    <Compile Include="Assets\my scripts\Monoevent.cs" />
-    <Compile Include="Assets\my scripts\Debug.cs" />
-    <Compile Include="Assets\my scripts\Health2.cs" />
-    <Compile Include="Assets\CharacterSwitchEnum.cs" />
-    <Compile Include="Assets\my scripts\Score.cs" />
-    <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
-    <Compile Include="Assets\my scripts\InstancerBehavior.cs" />
-    <Compile Include="Assets\my scripts\PlayerController.cs" />
-    <Compile Include="Assets\my scripts\Vector3dataobject.cs" />
-    <Compile Include="Assets\my scripts\InstanciatePrefab.cs" />
-    <Compile Include="Assets\Premator.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseController.cs" />
-    <Compile Include="Assets\my scripts\MovingBehavior.cs" />
-    <Compile Include="Assets\Coroutine.cs" />
-    <Compile Include="Assets\my scripts\HealthController.cs" />
-    <Compile Include="Assets\WeaponEnum.cs" />
-    <Compile Include="Assets\InstanciateBullet.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
-    <Compile Include="Assets\PlayerData.cs" />
-    <Compile Include="Assets\my scripts\UIImageController.cs" />
-    <Compile Include="Assets\MyfloatData.cs" />
-    <Compile Include="Assets\my scripts\rigidbodyMovement.cs" />
-    <Compile Include="Assets\CharacterBrain.cs" />
-    <Compile Include="Assets\Weapon Switch.cs" />
-    <Compile Include="Assets\my scripts\EventBehaviors.cs" />
-    <Compile Include="Assets\my scripts\lookat2.cs" />
-    <Compile Include="Assets\my scripts\OntriggerEvent.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AddScore.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\DestroyBullets.cs" />
-    <Compile Include="Assets\Event.cs" />
-    <Compile Include="Assets\my scripts\playerHealth.cs" />
-    <Compile Include="Assets\Countdown.cs" />
-    <Compile Include="Assets\Particles.cs" />
-    <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\WheelController.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MovingCoroutineSm.cs" />
-    <Compile Include="Assets\DestroyObject.cs" />
-    <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\ChestDemo.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseDownBehavior.cs" />
-    <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Demo 2.0\TCF_Demo.cs" />
-    <Compile Include="Assets\Jump.cs" />
-    <Compile Include="Assets\my scripts\AI.cs" />
-    <Compile Include="Assets\my scripts\CharacterMover.cs" />
-    <Compile Include="Assets\WhileLoop.cs" />
-    <Compile Include="Assets\Image Controller2.cs" />
-    <Compile Include="Assets\my scripts\Spawn.cs" />
-    <Compile Include="Assets\imagecontrollerForgameAction.cs" />
-    <Compile Include="Assets\Camera2.cs" />
-    <Compile Include="Assets\AudioPlay.cs" />
-    <Compile Include="Assets\my scripts\UITextController.cs" />
-    <Compile Include="Assets\my scripts\CoinRotation.cs" />
-    <Compile Include="Assets\PlayerRespwn.cs" />
-    <Compile Include="Assets\Player Health.cs" />
-    <Compile Include="Assets\Coroutines.cs" />
-    <Compile Include="Assets\FloatData4.cs" />
-    <Compile Include="Assets\AnimationBehavior.cs" />
-    <Compile Include="Assets\InstanciatePrefab2.cs" />
-    <Compile Include="Assets\EnumSwitch2.cs" />
-    <Compile Include="Assets\my scripts\IntData.cs" />
-    <Compile Include="Assets\my scripts\MouseEventBehavior.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\OnMouseDown.cs" />
-    <Compile Include="Assets\my scripts\FloatDataScript.cs" />
-    <Compile Include="Assets\CoinPickUp.cs" />
-    <Compile Include="Assets\my scripts\Health3.cs" />
-    <Compile Include="Assets\Collections List.cs" />
-    <Compile Include="Assets\Animation States.cs" />
-    <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\STATEMACHINE\STATEMACHINE.cs" />
-    <Compile Include="Assets\STATEMACHINE\State.cs" />
-    <Compile Include="Assets\STATEMACHINE\BallSystem.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
-     <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Alpha.shader" />
-     <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Regular.shader" />
-     <None Include="Assets\MY DOWNLOADS\FreeLabAssets\Shaders\SBS_Mana.shader" />
-     <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\!ToonyColors Readme.txt" />
-     <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Outline.shader" />
-     <None Include="Assets\MY DOWNLOADS\Five Seamless Tileable Ground Textures\read me.txt" />
-     <None Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\READ ME.txt" />
+     <None Include="Assets\STATEMACHINE\State.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -462,6 +278,18 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Graphs">
+      <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WebGL.Extensions">
+      <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+      <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>Library\PackageCache\com.unity.analytics@3.3.5\Unity.Analytics.Editor.dll</HintPath>
     </Reference>
@@ -470,6 +298,9 @@
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>Library\PackageCache\com.unity.analytics@3.3.5\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>Library\PackageCache\com.unity.purchasing@2.0.6\Editor\UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -816,59 +647,11 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>D:\Program Files\2020.2.0a21\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Monetization">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.Monetization.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
