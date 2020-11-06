@@ -201,6 +201,7 @@
     <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\ChestDemo.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseDownBehavior.cs" />
     <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Demo 2.0\TCF_Demo.cs" />
+    <Compile Include="Assets\Jump.cs" />
     <Compile Include="Assets\my scripts\AI.cs" />
     <Compile Include="Assets\my scripts\CharacterMover.cs" />
     <Compile Include="Assets\WhileLoop.cs" />
@@ -225,7 +226,11 @@
     <Compile Include="Assets\my scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\Jump.cs" />
+    <Compile Include="Assets\CharacterMoveStates.cs" />
+    <Compile Include="Assets\CharacterBrain.cs" />
+    <Compile Include="Assets\Animation States.cs" />
+    <Compile Include="Assets\AnimationBehavior.cs" />
+    <Compile Include="Assets\sidetosideBehavior.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
