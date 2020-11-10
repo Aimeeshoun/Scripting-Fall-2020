@@ -87,6 +87,7 @@
     <Compile Include="Assets\my scripts\CharacterBehaviour.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AINavMesh.cs" />
     <Compile Include="Assets\BackandForth.cs" />
+    <Compile Include="Assets\STATEMACHINE\State.cs" />
     <Compile Include="Assets\DestoyGameObject.cs" />
     <Compile Include="Assets\Damage.cs" />
     <Compile Include="Assets\BarDataObject.cs" />
@@ -94,9 +95,9 @@
     <Compile Include="Assets\DestroyObject1.cs" />
     <Compile Include="Assets\my scripts\ImageControl.cs" />
     <Compile Include="Assets\my scripts\Patrol.cs" />
-    <Compile Include="Assets\my scripts\IntData1.cs" />
     <Compile Include="Assets\my scripts\Spawn1.cs" />
     <Compile Include="Assets\my scripts\MoveLocate.cs" />
+    <Compile Include="Assets\STATEMACHINE\BallSystem.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AmmoCounter.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MoveLocator.cs" />
@@ -108,12 +109,12 @@
     <Compile Include="Assets\Score1.cs" />
     <Compile Include="Assets\my scripts\MovementJump2.cs" />
     <Compile Include="Assets\my scripts\MovementJump.cs" />
-    <Compile Include="Assets\DestroyCoin.cs" />
+    <Compile Include="Assets\DestroyBomb.cs" />
     <Compile Include="Assets\my scripts\ImageController.cs" />
     <Compile Include="Assets\IntData2.cs" />
     <Compile Include="Assets\my scripts\Particles.cs" />
     <Compile Include="Assets\Life.cs" />
-    <Compile Include="Assets\my scripts\CoinScript.cs" />
+    <Compile Include="Assets\my scripts\Enemies2Script.cs" />
     <Compile Include="Assets\my scripts\SelfDestruct.cs" />
     <Compile Include="Assets\my scripts\TriggerEvent.cs" />
     <Compile Include="Assets\my scripts\ScoreTextScript.cs" />
@@ -121,6 +122,7 @@
     <Compile Include="Assets\my scripts\LookAtbehavior.cs" />
     <Compile Include="Assets\DestroyBullet2.cs" />
     <Compile Include="Assets\my scripts\Instan.cs" />
+    <Compile Include="Assets\STATEMACHINE\STATEMACHINE.cs" />
     <Compile Include="Assets\my scripts\GameActionHandleler.cs" />
     <Compile Include="Assets\GameArtData.cs" />
     <Compile Include="Assets\SliderController.cs" />
@@ -230,9 +232,14 @@
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\STATEMACHINE\STATEMACHINE.cs" />
-    <Compile Include="Assets\STATEMACHINE\State.cs" />
-    <Compile Include="Assets\STATEMACHINE\BallSystem.cs" />
+    <Compile Include="Assets\nov 10\Respawn Script.cs" />
+    <Compile Include="Assets\nov 10\enumswitch.cs" />
+    <Compile Include="Assets\UItext2.cs" />
+    <Compile Include="Assets\nov 10\UI data.cs" />
+    <Compile Include="Assets\UItext.cs" />
+    <Compile Include="Assets\DestroyCoin.cs" />
+    <Compile Include="Assets\my scripts\CoinScript.cs" />
+    <Compile Include="Assets\my scripts\EnemiesScript32.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />

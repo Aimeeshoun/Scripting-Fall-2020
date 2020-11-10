@@ -2,15 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestroyCoin : MonoBehaviour
+public class DestroyBomb : MonoBehaviour
 {
 
     private void OnTriggerEnter(Collider other)
     {
-        if (CompareTag("Player"))
+        if (CompareTag("Bullet"))
            
 
-            ScoreTextScript.coinAmount += 1;
+            ScoreTextScript.enemieskilled += 1;
             Destroy(gameObject);
         }
     }
