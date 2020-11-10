@@ -64,11 +64,14 @@
     <Compile Include="Assets\my scripts\EnemyHealth.cs" />
     <Compile Include="Assets\DamageAmount.cs" />
     <Compile Include="Assets\my scripts\SelfDestruct2.cs" />
+    <Compile Include="Assets\UItext.cs" />
     <Compile Include="Assets\Projectile.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\CameraOffset.cs" />
+    <Compile Include="Assets\nov 10\Respawn Script.cs" />
     <Compile Include="Assets\my scripts\MeshBehavior.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\InvokeBehavior.cs" />
     <Compile Include="Assets\my scripts\CallAFuntion.cs" />
+    <Compile Include="Assets\my scripts\EnemiesScript32.cs" />
     <Compile Include="Assets\CharacterMoveStates.cs" />
     <Compile Include="Assets\my scripts\KnockBack.cs" />
     <Compile Include="Assets\my scripts\Instaciate.cs" />
@@ -96,6 +99,7 @@
     <Compile Include="Assets\my scripts\ImageControl.cs" />
     <Compile Include="Assets\my scripts\Patrol.cs" />
     <Compile Include="Assets\my scripts\Spawn1.cs" />
+    <Compile Include="Assets\DestroyCoin.cs" />
     <Compile Include="Assets\my scripts\MoveLocate.cs" />
     <Compile Include="Assets\STATEMACHINE\BallSystem.cs" />
     <Compile Include="Assets\PlayerController.cs" />
@@ -119,6 +123,7 @@
     <Compile Include="Assets\my scripts\TriggerEvent.cs" />
     <Compile Include="Assets\my scripts\ScoreTextScript.cs" />
     <Compile Include="Assets\my scripts\movement3.cs" />
+    <Compile Include="Assets\nov 10\enumswitch.cs" />
     <Compile Include="Assets\my scripts\LookAtbehavior.cs" />
     <Compile Include="Assets\DestroyBullet2.cs" />
     <Compile Include="Assets\my scripts\Instan.cs" />
@@ -146,6 +151,7 @@
     <Compile Include="Assets\SliderControl.cs" />
     <Compile Include="Assets\my scripts\FloatData2.cs" />
     <Compile Include="Assets\my scripts\Instancer3.cs" />
+    <Compile Include="Assets\UItext2.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AI.cs" />
     <Compile Include="Assets\my scripts\LookAtme.cs" />
     <Compile Include="Assets\WeaponData.cs" />
@@ -192,6 +198,7 @@
     <Compile Include="Assets\Weapon Switch.cs" />
     <Compile Include="Assets\my scripts\EventBehaviors.cs" />
     <Compile Include="Assets\my scripts\lookat2.cs" />
+    <Compile Include="Assets\nov 10\UI data.cs" />
     <Compile Include="Assets\my scripts\OntriggerEvent.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AddScore.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\DestroyBullets.cs" />
@@ -215,6 +222,7 @@
     <Compile Include="Assets\Camera2.cs" />
     <Compile Include="Assets\AudioPlay.cs" />
     <Compile Include="Assets\my scripts\UITextController.cs" />
+    <Compile Include="Assets\my scripts\CoinScript.cs" />
     <Compile Include="Assets\my scripts\CoinRotation.cs" />
     <Compile Include="Assets\PlayerRespwn.cs" />
     <Compile Include="Assets\Player Health.cs" />
@@ -232,14 +240,7 @@
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\nov 10\Respawn Script.cs" />
-    <Compile Include="Assets\nov 10\enumswitch.cs" />
-    <Compile Include="Assets\UItext2.cs" />
-    <Compile Include="Assets\nov 10\UI data.cs" />
-    <Compile Include="Assets\UItext.cs" />
-    <Compile Include="Assets\DestroyCoin.cs" />
-    <Compile Include="Assets\my scripts\CoinScript.cs" />
-    <Compile Include="Assets\my scripts\EnemiesScript32.cs" />
+    <Compile Include="Assets\destroy2.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
