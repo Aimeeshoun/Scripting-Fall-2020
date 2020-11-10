@@ -71,6 +71,7 @@
     <Compile Include="Assets\my scripts\MeshBehavior.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\InvokeBehavior.cs" />
     <Compile Include="Assets\my scripts\CallAFuntion.cs" />
+    <Compile Include="Assets\destroy2.cs" />
     <Compile Include="Assets\my scripts\EnemiesScript32.cs" />
     <Compile Include="Assets\CharacterMoveStates.cs" />
     <Compile Include="Assets\my scripts\KnockBack.cs" />
@@ -240,7 +241,7 @@
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\destroy2.cs" />
+    <Compile Include="Assets\DestroyBulletscript.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />

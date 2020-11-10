@@ -15,11 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60670
+61038
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 74.90 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 84.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -31,40 +31,40 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001584 seconds.
+Registered in 0.001754 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 51.49 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 50.43 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.396 seconds
+- Completed reload, in  1.556 seconds
 Registering precompiled user dll's ...
-Registered in 0.104916 seconds.
+Registered in 0.111322 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.986 seconds
+- Completed reload, in  0.974 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(3411e19edd44cfd46b548b058c3bc36c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs") state(2)
 Script is not up to date after domain reload: guid(73deb9b8722aa284eab27c4dc90956c6) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs") state(2)
@@ -3038,23 +3038,23 @@ Script is not up to date after domain reload: guid(af403e41e8c7f0a469428488646b1
 Script is not up to date after domain reload: guid(9c8ceb9efacb4974bb3b7e2a87137b07) path("Packages/com.unity.timeline/Editor/inspectors/DirectorNamedColorInspector.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513ef38) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 16880, restarting
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 19092, restarting
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 49.3 MB.
-System memory in use after: 49.2 MB.
+System memory in use after: 49.3 MB.
 
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 507.
-Total: 3.365000 ms (FindLiveObjects: 0.298000 ms CreateObjectMapping: 0.013000 ms MarkObjects: 2.951100 ms  DeleteObjects: 0.101300 ms)
+Total: 5.080600 ms (FindLiveObjects: 0.680600 ms CreateObjectMapping: 0.048600 ms MarkObjects: 4.229900 ms  DeleteObjects: 0.118200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Destroy1.cs
-  artifactKey: Guid(36d37907f0f36b44bba023f70bb37160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Destroy1.cs using Guid(36d37907f0f36b44bba023f70bb37160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4683c617c181ced0b7004553e3858167') in 0.048230 seconds
-  Import took 0.050784 seconds .
+  path: Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/TapeDispenser_Tape.mat
+  artifactKey: Guid(016214940b279224b919cfd8c3c30215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/HighDefinitionOfficeProps/Materials/TapeDispenser_Tape.mat using Guid(016214940b279224b919cfd8c3c30215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '793bfe4bea01e349732f0fcfeea1874b') in 0.259726 seconds
+  Import took 0.264320 seconds .
 
 ========================================================================
 Received Prepare
@@ -3063,52 +3063,44 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002894 seconds.
+Registered in 0.001439 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 74.85 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 60.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.108 seconds
+- Completed reload, in  1.556 seconds
 Registering precompiled user dll's ...
-Registered in 0.120323 seconds.
+Registered in 0.223263 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.915 seconds
-Platform modules already initialized, skipping
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
 Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.006 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.6 MB.
-System memory in use after: 89.7 MB.
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1996.
-Total: 3.142000 ms (FindLiveObjects: 0.360900 ms CreateObjectMapping: 0.076200 ms MarkObjects: 2.635200 ms  DeleteObjects: 0.068000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.844399 seconds.
-  path: Assets/Destroy1.cs
-  artifactKey: Guid(36d37907f0f36b44bba023f70bb37160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Destroy1.cs using Guid(36d37907f0f36b44bba023f70bb37160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bf53b788315a82757ea588d5dd7ce1') in 0.011342 seconds
-  Import took 0.016461 seconds .
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2036.
+Total: 2.630500 ms (FindLiveObjects: 0.416900 ms CreateObjectMapping: 0.142600 ms MarkObjects: 1.930300 ms  DeleteObjects: 0.139600 ms)
 
 ========================================================================
 Received Prepare
@@ -3117,7 +3109,7 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002576 seconds.
+Registered in 0.001512 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Script error: OnTriggerEnter
 This message parameter has to be of type: Collider
@@ -3125,15 +3117,15 @@ The message will be ignored.
 
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 59.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 80.36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.361 seconds
+- Completed reload, in  1.431 seconds
 Registering precompiled user dll's ...
-Registered in 0.594602 seconds.
+Registered in 0.110428 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
@@ -3143,22 +3135,800 @@ The message will be ignored.
 
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.079 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.4 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 2.400700 ms (FindLiveObjects: 0.409900 ms CreateObjectMapping: 0.129800 ms MarkObjects: 1.776800 ms  DeleteObjects: 0.082500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.790903 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.017809 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.022541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073192 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000955 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.010228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.172237 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001178 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.026735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094889 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001725 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.008372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121192 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001267 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.010359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131651 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000540 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.145466 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000324 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131728 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000541 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.010957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136459 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000775 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.008050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047763 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000844 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133493 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000362 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141530 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000328 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131307 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000436 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041321 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000557 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139633 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000357 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130195 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000378 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038359 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000433 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129884 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000318 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135104 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001130 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053945 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001012 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.007121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.143918 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000539 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.007928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132322 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000563 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128070 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000341 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.144261 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000370 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.008203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042222 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000452 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031386 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000461 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130410 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000595 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131828 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000416 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033063 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000681 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136780 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000320 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141215 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000536 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134542 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001230 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139061 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000943 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131359 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000681 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036583 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001339 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.008782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136606 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000382 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130932 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001005 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.010252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132540 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000505 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034809 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001140 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136738 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000626 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.007747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138669 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000380 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051860 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000487 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.013814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130681 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000447 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128544 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000393 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129437 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000481 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128036 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000337 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128216 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000544 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.007458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126599 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000686 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134479 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000347 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137854 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000419 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.007031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037194 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000517 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.011174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153726 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000394 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132342 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000917 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.009165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130297 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000300 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133436 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000840 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.010038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.157126 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000341 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.010912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131557 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000569 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040493 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000433 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.007104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127297 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000351 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128306 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000355 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129977 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000510 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.004393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127924 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000280 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.003660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056933 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000364 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.006290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134744 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000423 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128813 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000491 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:46.003125Z'
+  Import took 0.005439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137200 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000464 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.008257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129194 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000443 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.005531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.142011 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000660 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.006348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132254 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000691 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.009237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093021 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000647 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.010442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047916 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000470 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.005463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032336 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000683 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.007510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132676 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001170 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.007171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052159 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000391 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.007239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035693 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000475 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.006548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044507 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000720 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.007896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037991 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000362 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.006119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033706 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000361 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.005169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131168 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000537 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.011027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128100 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000562 seconds
+  ERROR: Build asset version error: assets/destroy2.cs in SourceAssetDB has modification time of '2020-11-10T20:11:31.5375278Z' while content on disk has modification time of '2020-11-10T20:11:54.1862623Z'
+  Import took 0.005508 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001413 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 77.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.247 seconds
+Registering precompiled user dll's ...
+Registered in 0.107301 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.649 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.0 MB.
-System memory in use after: 60.1 MB.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.4 MB.
+System memory in use after: 63.5 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2000.
-Total: 4.820900 ms (FindLiveObjects: 0.431900 ms CreateObjectMapping: 0.185600 ms MarkObjects: 4.059200 ms  DeleteObjects: 0.140900 ms)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2045.
+Total: 2.590100 ms (FindLiveObjects: 0.374500 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.035500 ms  DeleteObjects: 0.106700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.540587 seconds.
+  path: Assets/destroy2.cs
+  artifactKey: Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroy2.cs using Guid(1c0c8d7494cef1c4193e268c14e5c924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b576e4f469a834e05c4cf589c5bdc58') in 0.017414 seconds
+  Import took 0.026446 seconds .
 
 ========================================================================
 Received Prepare
@@ -3167,7 +3937,7 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002291 seconds.
+Registered in 0.001379 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Script error: OnTriggerEnter
 This message parameter has to be of type: Collider
@@ -3175,15 +3945,15 @@ The message will be ignored.
 
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 60.61 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 66.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.840 seconds
+- Completed reload, in  1.470 seconds
 Registering precompiled user dll's ...
-Registered in 0.114263 seconds.
+Registered in 0.117498 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
@@ -3193,128 +3963,22 @@ The message will be ignored.
 
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.089 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.0 MB.
-System memory in use after: 60.1 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2004.
-Total: 3.491600 ms (FindLiveObjects: 0.706600 ms CreateObjectMapping: 0.199100 ms MarkObjects: 2.383700 ms  DeleteObjects: 0.197500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 532.633586 seconds.
-  path: Assets/mY TOWER DEFENSE SCRIPT/dog faster speed.asset
-  artifactKey: Guid(6b87341afbbe8f74698bdd67595aaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/mY TOWER DEFENSE SCRIPT/dog faster speed.asset using Guid(6b87341afbbe8f74698bdd67595aaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a5db3b0bbbce568a8b5a2e0f904516') in 0.059362 seconds
-  Import took 0.068457 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 80.079485 seconds.
-  path: Assets/mY TOWER DEFENSE SCRIPT/dog speed.asset
-  artifactKey: Guid(f42b332e1d90c6f4290429236a0c173e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/mY TOWER DEFENSE SCRIPT/dog speed.asset using Guid(f42b332e1d90c6f4290429236a0c173e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d5d86ab556d775a2c35896e4e45f3a') in 0.013293 seconds
-  Import took 0.022532 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009794 seconds.
-  path: Assets/mY TOWER DEFENSE SCRIPT/dog speed.asset
-  artifactKey: Guid(f42b332e1d90c6f4290429236a0c173e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/mY TOWER DEFENSE SCRIPT/dog speed.asset using Guid(f42b332e1d90c6f4290429236a0c173e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d5d86ab556d775a2c35896e4e45f3a') in 0.007865 seconds
-  Import took 0.015283 seconds .
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001762 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 309.64 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.656 seconds
-Registering precompiled user dll's ...
-Registered in 0.111628 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.186 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.1 MB.
-System memory in use after: 60.1 MB.
+System memory in use before: 63.4 MB.
+System memory in use after: 63.5 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2008.
-Total: 2.469300 ms (FindLiveObjects: 0.338300 ms CreateObjectMapping: 0.088200 ms MarkObjects: 1.917500 ms  DeleteObjects: 0.123800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 94.167031 seconds.
-  path: Assets/mY TOWER DEFENSE SCRIPT/dog faster speed.asset
-  artifactKey: Guid(6b87341afbbe8f74698bdd67595aaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/mY TOWER DEFENSE SCRIPT/dog faster speed.asset using Guid(6b87341afbbe8f74698bdd67595aaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ed80c70ec4aefece9d633fdf2ac5ef') in 0.021596 seconds
-  Import took 0.029155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000462 seconds.
-  path: Assets/mY TOWER DEFENSE SCRIPT/dog jump count.asset
-  artifactKey: Guid(1dfc143815c8a564ea8fc3d922452008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/mY TOWER DEFENSE SCRIPT/dog jump count.asset using Guid(1dfc143815c8a564ea8fc3d922452008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8a2f249e4c9143a8e1038cfa81ee1c') in 0.024599 seconds
-  Import took 0.030863 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000503 seconds.
-  path: Assets/mY TOWER DEFENSE SCRIPT/dog jumpforce.asset
-  artifactKey: Guid(dbab4b9cd89e43245aa05767b2a54164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/mY TOWER DEFENSE SCRIPT/dog jumpforce.asset using Guid(dbab4b9cd89e43245aa05767b2a54164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad77b81d23b2aee86d9b06454b7f3dac') in 0.016389 seconds
-  Import took 0.021615 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.246197 seconds.
-  path: Assets/mY TOWER DEFENSE SCRIPT/dog faster speed.asset
-  artifactKey: Guid(6b87341afbbe8f74698bdd67595aaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/mY TOWER DEFENSE SCRIPT/dog faster speed.asset using Guid(6b87341afbbe8f74698bdd67595aaec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ed80c70ec4aefece9d633fdf2ac5ef') in 0.004001 seconds
-  Import took 0.008326 seconds .
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2049.
+Total: 2.814200 ms (FindLiveObjects: 0.613600 ms CreateObjectMapping: 0.075500 ms MarkObjects: 1.987600 ms  DeleteObjects: 0.136300 ms)
 
 ========================================================================
 Received Prepare
@@ -3323,7 +3987,7 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001407 seconds.
+Registered in 0.002472 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Script error: OnTriggerEnter
 This message parameter has to be of type: Collider
@@ -3331,15 +3995,15 @@ The message will be ignored.
 
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 57.70 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 78.86 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.621 seconds
+- Completed reload, in  2.865 seconds
 Registering precompiled user dll's ...
-Registered in 0.112918 seconds.
+Registered in 0.341419 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
@@ -3349,70 +4013,21 @@ The message will be ignored.
 
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2.01 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.278 seconds
+- Completed reload, in  2.621 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.1 MB.
-System memory in use after: 60.2 MB.
+System memory in use before: 63.4 MB.
+System memory in use after: 63.5 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2012.
-Total: 3.439300 ms (FindLiveObjects: 0.495500 ms CreateObjectMapping: 0.099500 ms MarkObjects: 2.729100 ms  DeleteObjects: 0.113300 ms)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2053.
+Total: 4.598100 ms (FindLiveObjects: 1.816600 ms CreateObjectMapping: 0.472900 ms MarkObjects: 2.203800 ms  DeleteObjects: 0.099700 ms)
 
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002764 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 161.12 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.658 seconds
-Registering precompiled user dll's ...
-Registered in 0.116319 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.272 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.1 MB.
-System memory in use after: 60.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2016.
-Total: 2.722800 ms (FindLiveObjects: 0.705800 ms CreateObjectMapping: 0.138600 ms MarkObjects: 1.697200 ms  DeleteObjects: 0.179900 ms)
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

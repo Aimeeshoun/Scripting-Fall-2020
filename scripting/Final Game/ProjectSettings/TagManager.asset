@@ -12,6 +12,7 @@ TagManager:
   - redbullet
   - fruit
   - Bullet
+  - Bush
   layers:
   - Default
   - TransparentFX
