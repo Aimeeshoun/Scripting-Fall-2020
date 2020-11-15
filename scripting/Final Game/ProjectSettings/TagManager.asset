@@ -13,6 +13,7 @@ TagManager:
   - fruit
   - Bullet
   - Bush
+  - Door
   layers:
   - Default
   - TransparentFX
