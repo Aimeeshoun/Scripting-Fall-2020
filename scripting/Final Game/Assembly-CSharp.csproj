@@ -67,7 +67,7 @@
     <Compile Include="Assets\UItext.cs" />
     <Compile Include="Assets\Projectile.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\CameraOffset.cs" />
-    <Compile Include="Assets\nov 10\respawnpoint.cs" />
+    <Compile Include="Assets\nov 10\New Folder\respawnpoint.cs" />
     <Compile Include="Assets\my scripts\MeshBehavior.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\InvokeBehavior.cs" />
     <Compile Include="Assets\my scripts\CallAFuntion.cs" />
@@ -237,12 +237,12 @@
     <Compile Include="Assets\my scripts\MouseEventBehavior.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\OnMouseDown.cs" />
     <Compile Include="Assets\my scripts\FloatDataScript.cs" />
+    <Compile Include="Assets\spawn5.cs" />
     <Compile Include="Assets\CoinPickUp.cs" />
     <Compile Include="Assets\my scripts\Health3.cs" />
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\spawn5.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
