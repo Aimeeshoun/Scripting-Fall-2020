@@ -7,7 +7,7 @@ public class CoinRotate : MonoBehaviour
 
     void Update()
     {
-        transform.Rotate(Vector3.right * Time.deltaTime * 20);
+        transform.Rotate(Vector3.right * Time.deltaTime * 50);
 
     }
 
