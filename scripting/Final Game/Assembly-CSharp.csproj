@@ -75,6 +75,7 @@
     <Compile Include="Assets\my scripts\EnemiesScript32.cs" />
     <Compile Include="Assets\CharacterMoveStates.cs" />
     <Compile Include="Assets\my scripts\KnockBack.cs" />
+    <Compile Include="Assets\PlayAudio2.cs" />
     <Compile Include="Assets\my scripts\Instaciate.cs" />
     <Compile Include="Assets\my scripts\PowerUpHealth.cs" />
     <Compile Include="Assets\my scripts\CharacterKnockBack2.cs" />
@@ -101,6 +102,7 @@
     <Compile Include="Assets\my scripts\Patrol.cs" />
     <Compile Include="Assets\my scripts\Spawn1.cs" />
     <Compile Include="Assets\DestroyCoin.cs" />
+    <Compile Include="Assets\cageAnim.cs" />
     <Compile Include="Assets\my scripts\MoveLocate.cs" />
     <Compile Include="Assets\STATEMACHINE\BallSystem.cs" />
     <Compile Include="Assets\PlayerController.cs" />
@@ -138,6 +140,7 @@
     <Compile Include="Assets\my scripts\ApplyForce1.cs" />
     <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\Rotator.cs" />
     <Compile Include="Assets\my scripts\movement.cs" />
+    <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Audio\Coin\triggeranimation.cs" />
     <Compile Include="Assets\Animation.cs" />
     <Compile Include="Assets\my scripts\Instancer2.cs" />
     <Compile Include="Assets\my scripts\PowerUpHealth1.cs" />
@@ -150,6 +153,7 @@
     <Compile Include="Assets\my scripts\leftand.cs" />
     <Compile Include="Assets\my scripts\rightandLeft.cs" />
     <Compile Include="Assets\SliderControl.cs" />
+    <Compile Include="Assets\PlayAudio.cs" />
     <Compile Include="Assets\my scripts\FloatData2.cs" />
     <Compile Include="Assets\my scripts\Instancer3.cs" />
     <Compile Include="Assets\UItext2.cs" />
@@ -185,6 +189,7 @@
     <Compile Include="Assets\my scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\my scripts\InstanciatePrefab.cs" />
     <Compile Include="Assets\Premator.cs" />
+    <Compile Include="Assets\triggercage.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseController.cs" />
     <Compile Include="Assets\my scripts\MovingBehavior.cs" />
     <Compile Include="Assets\Coroutine.cs" />
@@ -243,11 +248,7 @@
     <Compile Include="Assets\Collections List.cs" />
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
-    <Compile Include="Assets\PlayAudio.cs" />
-    <Compile Include="Assets\PlayAudio2.cs" />
-    <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Audio\Coin\triggeranimation.cs" />
-    <Compile Include="Assets\triggercage.cs" />
-    <Compile Include="Assets\cageAnim.cs" />
+    <Compile Include="Assets\EnemyFollow.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
