@@ -15,13 +15,13 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51763
+52798
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 Using Asset Import Pipeline V2.
 Unable to join player connection multicast group.
 
-Refreshing native plugins compatible for Editor in 128.05 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 104.44 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -33,40 +33,40 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56668
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56444
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001496 seconds.
+Registered in 0.003088 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 59.84 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 58.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.103 seconds
+- Completed reload, in  1.643 seconds
 Registering precompiled user dll's ...
-Registered in 0.109105 seconds.
+Registered in 0.119275 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.36 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.088 seconds
+- Completed reload, in  1.336 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(3411e19edd44cfd46b548b058c3bc36c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs") state(2)
 Script is not up to date after domain reload: guid(73deb9b8722aa284eab27c4dc90956c6) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs") state(2)
@@ -459,6 +459,7 @@ Script is not up to date after domain reload: guid(cb6d7f54bc2d9b9468cf8aa6ad50b
 Script is not up to date after domain reload: guid(43a3aec217baa9644a7cf34b5f93fed9) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/PlayerTestAssemblyProvider.cs") state(2)
 Script is not up to date after domain reload: guid(f83974ba7fec8434e813e85d1ff41d0d) path("Assets/my scripts/Lerp.cs") state(2)
 Script is not up to date after domain reload: guid(2359c66dee10c454c97f6aea84e3fe22) path("Packages/com.unity.ugui/Runtime/EventSystem/EventInterfaces.cs") state(2)
+Script is not up to date after domain reload: guid(8a12b7768eebe3d4289da803d985b6d5) path("Assets/CinemachineExamples/Shared/Scripts/ActivateCamera.cs") state(2)
 Script is not up to date after domain reload: guid(03dd6911110407b418a3e5d3f0c473af) path("Packages/com.unity.2d.sprite/Editor/AssemblyInfo.cs") state(2)
 Script is not up to date after domain reload: guid(fea12beeeb5a7a448b5e60f50e40975d) path("Packages/com.unity.ugui/Editor/UI/PropertyDrawers/FontDataDrawer.cs") state(2)
 Script is not up to date after domain reload: guid(4c5eb52d37bb6714a98af73df7d9cf2c) path("Packages/com.unity.timeline/Editor/Window/Modes/TimelineDisabledMode.cs") state(2)
@@ -514,6 +515,7 @@ Script is not up to date after domain reload: guid(99f08c278783a314091b218d2a38f
 Script is not up to date after domain reload: guid(852682863522c475ea4427ad90cf705a) path("Packages/com.unity.ads/Runtime/Monetization/AndroidPlacementContentOperations.cs") state(2)
 Script is not up to date after domain reload: guid(59ee13971b9c3b049bb9a96886120e0b) path("Packages/com.unity.collab-proxy/Editor/Views/StartPageView.cs") state(2)
 Script is not up to date after domain reload: guid(612b00d793cac3c49808ab3ee5428f16) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRun/TestJobDataHolder.cs") state(2)
+Script is not up to date after domain reload: guid(6d5ce1f09df6bab47b1f6760b02dec74) path("Assets/CinemachineExamples/Scenes/Scripting/ScriptingExample.cs") state(2)
 Script is not up to date after domain reload: guid(79ced2556f0af814a840b86232613ff1) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItem.cs") state(2)
 Script is not up to date after domain reload: guid(0cd44c1031e13a943bb63640046fad76) path("Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs") state(2)
 Script is not up to date after domain reload: guid(010246a07de7cb34185a2a7b1c1fad59) path("Packages/com.unity.ide.rider/Rider/Editor/UnitTesting/CallbackData.cs") state(2)
@@ -522,6 +524,7 @@ Script is not up to date after domain reload: guid(1143ae6bb91836f4a8f8ebfaabb93
 Script is not up to date after domain reload: guid(20ff4283f687e044087714f82c4d6d3f) path("Packages/com.unity.ugui/Runtime/UI/Core/MaterialModifiers/IMaterialModifier.cs") state(2)
 Script is not up to date after domain reload: guid(a2fba25a5cd15594e8f050a11e386c80) path("Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs") state(2)
 Script is not up to date after domain reload: guid(a4c41ac9245b87c4192012080077d830) path("Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs") state(2)
+Script is not up to date after domain reload: guid(44f5d1b3342d4e34593e4f948d951750) path("Assets/CinemachineExamples/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs") state(2)
 Script is not up to date after domain reload: guid(bf62f2886395149558d770309cd36398) path("Packages/com.unity.ads/Runtime/Advertisement/BannerLoadOptions.cs") state(2)
 Script is not up to date after domain reload: guid(0a017569bfe174e4890797b4d64cbabc) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAssetUtilities.cs") state(2)
 Script is not up to date after domain reload: guid(766f57596c12d0a4ea4ad16a2ea887bf) path("Assets/EnumHandler.cs") state(2)
@@ -638,6 +641,7 @@ Script is not up to date after domain reload: guid(5143f58107604835ab1a5efa2d881
 Script is not up to date after domain reload: guid(0de03ebd74e2b474fa23d05ab42d0cd8) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/CallbacksDelegator.cs") state(2)
 Script is not up to date after domain reload: guid(671742d5818aa1c4f8493ba80682fd5d) path("Assets/my scripts/Instan.cs") state(2)
 Script is not up to date after domain reload: guid(900f1a451c764dc3bdcc0de815a15935) path("Packages/com.unity.textmeshpro/Scripts/Editor/GlyphInfoDrawer.cs") state(2)
+Script is not up to date after domain reload: guid(23645a9e62f352c4aa1ddb8e55df7c3b) path("Assets/CinemachineExamples/Shared/Scripts/MixingCameraBlend.cs") state(2)
 Script is not up to date after domain reload: guid(828075bc53f2de84982a943870529b7b) path("Packages/com.unity.ugui/Runtime/UI/Core/Misc.cs") state(2)
 Script is not up to date after domain reload: guid(83e0f84bac9ca4f52a111a3296db0103) path("Packages/com.unity.ads/Runtime/Advertisement/Platform/Editor/EditorPlatform.cs") state(2)
 Script is not up to date after domain reload: guid(d0771c912c4d7c841b238a454ec571cb) path("Packages/com.unity.xr.legacyinputhelpers/Editor/ArmModels/TransitionArmModelEditor.cs") state(2)
@@ -1159,6 +1163,7 @@ Script is not up to date after domain reload: guid(fbbb1ee655846b043baf6c3502b5c
 Script is not up to date after domain reload: guid(e47743db60d9e3e48b0a6fa8c0b95640) path("Packages/com.unity.collab-proxy/Tests/Editor/Models/TestMainModel.cs") state(2)
 Script is not up to date after domain reload: guid(80ac8f5b2a7fa904dbc80111be88c8be) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRun/TestJobData.cs") state(2)
 Script is not up to date after domain reload: guid(4d82f3cb1859dfe4fb3e5d83610c264c) path("Packages/com.unity.collab-proxy/Tests/Editor/Presenters/TestHistoryView.cs") state(2)
+Script is not up to date after domain reload: guid(ae2e8d9cd0201fb46ba38269b8ee1ae6) path("Assets/CinemachineExamples/Scenes/Trigger volumes/GenericTrigger.cs") state(2)
 Script is not up to date after domain reload: guid(7693972390a4ed841a986c0c452c1058) path("Packages/com.unity.ugui/Editor/UI/LayoutElementEditor.cs") state(2)
 Script is not up to date after domain reload: guid(6970acb75989fcb48954dc52e0e38a5a) path("Assets/triggercage.cs") state(2)
 Script is not up to date after domain reload: guid(fb461734117c80c43ab595d699f801eb) path("Packages/com.unity.timeline/Editor/inspectors/MarkerInspector.cs") state(2)
@@ -1226,6 +1231,8 @@ Script is not up to date after domain reload: guid(7116e04a377b195458798657c617e
 Script is not up to date after domain reload: guid(15e0374501f39d54eb30235764636e0e) path("Packages/com.unity.timeline/Runtime/Control/ControlTrack.cs") state(2)
 Script is not up to date after domain reload: guid(67e3583b91179094094c6a188b232262) path("Packages/com.unity.ugui/Runtime/UI/Core/Culling/Clipping.cs") state(2)
 Script is not up to date after domain reload: guid(05f582d4fbc8e0c40afccb76bbbe0935) path("Packages/com.unity.ugui/Editor/UI/DropdownEditor.cs") state(2)
+Script is not up to date after domain reload: guid(5281785fbe32be4488391fbe4acda0d3) path("Assets/CinemachineExamples/Shared/Models/UnityCharacter/Scripts/CharacterMovement.cs") state(2)
+Script is not up to date after domain reload: guid(9714b57b66a74d641bb1553c86fad319) path("Assets/CinemachineExamples/Shared/Scripts/ActivateTimeline.cs") state(2)
 Script is not up to date after domain reload: guid(5e79d50dea5c9c74d9297cce6cd6d053) path("Packages/com.unity.timeline/Editor/Actions/ActionContext.cs") state(2)
 Script is not up to date after domain reload: guid(472a6f18dd2f97c41af72271d22db869) path("Packages/com.unity.ugui/Editor/UI/ButtonEditor.cs") state(2)
 Script is not up to date after domain reload: guid(c2eb4bd7cf0c8d94c9c918077dee9dc0) path("Assets/my scripts/rigidbodyMovement.cs") state(2)
@@ -1284,8 +1291,9 @@ Script is not up to date after domain reload: guid(9f1e0a9724743a74794256ebe791f
 Script is not up to date after domain reload: guid(872e4b92d663b05489fe34966680c29d) path("Packages/com.unity.ugui/Runtime/UI/Core/Utility/ObjectPool.cs") state(2)
 Script is not up to date after domain reload: guid(411b7c7ffc0960249b35a2a247b66ff7) path("Packages/com.unity.timeline/Editor/Utilities/TrackModifier.cs") state(2)
 Script is not up to date after domain reload: guid(325a6a3050a061e4b8aa51386c30e8e1) path("Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs") state(2)
-Script is not up to date after domain reload: guid(6d52c3973039b074697833c7052a6daa) path("Packages/com.unity.collab-proxy/Editor/Components/ChangeListElements/HistoryChangeListElement.cs") state(2)
+Script is not up to date after domain reload: guid(2cfb0b06d5a4af5429ea7f2b67fd8579) path("Assets/CinemachineExamples/Shared/Scripts/ActivateCamOnPlay.cs") state(2)
 Script is not up to date after domain reload: guid(2705215ac5b84b70bacc50632be6e391) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Settings.cs") state(2)
+Script is not up to date after domain reload: guid(6d52c3973039b074697833c7052a6daa) path("Packages/com.unity.collab-proxy/Editor/Components/ChangeListElements/HistoryChangeListElement.cs") state(2)
 Script is not up to date after domain reload: guid(f6bd368ab00d75c459e2582e017191e6) path("Packages/com.unity.timeline/Editor/Manipulators/Move/MoveItemHandler.cs") state(2)
 Script is not up to date after domain reload: guid(2c87ec8c97244cd47945ec90a99abe35) path("Packages/com.unity.timeline/Editor/Items/ITimelineItem.cs") state(2)
 Script is not up to date after domain reload: guid(6797ef5b31abfd44993cf9870584620e) path("Packages/com.unity.collab-proxy/Editor/Views/Adapters/IAdapterObserver.cs") state(2)
@@ -1394,6 +1402,7 @@ Script is not up to date after domain reload: guid(78759e25237a7430587982cd92a2a
 Script is not up to date after domain reload: guid(3c4ccfb0896bcf44da13e152b267aa49) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/PrebuildSetupAttributeFinder.cs") state(2)
 Script is not up to date after domain reload: guid(d7f59365ba0cecb4c85779c30de87503) path("Assets/my scripts/Spawn.cs") state(2)
 Script is not up to date after domain reload: guid(ef5fa6e2005defb4ab5142723827b58e) path("Packages/com.unity.timeline/Editor/Utilities/BindingUtility.cs") state(2)
+Script is not up to date after domain reload: guid(578f562e15904cc4aaccbe9d98154103) path("Assets/CinemachineExamples/Shared/Scripts/ActivateObject.cs") state(2)
 Script is not up to date after domain reload: guid(a8604e8f13b3be84b8bc0c1507d8f3f6) path("Packages/com.unity.ugui/Runtime/UI/Core/SpecializedCollections/IndexedSet.cs") state(2)
 Script is not up to date after domain reload: guid(021989652c46434d98428c7e02cb8ab8) path("Packages/com.unity.collab-proxy/Editor/Models/Enums/ProjectStatus.cs") state(2)
 Script is not up to date after domain reload: guid(687acdc95675db149bf5de5771ecac18) path("Packages/com.unity.2d.sprite/Editor/SpriteEditor/SpriteEditorWindow.cs") state(2)
@@ -1590,12 +1599,14 @@ Script is not up to date after domain reload: guid(e74ddf4132f3401409c824bed6028
 Script is not up to date after domain reload: guid(8413ca0e506d42a1a4bd9769f204ad16) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SDFShaderGUI.cs") state(2)
 Script is not up to date after domain reload: guid(338a9a20327ff3d4db8268426f3e572b) path("Assets/spawn5.cs") state(2)
 Script is not up to date after domain reload: guid(b846f69b139b3a341a5699a09fa52b2c) path("Packages/com.unity.timeline/Editor/Window/TimelineWindow_TimeArea.cs") state(2)
+Script is not up to date after domain reload: guid(803b00b1c55094e499a99684ddbd9b57) path("Assets/CinemachineExamples/Shared/Scripts/ExampleHelpWindow.cs") state(2)
 Script is not up to date after domain reload: guid(fde0d25a170598d46a0b9dc16b4527a5) path("Packages/com.unity.timeline/Runtime/Activation/ActivationPlayableAsset.cs") state(2)
 Script is not up to date after domain reload: guid(9713795381722eb43b623dffba25d115) path("Packages/com.unity.ugui/Tests/Runtime/Image/TestableImage.cs") state(2)
 Script is not up to date after domain reload: guid(1fe0f539450e54dbc85bfb2fa6b466fb) path("Packages/com.unity.timeline/Editor/Utilities/AnimatedParameterCache.cs") state(2)
 Script is not up to date after domain reload: guid(9390296e78291b543b2f4a9761ef8139) path("Packages/com.unity.ugui/Tests/Runtime/Canvas/CheckMeshColorsAndColors32Match.cs") state(2)
 Script is not up to date after domain reload: guid(952b3dc7b47846947b37c8d3ae46579a) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/UnityTestProtocol/IUtpMessageReporter.cs") state(2)
 Script is not up to date after domain reload: guid(1ea10891dd782154ca0fb67bce9e6f72) path("Packages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInputModule.cs") state(2)
+Script is not up to date after domain reload: guid(36562141f3e01c7499f91e66f806814c) path("Assets/CinemachineExamples/Shared/Scripts/ActivateCameraWithDistance.cs") state(2)
 Script is not up to date after domain reload: guid(f4044717213e31446939f7bd49c896ea) path("Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs") state(2)
 Script is not up to date after domain reload: guid(358a618bc6bd9354d81cc206fd2ed80e) path("Packages/com.unity.ugui/Tests/Runtime/Dropdown/DropdownTests.cs") state(2)
 Script is not up to date after domain reload: guid(6409dfb055c1143e8ab71f9cd95f3163) path("Packages/com.unity.ads/Runtime/Advertisement/MetaData.cs") state(2)
@@ -2051,6 +2062,7 @@ Script is not up to date after domain reload: guid(cb6d7f54bc2d9b9468cf8aa6ad50b
 Script is not up to date after domain reload: guid(43a3aec217baa9644a7cf34b5f93fed9) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/Utils/AssemblyProvider/PlayerTestAssemblyProvider.cs") state(2)
 Script is not up to date after domain reload: guid(f83974ba7fec8434e813e85d1ff41d0d) path("Assets/my scripts/Lerp.cs") state(2)
 Script is not up to date after domain reload: guid(2359c66dee10c454c97f6aea84e3fe22) path("Packages/com.unity.ugui/Runtime/EventSystem/EventInterfaces.cs") state(2)
+Script is not up to date after domain reload: guid(8a12b7768eebe3d4289da803d985b6d5) path("Assets/CinemachineExamples/Shared/Scripts/ActivateCamera.cs") state(2)
 Script is not up to date after domain reload: guid(03dd6911110407b418a3e5d3f0c473af) path("Packages/com.unity.2d.sprite/Editor/AssemblyInfo.cs") state(2)
 Script is not up to date after domain reload: guid(fea12beeeb5a7a448b5e60f50e40975d) path("Packages/com.unity.ugui/Editor/UI/PropertyDrawers/FontDataDrawer.cs") state(2)
 Script is not up to date after domain reload: guid(4c5eb52d37bb6714a98af73df7d9cf2c) path("Packages/com.unity.timeline/Editor/Window/Modes/TimelineDisabledMode.cs") state(2)
@@ -2106,6 +2118,7 @@ Script is not up to date after domain reload: guid(99f08c278783a314091b218d2a38f
 Script is not up to date after domain reload: guid(852682863522c475ea4427ad90cf705a) path("Packages/com.unity.ads/Runtime/Monetization/AndroidPlacementContentOperations.cs") state(2)
 Script is not up to date after domain reload: guid(59ee13971b9c3b049bb9a96886120e0b) path("Packages/com.unity.collab-proxy/Editor/Views/StartPageView.cs") state(2)
 Script is not up to date after domain reload: guid(612b00d793cac3c49808ab3ee5428f16) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRun/TestJobDataHolder.cs") state(2)
+Script is not up to date after domain reload: guid(6d5ce1f09df6bab47b1f6760b02dec74) path("Assets/CinemachineExamples/Scenes/Scripting/ScriptingExample.cs") state(2)
 Script is not up to date after domain reload: guid(79ced2556f0af814a840b86232613ff1) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItem.cs") state(2)
 Script is not up to date after domain reload: guid(0cd44c1031e13a943bb63640046fad76) path("Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs") state(2)
 Script is not up to date after domain reload: guid(010246a07de7cb34185a2a7b1c1fad59) path("Packages/com.unity.ide.rider/Rider/Editor/UnitTesting/CallbackData.cs") state(2)
@@ -2114,6 +2127,7 @@ Script is not up to date after domain reload: guid(1143ae6bb91836f4a8f8ebfaabb93
 Script is not up to date after domain reload: guid(20ff4283f687e044087714f82c4d6d3f) path("Packages/com.unity.ugui/Runtime/UI/Core/MaterialModifiers/IMaterialModifier.cs") state(2)
 Script is not up to date after domain reload: guid(a2fba25a5cd15594e8f050a11e386c80) path("Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs") state(2)
 Script is not up to date after domain reload: guid(a4c41ac9245b87c4192012080077d830) path("Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs") state(2)
+Script is not up to date after domain reload: guid(44f5d1b3342d4e34593e4f948d951750) path("Assets/CinemachineExamples/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs") state(2)
 Script is not up to date after domain reload: guid(bf62f2886395149558d770309cd36398) path("Packages/com.unity.ads/Runtime/Advertisement/BannerLoadOptions.cs") state(2)
 Script is not up to date after domain reload: guid(0a017569bfe174e4890797b4d64cbabc) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAssetUtilities.cs") state(2)
 Script is not up to date after domain reload: guid(766f57596c12d0a4ea4ad16a2ea887bf) path("Assets/EnumHandler.cs") state(2)
@@ -2230,6 +2244,7 @@ Script is not up to date after domain reload: guid(5143f58107604835ab1a5efa2d881
 Script is not up to date after domain reload: guid(0de03ebd74e2b474fa23d05ab42d0cd8) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/Api/CallbacksDelegator.cs") state(2)
 Script is not up to date after domain reload: guid(671742d5818aa1c4f8493ba80682fd5d) path("Assets/my scripts/Instan.cs") state(2)
 Script is not up to date after domain reload: guid(900f1a451c764dc3bdcc0de815a15935) path("Packages/com.unity.textmeshpro/Scripts/Editor/GlyphInfoDrawer.cs") state(2)
+Script is not up to date after domain reload: guid(23645a9e62f352c4aa1ddb8e55df7c3b) path("Assets/CinemachineExamples/Shared/Scripts/MixingCameraBlend.cs") state(2)
 Script is not up to date after domain reload: guid(828075bc53f2de84982a943870529b7b) path("Packages/com.unity.ugui/Runtime/UI/Core/Misc.cs") state(2)
 Script is not up to date after domain reload: guid(83e0f84bac9ca4f52a111a3296db0103) path("Packages/com.unity.ads/Runtime/Advertisement/Platform/Editor/EditorPlatform.cs") state(2)
 Script is not up to date after domain reload: guid(d0771c912c4d7c841b238a454ec571cb) path("Packages/com.unity.xr.legacyinputhelpers/Editor/ArmModels/TransitionArmModelEditor.cs") state(2)
@@ -2751,6 +2766,7 @@ Script is not up to date after domain reload: guid(fbbb1ee655846b043baf6c3502b5c
 Script is not up to date after domain reload: guid(e47743db60d9e3e48b0a6fa8c0b95640) path("Packages/com.unity.collab-proxy/Tests/Editor/Models/TestMainModel.cs") state(2)
 Script is not up to date after domain reload: guid(80ac8f5b2a7fa904dbc80111be88c8be) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestRun/TestJobData.cs") state(2)
 Script is not up to date after domain reload: guid(4d82f3cb1859dfe4fb3e5d83610c264c) path("Packages/com.unity.collab-proxy/Tests/Editor/Presenters/TestHistoryView.cs") state(2)
+Script is not up to date after domain reload: guid(ae2e8d9cd0201fb46ba38269b8ee1ae6) path("Assets/CinemachineExamples/Scenes/Trigger volumes/GenericTrigger.cs") state(2)
 Script is not up to date after domain reload: guid(7693972390a4ed841a986c0c452c1058) path("Packages/com.unity.ugui/Editor/UI/LayoutElementEditor.cs") state(2)
 Script is not up to date after domain reload: guid(6970acb75989fcb48954dc52e0e38a5a) path("Assets/triggercage.cs") state(2)
 Script is not up to date after domain reload: guid(fb461734117c80c43ab595d699f801eb) path("Packages/com.unity.timeline/Editor/inspectors/MarkerInspector.cs") state(2)
@@ -2818,6 +2834,8 @@ Script is not up to date after domain reload: guid(7116e04a377b195458798657c617e
 Script is not up to date after domain reload: guid(15e0374501f39d54eb30235764636e0e) path("Packages/com.unity.timeline/Runtime/Control/ControlTrack.cs") state(2)
 Script is not up to date after domain reload: guid(67e3583b91179094094c6a188b232262) path("Packages/com.unity.ugui/Runtime/UI/Core/Culling/Clipping.cs") state(2)
 Script is not up to date after domain reload: guid(05f582d4fbc8e0c40afccb76bbbe0935) path("Packages/com.unity.ugui/Editor/UI/DropdownEditor.cs") state(2)
+Script is not up to date after domain reload: guid(5281785fbe32be4488391fbe4acda0d3) path("Assets/CinemachineExamples/Shared/Models/UnityCharacter/Scripts/CharacterMovement.cs") state(2)
+Script is not up to date after domain reload: guid(9714b57b66a74d641bb1553c86fad319) path("Assets/CinemachineExamples/Shared/Scripts/ActivateTimeline.cs") state(2)
 Script is not up to date after domain reload: guid(5e79d50dea5c9c74d9297cce6cd6d053) path("Packages/com.unity.timeline/Editor/Actions/ActionContext.cs") state(2)
 Script is not up to date after domain reload: guid(472a6f18dd2f97c41af72271d22db869) path("Packages/com.unity.ugui/Editor/UI/ButtonEditor.cs") state(2)
 Script is not up to date after domain reload: guid(c2eb4bd7cf0c8d94c9c918077dee9dc0) path("Assets/my scripts/rigidbodyMovement.cs") state(2)
@@ -2876,8 +2894,9 @@ Script is not up to date after domain reload: guid(9f1e0a9724743a74794256ebe791f
 Script is not up to date after domain reload: guid(872e4b92d663b05489fe34966680c29d) path("Packages/com.unity.ugui/Runtime/UI/Core/Utility/ObjectPool.cs") state(2)
 Script is not up to date after domain reload: guid(411b7c7ffc0960249b35a2a247b66ff7) path("Packages/com.unity.timeline/Editor/Utilities/TrackModifier.cs") state(2)
 Script is not up to date after domain reload: guid(325a6a3050a061e4b8aa51386c30e8e1) path("Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs") state(2)
-Script is not up to date after domain reload: guid(6d52c3973039b074697833c7052a6daa) path("Packages/com.unity.collab-proxy/Editor/Components/ChangeListElements/HistoryChangeListElement.cs") state(2)
+Script is not up to date after domain reload: guid(2cfb0b06d5a4af5429ea7f2b67fd8579) path("Assets/CinemachineExamples/Shared/Scripts/ActivateCamOnPlay.cs") state(2)
 Script is not up to date after domain reload: guid(2705215ac5b84b70bacc50632be6e391) path("Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Settings.cs") state(2)
+Script is not up to date after domain reload: guid(6d52c3973039b074697833c7052a6daa) path("Packages/com.unity.collab-proxy/Editor/Components/ChangeListElements/HistoryChangeListElement.cs") state(2)
 Script is not up to date after domain reload: guid(f6bd368ab00d75c459e2582e017191e6) path("Packages/com.unity.timeline/Editor/Manipulators/Move/MoveItemHandler.cs") state(2)
 Script is not up to date after domain reload: guid(2c87ec8c97244cd47945ec90a99abe35) path("Packages/com.unity.timeline/Editor/Items/ITimelineItem.cs") state(2)
 Script is not up to date after domain reload: guid(6797ef5b31abfd44993cf9870584620e) path("Packages/com.unity.collab-proxy/Editor/Views/Adapters/IAdapterObserver.cs") state(2)
@@ -2986,6 +3005,7 @@ Script is not up to date after domain reload: guid(78759e25237a7430587982cd92a2a
 Script is not up to date after domain reload: guid(3c4ccfb0896bcf44da13e152b267aa49) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestLaunchers/PrebuildSetupAttributeFinder.cs") state(2)
 Script is not up to date after domain reload: guid(d7f59365ba0cecb4c85779c30de87503) path("Assets/my scripts/Spawn.cs") state(2)
 Script is not up to date after domain reload: guid(ef5fa6e2005defb4ab5142723827b58e) path("Packages/com.unity.timeline/Editor/Utilities/BindingUtility.cs") state(2)
+Script is not up to date after domain reload: guid(578f562e15904cc4aaccbe9d98154103) path("Assets/CinemachineExamples/Shared/Scripts/ActivateObject.cs") state(2)
 Script is not up to date after domain reload: guid(a8604e8f13b3be84b8bc0c1507d8f3f6) path("Packages/com.unity.ugui/Runtime/UI/Core/SpecializedCollections/IndexedSet.cs") state(2)
 Script is not up to date after domain reload: guid(021989652c46434d98428c7e02cb8ab8) path("Packages/com.unity.collab-proxy/Editor/Models/Enums/ProjectStatus.cs") state(2)
 Script is not up to date after domain reload: guid(687acdc95675db149bf5de5771ecac18) path("Packages/com.unity.2d.sprite/Editor/SpriteEditor/SpriteEditorWindow.cs") state(2)
@@ -3182,12 +3202,14 @@ Script is not up to date after domain reload: guid(e74ddf4132f3401409c824bed6028
 Script is not up to date after domain reload: guid(8413ca0e506d42a1a4bd9769f204ad16) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SDFShaderGUI.cs") state(2)
 Script is not up to date after domain reload: guid(338a9a20327ff3d4db8268426f3e572b) path("Assets/spawn5.cs") state(2)
 Script is not up to date after domain reload: guid(b846f69b139b3a341a5699a09fa52b2c) path("Packages/com.unity.timeline/Editor/Window/TimelineWindow_TimeArea.cs") state(2)
+Script is not up to date after domain reload: guid(803b00b1c55094e499a99684ddbd9b57) path("Assets/CinemachineExamples/Shared/Scripts/ExampleHelpWindow.cs") state(2)
 Script is not up to date after domain reload: guid(fde0d25a170598d46a0b9dc16b4527a5) path("Packages/com.unity.timeline/Runtime/Activation/ActivationPlayableAsset.cs") state(2)
 Script is not up to date after domain reload: guid(9713795381722eb43b623dffba25d115) path("Packages/com.unity.ugui/Tests/Runtime/Image/TestableImage.cs") state(2)
 Script is not up to date after domain reload: guid(1fe0f539450e54dbc85bfb2fa6b466fb) path("Packages/com.unity.timeline/Editor/Utilities/AnimatedParameterCache.cs") state(2)
 Script is not up to date after domain reload: guid(9390296e78291b543b2f4a9761ef8139) path("Packages/com.unity.ugui/Tests/Runtime/Canvas/CheckMeshColorsAndColors32Match.cs") state(2)
 Script is not up to date after domain reload: guid(952b3dc7b47846947b37c8d3ae46579a) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/UnityTestProtocol/IUtpMessageReporter.cs") state(2)
 Script is not up to date after domain reload: guid(1ea10891dd782154ca0fb67bce9e6f72) path("Packages/com.unity.ugui/Runtime/EventSystem/InputModules/BaseInputModule.cs") state(2)
+Script is not up to date after domain reload: guid(36562141f3e01c7499f91e66f806814c) path("Assets/CinemachineExamples/Shared/Scripts/ActivateCameraWithDistance.cs") state(2)
 Script is not up to date after domain reload: guid(f4044717213e31446939f7bd49c896ea) path("Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs") state(2)
 Script is not up to date after domain reload: guid(358a618bc6bd9354d81cc206fd2ed80e) path("Packages/com.unity.ugui/Tests/Runtime/Dropdown/DropdownTests.cs") state(2)
 Script is not up to date after domain reload: guid(6409dfb055c1143e8ab71f9cd95f3163) path("Packages/com.unity.ads/Runtime/Advertisement/MetaData.cs") state(2)
@@ -3250,182 +3272,1898 @@ Script is not up to date after domain reload: guid(9c8ceb9efacb4974bb3b7e2a87137
 Script is not up to date after domain reload: guid(51ffd9e8cfdebdb40aa841c7e1720a7c) path("Assets/EnemyFollow.cs") state(2)
 Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513ef38) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 42704, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 33756, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 50.4 MB.
-System memory in use after: 50.4 MB.
+System memory in use after: 50.3 MB.
 
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 2.537700 ms (FindLiveObjects: 0.208600 ms CreateObjectMapping: 0.009700 ms MarkObjects: 2.182900 ms  DeleteObjects: 0.134900 ms)
+Total: 2.319100 ms (FindLiveObjects: 0.237600 ms CreateObjectMapping: 0.008200 ms MarkObjects: 1.965100 ms  DeleteObjects: 0.107200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs
-  artifactKey: Guid(a4c41ac9245b87c4192012080077d830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs using Guid(a4c41ac9245b87c4192012080077d830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0aad1b3dee408b1e994d74fae70d05') in 0.050705 seconds
-  Import took 0.053162 seconds .
+  path: Assets/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs
+  artifactKey: Guid(f24a4388d07ef494e8516cb859803e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs using Guid(f24a4388d07ef494e8516cb859803e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0aedba09f028f9fb4a374ade5ec52f') in 0.087810 seconds
+  Import took 0.147537 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000444 seconds.
-  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs
-  artifactKey: Guid(4700f9f03ad19f94baf0367cb7a9c988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs using Guid(4700f9f03ad19f94baf0367cb7a9c988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de333f18371ba04557de79c51ffbb9b5') in 0.004289 seconds
-  Import took 0.006144 seconds .
+  Time since last request: 0.001024 seconds.
+  path: Assets/Cinemachine/Timeline/LegacyTimelineAPI.unitypackage
+  artifactKey: Guid(1e24085edff8e4e499582d8dcf099510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Timeline/LegacyTimelineAPI.unitypackage using Guid(1e24085edff8e4e499582d8dcf099510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '488981c5d4f39a1eef2010dc6acd203f') in 0.068782 seconds
+  Import took 0.070786 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 155.293834 seconds.
-  path: Assets/Cinemachine
-  artifactKey: Guid(2cfd72d32ffc8bb4197dc1073f1799fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine using Guid(2cfd72d32ffc8bb4197dc1073f1799fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f810e72fafa215075b8a3306733b20c1') in 0.003269 seconds
-  Import took 0.005384 seconds .
+  Time since last request: 0.000495 seconds.
+  path: Assets/Cinemachine/Timeline/CinemachineMixer.cs
+  artifactKey: Guid(961772e8b1d75dd4a915fb8a236d5a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Timeline/CinemachineMixer.cs using Guid(961772e8b1d75dd4a915fb8a236d5a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70708d5627217207fdf9348d431b80f2') in 0.002716 seconds
+  Import took 0.006576 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000624 seconds.
-  path: Assets/b;ock1.anim
-  artifactKey: Guid(f84e7cf9e3237ce4fa2a0d9bc17d6a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/b;ock1.anim using Guid(f84e7cf9e3237ce4fa2a0d9bc17d6a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f772efb635a5f624c588f460a31d2cae') in 0.056459 seconds
-  Import took 0.058630 seconds .
+  Time since last request: 0.000455 seconds.
+  path: Assets/Cinemachine/Timeline/CinemachineTrack.cs
+  artifactKey: Guid(05acc715f855ced458d76ee6f8ac6c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Timeline/CinemachineTrack.cs using Guid(05acc715f855ced458d76ee6f8ac6c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcb1a7032ea53570a10f9d6f7da12236') in 0.005109 seconds
+  Import took 0.007137 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000432 seconds.
-  path: Assets/block2.anim
-  artifactKey: Guid(930e3afeff7ddac49901bab7a1a7a5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/block2.anim using Guid(930e3afeff7ddac49901bab7a1a7a5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06ec647c40b9aa946c60ceb541e781c') in 0.008694 seconds
-  Import took 0.010856 seconds .
+  Time since last request: 0.000404 seconds.
+  path: Assets/Cinemachine/Timeline/Editor
+  artifactKey: Guid(47030f88f181f334ab93c4b8ccfe1b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Timeline/Editor using Guid(47030f88f181f334ab93c4b8ccfe1b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf54c1ad9d4241c2dece594e78b100fd') in 0.016472 seconds
+  Import took 0.030917 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000407 seconds.
-  path: Assets/big hammer.controller
-  artifactKey: Guid(db781cfc7756ea94dbae0117c17328a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/big hammer.controller using Guid(db781cfc7756ea94dbae0117c17328a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2b57d01cf5ce8c4631ea480ad70f40') in 0.010219 seconds
-  Import took 0.012783 seconds .
+  Time since last request: 0.000479 seconds.
+  path: Assets/Cinemachine/Timeline/CinemachineShot.cs
+  artifactKey: Guid(90fb794a295e73545af71bcdb7375791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Timeline/CinemachineShot.cs using Guid(90fb794a295e73545af71bcdb7375791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002e80c695d5a1c44c1985395a5b6ce1') in 0.003854 seconds
+  Import took 0.007364 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000423 seconds.
-  path: Assets/b;ock1.anim
-  artifactKey: Guid(f84e7cf9e3237ce4fa2a0d9bc17d6a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/b;ock1.anim using Guid(f84e7cf9e3237ce4fa2a0d9bc17d6a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f772efb635a5f624c588f460a31d2cae') in 0.003707 seconds
-  Import took 0.006285 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000429 seconds.
-  path: Assets/big hammer.anim
-  artifactKey: Guid(be61ea3a55a7e2e4a93a243190f5a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/big hammer.anim using Guid(be61ea3a55a7e2e4a93a243190f5a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa871953bb97c032ebe76a70e992a55') in 0.003869 seconds
-  Import took 0.005730 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019854 seconds.
-  path: Assets/big hammer.anim
-  artifactKey: Guid(be61ea3a55a7e2e4a93a243190f5a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/big hammer.anim using Guid(be61ea3a55a7e2e4a93a243190f5a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa871953bb97c032ebe76a70e992a55') in 0.004749 seconds
-  Import took 0.007426 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.542811 seconds.
-  path: Assets/Cinemachine/Base
-  artifactKey: Guid(8786806e37330e349b5885f2972851b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Base using Guid(8786806e37330e349b5885f2972851b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b36cfdf569bca29dbad6b7fecf6a5f') in 0.004642 seconds
-  Import took 0.006938 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000412 seconds.
-  path: Assets/Cinemachine/PostFX
-  artifactKey: Guid(2a82dea150a2b394388860e48a701ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/PostFX using Guid(2a82dea150a2b394388860e48a701ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f56739f1a4078d117119444f623324') in 0.010438 seconds
-  Import took 0.012150 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000486 seconds.
-  path: Assets/Cinemachine/Gizmos
-  artifactKey: Guid(d9ca844c06be1ab40a3f7fc9e3c42c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Gizmos using Guid(d9ca844c06be1ab40a3f7fc9e3c42c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d95ed9c483ca67a6ae0c57fa916586c') in 0.003293 seconds
-  Import took 0.006523 seconds .
+  Time since last request: 473.099634 seconds.
+  path: Assets/CinemachineExamples/Shared
+  artifactKey: Guid(9f9f3be6bf53948e7994bc63835ff3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared using Guid(9f9f3be6bf53948e7994bc63835ff3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20305392699dbc7d7f937487aa23225') in 0.003832 seconds
+  Import took 0.030210 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000440 seconds.
-  path: Assets/Cinemachine/ReleaseNotes.txt
-  artifactKey: Guid(048dcb775445a4a478914781ec3ca9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/ReleaseNotes.txt using Guid(048dcb775445a4a478914781ec3ca9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26df8c36899696e359ac2ca815327428') in 0.029789 seconds
-  Import took 0.031938 seconds .
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs
+  artifactKey: Guid(f34e35dc1dc67c54c841b728548d69cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs using Guid(f34e35dc1dc67c54c841b728548d69cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c13807d8752069873a2eab8c694958e') in 0.003312 seconds
+  Import took 0.029611 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000395 seconds.
-  path: Assets/Cinemachine/CINEMACHINE_install.pdf
-  artifactKey: Guid(f9e81eceaa4926345af2955aff7cf00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/CINEMACHINE_install.pdf using Guid(f9e81eceaa4926345af2955aff7cf00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45b9f324d949dd2ee8258e00d23db26') in 0.024314 seconds
-  Import took 0.026797 seconds .
+  Time since last request: 0.000526 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs
+  artifactKey: Guid(c5da6ce9225f948438f7d6a072499ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs using Guid(c5da6ce9225f948438f7d6a072499ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab54d56a24a0cfc6a7f431ff882276ab') in 0.003768 seconds
+  Import took 0.028129 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000374 seconds.
-  path: Assets/Cinemachine/CinemachineExamples.unitypackage
-  artifactKey: Guid(435e0ab87d10d1d46966abe3e1b854db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/CinemachineExamples.unitypackage using Guid(435e0ab87d10d1d46966abe3e1b854db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae09a79b1f1780e2f50756e98195e013') in 0.034063 seconds
-  Import took 0.037070 seconds .
+  Time since last request: 0.000801 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs
+  artifactKey: Guid(2bb09c3bc24a82648a2e4fc008a28d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs using Guid(2bb09c3bc24a82648a2e4fc008a28d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b429f898453db8431e544262d1c796e8') in 0.002665 seconds
+  Import took 0.004804 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000390 seconds.
-  path: Assets/Cinemachine/LICENSE
-  artifactKey: Guid(0d832c901796201458d7c595a98a0242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/LICENSE using Guid(0d832c901796201458d7c595a98a0242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7947a3c0222769fdc0eed6198391d1eb') in 0.008988 seconds
-  Import took 0.011125 seconds .
+  Time since last request: 0.000388 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs
+  artifactKey: Guid(bf34fbe7a6e71634493d770ed0031f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs using Guid(bf34fbe7a6e71634493d770ed0031f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78aa476dba5fb6f4fe8a91f1804beeae') in 0.003060 seconds
+  Import took 0.005541 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/Cinemachine/Presets
-  artifactKey: Guid(9f96161bfc85a364aac3baa0b7279f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Presets using Guid(9f96161bfc85a364aac3baa0b7279f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c2150cb165c6a1ce96f4ed4e459d66') in 0.006742 seconds
-  Import took 0.008569 seconds .
+  Time since last request: 0.000666 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs
+  artifactKey: Guid(3f7c779802a73d5448e38af7c39fbaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs using Guid(3f7c779802a73d5448e38af7c39fbaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225346be3cf4488d28f4a497c1c108a3') in 0.002549 seconds
+  Import took 0.004230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs
+  artifactKey: Guid(247be52eadac5044e9f8b7b4d8d0ada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs using Guid(247be52eadac5044e9f8b7b4d8d0ada9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a517bbf2125c8cc2638db9805c9f2d0f') in 0.003118 seconds
+  Import took 0.005284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs
+  artifactKey: Guid(620aee1bd928b2a4981896c6b4e1bf0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs using Guid(620aee1bd928b2a4981896c6b4e1bf0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a05106b6f56f2692d81924814b8fcf') in 0.003042 seconds
+  Import took 0.040833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028983 seconds.
+  path: Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCatapult_Red.prefab
+  artifactKey: Guid(1c646272db9f13f40a1cc8d87b080552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/DOWNLOAD/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCatapult_Red.prefab using Guid(1c646272db9f13f40a1cc8d87b080552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f98f2ea3b857a99e91b4c0e1a01011') in 0.355843 seconds
+  Import took 0.357883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/Predictor.cs
+  artifactKey: Guid(6cef82e891a45884fb2b70604b0f8c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/Predictor.cs using Guid(6cef82e891a45884fb2b70604b0f8c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e804f402836305c1ba2c570ece3fb28e') in 0.004294 seconds
+  Import took 0.006816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018485 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/Predictor.cs
+  artifactKey: Guid(6cef82e891a45884fb2b70604b0f8c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/Predictor.cs using Guid(6cef82e891a45884fb2b70604b0f8c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e804f402836305c1ba2c570ece3fb28e') in 0.003082 seconds
+  Import took 0.005650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 243.479116 seconds.
+  path: Assets/CinemachineExamples/Shared/Scripts/ActivateCameraWithDistance.cs
+  artifactKey: Guid(36562141f3e01c7499f91e66f806814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Scripts/ActivateCameraWithDistance.cs using Guid(36562141f3e01c7499f91e66f806814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083a9b359a4012bcb63e96c13bf8584e') in 0.003949 seconds
+  Import took 0.006781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/CinemachineExamples/Shared/Models/UnityCharacter/Animations/Idle.fbx
+  artifactKey: Guid(080945c46afd34f3ebc364c1696e6678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Models/UnityCharacter/Animations/Idle.fbx using Guid(080945c46afd34f3ebc364c1696e6678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e331e15275cb475121314fe29d636c65') in 0.258428 seconds
+  Import took 0.262450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/CinemachineExamples/Shared/Scripts/ActivateCameraWithDistance.cs
+  artifactKey: Guid(36562141f3e01c7499f91e66f806814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Scripts/ActivateCameraWithDistance.cs using Guid(36562141f3e01c7499f91e66f806814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083a9b359a4012bcb63e96c13bf8584e') in 0.002565 seconds
+  Import took 0.004136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.396836 seconds.
+  path: Assets/CinemachineExamples/Shared/Models/UnityCharacter/Controllers
+  artifactKey: Guid(43f59044578da854b8cd226c7768e24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Models/UnityCharacter/Controllers using Guid(43f59044578da854b8cd226c7768e24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca946999082099e2691647db84ee352') in 0.003548 seconds
+  Import took 0.006267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000728 seconds.
+  path: Assets/CinemachineExamples/Scenes/Tracked Dolly
+  artifactKey: Guid(644c0eba53d4422429843916a55678ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Scenes/Tracked Dolly using Guid(644c0eba53d4422429843916a55678ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee0329dda534dce3d56bc25ed4d5e62') in 0.005009 seconds
+  Import took 0.007573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/CinemachineExamples/Scenes/Trigger volumes
+  artifactKey: Guid(ceeef3c0e73d0a347865594e1d36beb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Scenes/Trigger volumes using Guid(ceeef3c0e73d0a347865594e1d36beb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a70f1b108ae2b60caac4f1a1cf98cae') in 0.003053 seconds
+  Import took 0.023057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs
+  artifactKey: Guid(418e42c7d0405cc48a7b83f63ea53bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs using Guid(418e42c7d0405cc48a7b83f63ea53bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dceefd7db603855fc183ba0559cf22db') in 0.006284 seconds
+  Import took 0.008052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/CinemachineExamples/Shared/Models/UnityCharacter/Prefabs/3rdPersonController.prefab
+  artifactKey: Guid(f9dee39d229a4bb4087224760ba2d338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Models/UnityCharacter/Prefabs/3rdPersonController.prefab using Guid(f9dee39d229a4bb4087224760ba2d338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd98945e59b55e2a5ed6204b70a7ccf') in 0.546821 seconds
+  Import took 0.550106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs
+  artifactKey: Guid(2c760cb7073c57e44959f36cbed8ed39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs using Guid(2c760cb7073c57e44959f36cbed8ed39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c59450a0048d82e5e8fa0d4c9b4ceba3') in 0.003022 seconds
+  Import took 0.004726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs
+  artifactKey: Guid(6ad980451443d70438faac0bc6c235a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs using Guid(6ad980451443d70438faac0bc6c235a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477e09749516ae94088b43ae64b844d9') in 0.003200 seconds
+  Import took 0.005163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs
+  artifactKey: Guid(d4a408a1b506d0046875061c677944d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs using Guid(d4a408a1b506d0046875061c677944d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149cc8a669e27cdd35240ca072d0a9cd') in 0.002611 seconds
+  Import took 0.014209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs
+  artifactKey: Guid(fa7155796051b734daa718462081dc5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs using Guid(fa7155796051b734daa718462081dc5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '260c71a0ab1c7e5b8ff95ec5d12d6d42') in 0.003781 seconds
+  Import took 0.005975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000715 seconds.
+  path: Assets/CinemachineExamples/Shared/Models/UnityCharacter/Controllers/CharacterController.controller
+  artifactKey: Guid(7a9f599c49797434485c0e1d9e99f200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Models/UnityCharacter/Controllers/CharacterController.controller using Guid(7a9f599c49797434485c0e1d9e99f200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecff6224ade0a0414af0c8945d526b86') in 0.135660 seconds
+  Import took 0.146394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs
+  artifactKey: Guid(9384ab8608cdc3d479fe89cd51eed48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs using Guid(9384ab8608cdc3d479fe89cd51eed48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad4b4b16f7ae946b1a277cd1d6d651f') in 0.003274 seconds
+  Import took 0.006238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/CinemachineExamples/Scenes/Transposer
+  artifactKey: Guid(ef1d9d7e748187741bd77b0ee44e1db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Scenes/Transposer using Guid(ef1d9d7e748187741bd77b0ee44e1db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a7813b344f76436a5369f22da12eee') in 0.002686 seconds
+  Import took 0.004315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.679340 seconds.
+  path: Assets/CinemachineExamples/Shared/Scripts/ActivateCamOnPlay.cs
+  artifactKey: Guid(2cfb0b06d5a4af5429ea7f2b67fd8579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Scripts/ActivateCamOnPlay.cs using Guid(2cfb0b06d5a4af5429ea7f2b67fd8579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a73454c8357c803aeb81ac3e9788f944') in 0.003806 seconds
+  Import took 0.066925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Edge_Large.fbx
+  artifactKey: Guid(4e4be5c4ad583934a87e57fc64d729b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Edge_Large.fbx using Guid(4e4be5c4ad583934a87e57fc64d729b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4481909a858b5e562cf62510f052d968') in 0.102650 seconds
+  Import took 0.121786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Large.fbx
+  artifactKey: Guid(13c5b9d94ac272145a30191629f297fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Large.fbx using Guid(13c5b9d94ac272145a30191629f297fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b58060a2e6aabdc8681b12fe49d2fb') in 0.026997 seconds
+  Import took 0.040290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Edge_Large.fbx
+  artifactKey: Guid(4e4be5c4ad583934a87e57fc64d729b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Edge_Large.fbx using Guid(4e4be5c4ad583934a87e57fc64d729b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4481909a858b5e562cf62510f052d968') in 0.019803 seconds
+  Import took 0.022281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Large.fbx
+  artifactKey: Guid(13c5b9d94ac272145a30191629f297fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/DigitalKonstrukt/Prototyping_Pack_Free/Resources/Meshes/Columns/PTK_Column_Large.fbx using Guid(13c5b9d94ac272145a30191629f297fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b58060a2e6aabdc8681b12fe49d2fb') in 0.020269 seconds
+  Import took 0.023192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000894 seconds.
+  path: Assets/CinemachineExamples/Shared/Scripts/ActivateCamOnPlay.cs
+  artifactKey: Guid(2cfb0b06d5a4af5429ea7f2b67fd8579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples/Shared/Scripts/ActivateCamOnPlay.cs using Guid(2cfb0b06d5a4af5429ea7f2b67fd8579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a73454c8357c803aeb81ac3e9788f944') in 0.002664 seconds
+  Import took 0.004393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.875100 seconds.
+  path: Assets/MY DOWNLOADS/FreeLabAssets/Prefabs/Pipette_Multy.prefab
+  artifactKey: Guid(08521dc67da0f464d8e02468d5dfa443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/FreeLabAssets/Prefabs/Pipette_Multy.prefab using Guid(08521dc67da0f464d8e02468d5dfa443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0f3914c68dcd8a6b3ee508c5bf6766') in 0.135296 seconds
+  Import took 0.137691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 479.775136 seconds.
+  path: Assets/CinemachineExamples
+  artifactKey: Guid(3f4cee97594ab9946ada30e469bebf44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CinemachineExamples using Guid(3f4cee97594ab9946ada30e469bebf44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb44863ba97f45114ed558cc36c1d797') in 0.003858 seconds
+  Import took 0.006031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001543 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs
+  artifactKey: Guid(711aad28b4057bd4783120e26ff2ee25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs using Guid(711aad28b4057bd4783120e26ff2ee25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5f5089d5401697a77553ed03f6f1b5') in 0.003601 seconds
+  Import took 0.005831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs
+  artifactKey: Guid(99a9c787e5d1bbf48a389834c4a9641c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs using Guid(99a9c787e5d1bbf48a389834c4a9641c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eaef5576516c4a8e2e20abf572a3929') in 0.006260 seconds
+  Import took 0.035157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001371 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs
+  artifactKey: Guid(04e6f1d86089cda409e925cd975436d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs using Guid(04e6f1d86089cda409e925cd975436d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760fbff47c4eafc375055dde9d6dfc1d') in 0.003925 seconds
+  Import took 0.015906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs
+  artifactKey: Guid(10e6f8c815d3c4d45b1d98b951d53912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs using Guid(10e6f8c815d3c4d45b1d98b951d53912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe25b5a885174bed1a31c8b51066e4b1') in 0.003511 seconds
+  Import took 0.006411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachineCore.cs
+  artifactKey: Guid(c7d73314dfe49f8458398c6dc8edcda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachineCore.cs using Guid(c7d73314dfe49f8458398c6dc8edcda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362bbd20b33c0dafe47ed1dcc06a060b') in 0.004170 seconds
+  Import took 0.007904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs
+  artifactKey: Guid(36d1163fa822e8b418a0a603ec078d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs using Guid(36d1163fa822e8b418a0a603ec078d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77bceb1d8b7bd501a1d295a4972afb8c') in 0.002996 seconds
+  Import took 0.007153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs
+  artifactKey: Guid(aceb1a3f85f55c249bba6eaade29f2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs using Guid(aceb1a3f85f55c249bba6eaade29f2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f636f19208899ed9e666990274a8980a') in 0.003974 seconds
+  Import took 0.019658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs
+  artifactKey: Guid(b2f73bdc979030e419f33c10913639cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs using Guid(b2f73bdc979030e419f33c10913639cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '654b6c86691c8a0b8cb48a207d673698') in 0.006341 seconds
+  Import took 0.008327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs
+  artifactKey: Guid(319d2fe34a804e245819465c9505ea59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs using Guid(319d2fe34a804e245819465c9505ea59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbadf37e48ae6d17e7e2a64d6500a797') in 0.004609 seconds
+  Import took 0.015302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs
+  artifactKey: Guid(4a9c464b0191f7d4da1d129d97d8240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs using Guid(4a9c464b0191f7d4da1d129d97d8240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae4200b2d5e0c008e436f829196db16') in 0.004493 seconds
+  Import took 0.006894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs
+  artifactKey: Guid(53258ad9ad6e71e48bb8643c9522112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs using Guid(53258ad9ad6e71e48bb8643c9522112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d119e0fb203957e44ce5d86fcd41631') in 0.015462 seconds
+  Import took 0.018520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs
+  artifactKey: Guid(0f7633c93f0364a418841eeb8b058634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs using Guid(0f7633c93f0364a418841eeb8b058634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b83bf213e3f0e5b195ad3cf06890047') in 0.007266 seconds
+  Import took 0.009666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs
+  artifactKey: Guid(4fa53a91a43ae1a4bbf6b29961b45c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs using Guid(4fa53a91a43ae1a4bbf6b29961b45c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b93c0261005d23141b0b126484d445') in 0.004638 seconds
+  Import took 0.007332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs
+  artifactKey: Guid(ee42f1964a0e8224c90be81905946699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs using Guid(ee42f1964a0e8224c90be81905946699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f553be92b76b5d22ded0c04f0d1b31b') in 0.003837 seconds
+  Import took 0.007521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs
+  artifactKey: Guid(3fed8968b96eb924891cf86f5c51f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs using Guid(3fed8968b96eb924891cf86f5c51f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb63d7dbdec90942b2b4bd1f05f4e96') in 0.005484 seconds
+  Import took 0.027320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs
+  artifactKey: Guid(6036af5730313e54699c5a693891fe90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs using Guid(6036af5730313e54699c5a693891fe90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8890fb91d7fa6206a4dcc2eb38554afe') in 0.003882 seconds
+  Import took 0.014497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000922 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs
+  artifactKey: Guid(68bb026fafb42b14791938953eaace77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs using Guid(68bb026fafb42b14791938953eaace77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334ae47568b7a2a81a9222e4e06bc9d5') in 0.003145 seconds
+  Import took 0.006639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs
+  artifactKey: Guid(e501d18bb52cf8c40b1853ca4904654f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs using Guid(e501d18bb52cf8c40b1853ca4904654f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a0a1cf8448823cdce5b5e98eb8bfa3') in 0.003075 seconds
+  Import took 0.005821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs
+  artifactKey: Guid(57744762d9079934292f57896d8193e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs using Guid(57744762d9079934292f57896d8193e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a9c813f209aa4941df84661f41bd42') in 0.003971 seconds
+  Import took 0.007887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs
+  artifactKey: Guid(f4044717213e31446939f7bd49c896ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs using Guid(f4044717213e31446939f7bd49c896ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd966704d456140ecabddc30fbd5fbed1') in 0.003065 seconds
+  Import took 0.004777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs
+  artifactKey: Guid(36baaa8bdcb9d8b49b9199833965d2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs using Guid(36baaa8bdcb9d8b49b9199833965d2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6467811d3de49f5421abbed2ac772271') in 0.004879 seconds
+  Import took 0.007951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs
+  artifactKey: Guid(72ece51f2901e7445ab60da3685d6b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs using Guid(72ece51f2901e7445ab60da3685d6b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c249e4137daa49fb40875280c096dcfa') in 0.003279 seconds
+  Import took 0.011141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001249 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs
+  artifactKey: Guid(a2fba25a5cd15594e8f050a11e386c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs using Guid(a2fba25a5cd15594e8f050a11e386c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4ca807c3790204645da90d14d707fd') in 0.002961 seconds
+  Import took 0.005427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs
+  artifactKey: Guid(3226d9f88577be74197693bd17cff8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs using Guid(3226d9f88577be74197693bd17cff8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc3331b18d54472d15be3af1e6e6bfb') in 0.004434 seconds
+  Import took 0.006221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs
+  artifactKey: Guid(d62f748f5292bb343be9e6b0c84416d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs using Guid(d62f748f5292bb343be9e6b0c84416d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8987fd4196d98183d87dc629516516fa') in 0.004373 seconds
+  Import took 0.012825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif
+  artifactKey: Guid(372fe04232d5ed94d8d71524616c1543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif using Guid(372fe04232d5ed94d8d71524616c1543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f870b92146313aeea1baed831a8f6b3c') in 0.058607 seconds
+  Import took 0.065709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs
+  artifactKey: Guid(1ff9d8296ed1f02419bf4f417ff2265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs using Guid(1ff9d8296ed1f02419bf4f417ff2265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e876558bfca3612059779d96551aed') in 0.004411 seconds
+  Import took 0.007085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs
+  artifactKey: Guid(0181db608628b494d8ae50728e507ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs using Guid(0181db608628b494d8ae50728e507ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36085e4f379dfee0f61703c5c8d35ed8') in 0.002816 seconds
+  Import took 0.013944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs
+  artifactKey: Guid(1ff9d8296ed1f02419bf4f417ff2265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs using Guid(1ff9d8296ed1f02419bf4f417ff2265e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e876558bfca3612059779d96551aed') in 0.002383 seconds
+  Import took 0.005463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019912 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs
+  artifactKey: Guid(0181db608628b494d8ae50728e507ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs using Guid(0181db608628b494d8ae50728e507ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36085e4f379dfee0f61703c5c8d35ed8') in 0.004094 seconds
+  Import took 0.006848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.328081 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs
+  artifactKey: Guid(e44b92e217bfdf24d99acb4344918eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs using Guid(e44b92e217bfdf24d99acb4344918eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d15355d8c49fbe822373120be502d4') in 0.003763 seconds
+  Import took 0.006701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs
+  artifactKey: Guid(1e8b78ac948f05a46a6d8339a503172b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs using Guid(1e8b78ac948f05a46a6d8339a503172b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7fc958deca9e552706b91cb2e5ed0a') in 0.003761 seconds
+  Import took 0.006314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs
+  artifactKey: Guid(8ad60cb17f7694c43a8190c617281753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs using Guid(8ad60cb17f7694c43a8190c617281753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5939e5755088f830eafed50a6f9e417') in 0.010487 seconds
+  Import took 0.013328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs
+  artifactKey: Guid(6c26251a3e1f5ac41afa5ffb404c5f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs using Guid(6c26251a3e1f5ac41afa5ffb404c5f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6629e969de5eb13900f752dbd812fbf6') in 0.003625 seconds
+  Import took 0.006771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000717 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs
+  artifactKey: Guid(e44b92e217bfdf24d99acb4344918eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs using Guid(e44b92e217bfdf24d99acb4344918eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d15355d8c49fbe822373120be502d4') in 0.003303 seconds
+  Import took 0.006706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs
+  artifactKey: Guid(9ce16cd7e31794b48b2843381cd87d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs using Guid(9ce16cd7e31794b48b2843381cd87d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03df16e400c5d5e90cbb0928897349d') in 0.002980 seconds
+  Import took 0.004909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs
+  artifactKey: Guid(54b24e51e2a9fa242b38d80ee11f3b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs using Guid(54b24e51e2a9fa242b38d80ee11f3b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a185dfdd659096aec8a78d44822ab006') in 0.003957 seconds
+  Import took 0.007567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs
+  artifactKey: Guid(2d37e5385efd7064cb1d54c94960acae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs using Guid(2d37e5385efd7064cb1d54c94960acae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd0e9c100d5f74c2054d621b9175b0f') in 0.005921 seconds
+  Import took 0.009987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076658 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs
+  artifactKey: Guid(a73149a4b6c41d741bc5e4e3b7711c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs using Guid(a73149a4b6c41d741bc5e4e3b7711c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebafc3ff7ad9cc33066032894c41076') in 0.005998 seconds
+  Import took 0.045974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001446 seconds.
+  path: Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs
+  artifactKey: Guid(dec69862942cc9744ade63216979cafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs using Guid(dec69862942cc9744ade63216979cafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad524e0d9692628b64cab7a9c0db305') in 0.007459 seconds
+  Import took 0.011134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs
+  artifactKey: Guid(ac0b09e7857660247b1477e93731de29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs using Guid(ac0b09e7857660247b1477e93731de29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b292c14b93e6c08c997f6738ec47dc8b') in 0.003486 seconds
+  Import took 0.005959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs
+  artifactKey: Guid(729aad4491e915a41bda2b8325cf757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs using Guid(729aad4491e915a41bda2b8325cf757a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3913895bb839075698830a97a5225e71') in 0.003783 seconds
+  Import took 0.006086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs
+  artifactKey: Guid(c88d2a04cc828c044b0fcc133fd481e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs using Guid(c88d2a04cc828c044b0fcc133fd481e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25bc1fe7906e72286c7c6becd716f5f3') in 0.007916 seconds
+  Import took 0.010283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs
+  artifactKey: Guid(a200b19ca1a9685429ed7e043c28e904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs using Guid(a200b19ca1a9685429ed7e043c28e904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b153e1466b33c1b5efb90545c9c9452e') in 0.003252 seconds
+  Import took 0.005242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000953 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs
+  artifactKey: Guid(3c9beda531928fc40968802117a5d256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs using Guid(3c9beda531928fc40968802117a5d256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c469fd61fda5b7e90678b2f2306212da') in 0.003266 seconds
+  Import took 0.005691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Cinemachine/PostFX/CinemachinePostFX.cs
+  artifactKey: Guid(360979aafebd332448626a2236bafdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/PostFX/CinemachinePostFX.cs using Guid(360979aafebd332448626a2236bafdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdca63ccc95389149fc52539ea84975e') in 0.003767 seconds
+  Import took 0.013385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000892 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs
+  artifactKey: Guid(c88d2a04cc828c044b0fcc133fd481e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs using Guid(c88d2a04cc828c044b0fcc133fd481e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25bc1fe7906e72286c7c6becd716f5f3') in 0.003967 seconds
+  Import took 0.006015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs
+  artifactKey: Guid(1186b8795dc3fc84e8ec53bd314d8e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs using Guid(1186b8795dc3fc84e8ec53bd314d8e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958e90ec13c174a845cfd8b94af2f8ac') in 0.007143 seconds
+  Import took 0.009201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs
+  artifactKey: Guid(f497b01325ac7a041bd6e365a9ea0e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs using Guid(f497b01325ac7a041bd6e365a9ea0e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1074b98ff1734623a7427b555a067d3d') in 0.003252 seconds
+  Import took 0.005252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs
+  artifactKey: Guid(74d8c4d6e5d0338469ae46c13725f3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs using Guid(74d8c4d6e5d0338469ae46c13725f3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9d62f071535d6a68371ced521f268a') in 0.003217 seconds
+  Import took 0.005407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs
+  artifactKey: Guid(325a6a3050a061e4b8aa51386c30e8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs using Guid(325a6a3050a061e4b8aa51386c30e8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7defb528c127e63bc18dc910a1b3a6d') in 0.003435 seconds
+  Import took 0.008982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs
+  artifactKey: Guid(a73149a4b6c41d741bc5e4e3b7711c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs using Guid(a73149a4b6c41d741bc5e4e3b7711c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebafc3ff7ad9cc33066032894c41076') in 0.006422 seconds
+  Import took 0.009018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs
+  artifactKey: Guid(2a15a1e455bcc7543872f50762449739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs using Guid(2a15a1e455bcc7543872f50762449739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04005593113f103ed712e7372db0a31d') in 0.005857 seconds
+  Import took 0.019739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs
+  artifactKey: Guid(ed3efd28525441947b55ec9b5d68ba31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs using Guid(ed3efd28525441947b55ec9b5d68ba31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e04903ef6d25ad9768eae372005e907') in 0.003690 seconds
+  Import took 0.006025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000911 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs
+  artifactKey: Guid(1123a444101eb774ba7490990b50736a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs using Guid(1123a444101eb774ba7490990b50736a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f476319c18919b69c93d00b8d5d86156') in 0.006053 seconds
+  Import took 0.008664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs
+  artifactKey: Guid(0eb9f23cde3a1734da334cfa0831dd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs using Guid(0eb9f23cde3a1734da334cfa0831dd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da069b6bb4265993aea24ccbdaa554fd') in 0.003239 seconds
+  Import took 0.009217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.426086 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs
+  artifactKey: Guid(e5eb80d8e62d9d145bb50fb783c0f731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs using Guid(e5eb80d8e62d9d145bb50fb783c0f731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd6adbfc5676ee7c43b5dae44da409e') in 0.002995 seconds
+  Import took 0.004873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs
+  artifactKey: Guid(eb8e037cb3f873743a725427c8c22342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs using Guid(eb8e037cb3f873743a725427c8c22342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f2b5c8f1613c384319ddf7c1f9675c') in 0.005840 seconds
+  Import took 0.007516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs
+  artifactKey: Guid(211d719bb25901043833928f50e9d0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs using Guid(211d719bb25901043833928f50e9d0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465a31eb4fd4f54923a8af2b67e33170') in 0.003335 seconds
+  Import took 0.005335 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000387 seconds.
-  path: Assets/Cinemachine/CinemachineAPI.chm
-  artifactKey: Guid(42cf855b42713884aa8851e8bb50acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/CinemachineAPI.chm using Guid(42cf855b42713884aa8851e8bb50acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4198690865c18921f9eb2884c3e7450') in 0.011467 seconds
-  Import took 0.013506 seconds .
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs
+  artifactKey: Guid(e5eb80d8e62d9d145bb50fb783c0f731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs using Guid(e5eb80d8e62d9d145bb50fb783c0f731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd6adbfc5676ee7c43b5dae44da409e') in 0.004623 seconds
+  Import took 0.006952 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001585 seconds.
-  path: Assets/Cinemachine/Timeline
-  artifactKey: Guid(0282251d79d6e964089ace2dc6e6e496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Timeline using Guid(0282251d79d6e964089ace2dc6e6e496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5447e66f64ec5d9bff9bc4cde851d1') in 0.006469 seconds
-  Import took 0.008350 seconds .
+  Time since last request: 0.000468 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs
+  artifactKey: Guid(45e653bab7fb20e499bda25e1b646fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs using Guid(45e653bab7fb20e499bda25e1b646fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '397f89c80d190a89d3a88287c9221ba3') in 0.004184 seconds
+  Import took 0.007025 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 332.041920 seconds.
-  path: Assets/Cinemachine/Gizmos/Cinemachine
-  artifactKey: Guid(ca2168befea188b41a64ed01e777e286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Gizmos/Cinemachine using Guid(ca2168befea188b41a64ed01e777e286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db9d43364b88648caf7d854fb44a461') in 0.003830 seconds
-  Import took 0.006393 seconds .
+  Time since last request: 0.000411 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs
+  artifactKey: Guid(15ebf04de67923d41a36c21e1fc63718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs using Guid(15ebf04de67923d41a36c21e1fc63718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c624461a3803cc220974f3854a4f98') in 0.003757 seconds
+  Import took 0.005980 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.960595 seconds.
-  path: Assets/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png
-  artifactKey: Guid(ca058052cfb44474dbd1f8ec45658065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png using Guid(ca058052cfb44474dbd1f8ec45658065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61634d8e82c1e479a1958cff2f815d9e') in 0.140144 seconds
-  Import took 0.142250 seconds .
+  Time since last request: 0.016154 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs
+  artifactKey: Guid(45e653bab7fb20e499bda25e1b646fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs using Guid(45e653bab7fb20e499bda25e1b646fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '397f89c80d190a89d3a88287c9221ba3') in 0.003770 seconds
+  Import took 0.006731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085090 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs
+  artifactKey: Guid(a63f9f2267c36684e855add13ad5499f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs using Guid(a63f9f2267c36684e855add13ad5499f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f4cbb35ad693c49be8c114cd74cd91') in 0.006749 seconds
+  Import took 0.010272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs
+  artifactKey: Guid(9a53087ba28aaf145a184ea363108831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs using Guid(9a53087ba28aaf145a184ea363108831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6204442088a515d530bc26a96dc78b3b') in 0.003614 seconds
+  Import took 0.082339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000900 seconds.
+  path: Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs
+  artifactKey: Guid(a63f9f2267c36684e855add13ad5499f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs using Guid(a63f9f2267c36684e855add13ad5499f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f4cbb35ad693c49be8c114cd74cd91') in 0.006506 seconds
+  Import took 0.010767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001084 seconds.
+  path: Assets/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs
+  artifactKey: Guid(2643ac9881a89594a80c242b565b34ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs using Guid(2643ac9881a89594a80c242b565b34ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c99e6776d64177c1876dcaecb18839') in 0.007863 seconds
+  Import took 0.011112 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001467 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 73.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.185 seconds
+Registering precompiled user dll's ...
+Registered in 0.125361 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1519 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.0 MB.
+System memory in use after: 95.1 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2026.
+Total: 3.323300 ms (FindLiveObjects: 0.472700 ms CreateObjectMapping: 0.085700 ms MarkObjects: 2.634200 ms  DeleteObjects: 0.127200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002158 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 77.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.858 seconds
+Registering precompiled user dll's ...
+Registered in 0.232479 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 2.518700 ms (FindLiveObjects: 0.477800 ms CreateObjectMapping: 0.091100 ms MarkObjects: 1.809700 ms  DeleteObjects: 0.138300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001602 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.432 seconds
+Registering precompiled user dll's ...
+Registered in 0.152049 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2034.
+Total: 2.570300 ms (FindLiveObjects: 0.389500 ms CreateObjectMapping: 0.073900 ms MarkObjects: 2.017900 ms  DeleteObjects: 0.087100 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002341 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 395.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.035 seconds
+Registering precompiled user dll's ...
+Registered in 0.150052 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.338 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2038.
+Total: 3.576400 ms (FindLiveObjects: 0.406100 ms CreateObjectMapping: 0.079400 ms MarkObjects: 2.984800 ms  DeleteObjects: 0.103900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001799 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.775 seconds
+Registering precompiled user dll's ...
+Registered in 0.209270 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.505 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2042.
+Total: 5.924100 ms (FindLiveObjects: 0.410100 ms CreateObjectMapping: 0.151300 ms MarkObjects: 4.868200 ms  DeleteObjects: 0.491300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001379 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.688 seconds
+Registering precompiled user dll's ...
+Registered in 0.153009 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.428 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.3 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2046.
+Total: 2.464200 ms (FindLiveObjects: 0.508500 ms CreateObjectMapping: 0.164200 ms MarkObjects: 1.672900 ms  DeleteObjects: 0.117000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12529.822149 seconds.
+  path: Assets/MY DOWNLOADS/JMO Assets/Toony Colors/Demo 2.0/Materials/TCF_Demo_Zombear.mat
+  artifactKey: Guid(0e554613ca2e81743a244dd20c8d44a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/JMO Assets/Toony Colors/Demo 2.0/Materials/TCF_Demo_Zombear.mat using Guid(0e554613ca2e81743a244dd20c8d44a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b978041972e170fca41d73234d3b65e') in 0.430902 seconds
+  Import took 0.437514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/MY DOWNLOADS/JMO Assets/Toony Colors/Demo 2.0/Textures/TCF_Demo_ZomBearDiffuse.png
+  artifactKey: Guid(e37ef2d95dba2694a8557b9c34370f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/JMO Assets/Toony Colors/Demo 2.0/Textures/TCF_Demo_ZomBearDiffuse.png using Guid(e37ef2d95dba2694a8557b9c34370f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3e07afc2f794e3bcf992e60fabce2e') in 0.066980 seconds
+  Import took 0.073521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005649 seconds.
+  path: Assets/MY DOWNLOADS/JMO Assets/Toony Colors/Demo 2.0/Textures/TCF_Demo_ZomBearDiffuse.png
+  artifactKey: Guid(e37ef2d95dba2694a8557b9c34370f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MY DOWNLOADS/JMO Assets/Toony Colors/Demo 2.0/Textures/TCF_Demo_ZomBearDiffuse.png using Guid(e37ef2d95dba2694a8557b9c34370f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3e07afc2f794e3bcf992e60fabce2e') in 0.009688 seconds
+  Import took 0.015860 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001408 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.449 seconds
+Registering precompiled user dll's ...
+Registered in 0.106067 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.189 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.4 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2084.
+Total: 2.339600 ms (FindLiveObjects: 0.294100 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.863200 ms  DeleteObjects: 0.135600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.361018 seconds.
+  path: Assets/my scripts/Instaciate.cs
+  artifactKey: Guid(ecf667d41e6b716408d3e53cebabe578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/my scripts/Instaciate.cs using Guid(ecf667d41e6b716408d3e53cebabe578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d16889c40673442ab0d7b1fab123d4b') in 0.018787 seconds
+  Import took 0.022778 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002037 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.623 seconds
+Registering precompiled user dll's ...
+Registered in 0.109120 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.292 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.4 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2088.
+Total: 2.926800 ms (FindLiveObjects: 0.443300 ms CreateObjectMapping: 0.146600 ms MarkObjects: 2.205500 ms  DeleteObjects: 0.129800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001392 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 81.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.239 seconds
+Registering precompiled user dll's ...
+Registered in 0.175040 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.574 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.4 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2092.
+Total: 3.162800 ms (FindLiveObjects: 0.443900 ms CreateObjectMapping: 0.089700 ms MarkObjects: 2.466500 ms  DeleteObjects: 0.160200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001970 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 64.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.438 seconds
+Registering precompiled user dll's ...
+Registered in 0.103200 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.638 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2096.
+Total: 2.347800 ms (FindLiveObjects: 0.383700 ms CreateObjectMapping: 0.073400 ms MarkObjects: 1.769400 ms  DeleteObjects: 0.120000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001472 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 71.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.793 seconds
+Registering precompiled user dll's ...
+Registered in 0.102061 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.660 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2100.
+Total: 3.260300 ms (FindLiveObjects: 0.773100 ms CreateObjectMapping: 0.180400 ms MarkObjects: 2.181600 ms  DeleteObjects: 0.122900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001707 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 58.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.867 seconds
+Registering precompiled user dll's ...
+Registered in 0.110355 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.400 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2104.
+Total: 3.075900 ms (FindLiveObjects: 0.443500 ms CreateObjectMapping: 0.112700 ms MarkObjects: 2.427700 ms  DeleteObjects: 0.089900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001438 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 89.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.891 seconds
+Registering precompiled user dll's ...
+Registered in 0.107794 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.454 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2108.
+Total: 2.790600 ms (FindLiveObjects: 0.464600 ms CreateObjectMapping: 0.087400 ms MarkObjects: 2.132100 ms  DeleteObjects: 0.104900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001501 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 67.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.107 seconds
+Registering precompiled user dll's ...
+Registered in 0.104220 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.558 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2112.
+Total: 2.844000 ms (FindLiveObjects: 0.495200 ms CreateObjectMapping: 0.133100 ms MarkObjects: 2.114600 ms  DeleteObjects: 0.099500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001382 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 61.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.008 seconds
+Registering precompiled user dll's ...
+Registered in 0.111867 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.536 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2116.
+Total: 2.675900 ms (FindLiveObjects: 0.376400 ms CreateObjectMapping: 0.077100 ms MarkObjects: 2.093500 ms  DeleteObjects: 0.127200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001440 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.883 seconds
+Registering precompiled user dll's ...
+Registered in 0.110761 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.603 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2120.
+Total: 4.109300 ms (FindLiveObjects: 0.931200 ms CreateObjectMapping: 0.184600 ms MarkObjects: 2.885000 ms  DeleteObjects: 0.105900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001991 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.087 seconds
+Registering precompiled user dll's ...
+Registered in 0.102781 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.026 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.6 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2124.
+Total: 2.782400 ms (FindLiveObjects: 0.375000 ms CreateObjectMapping: 0.075300 ms MarkObjects: 2.240000 ms  DeleteObjects: 0.090600 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001399 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 61.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.638 seconds
+Registering precompiled user dll's ...
+Registered in 0.121730 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.017 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.6 MB.
+System memory in use after: 65.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2128.
+Total: 2.688400 ms (FindLiveObjects: 0.491000 ms CreateObjectMapping: 0.082700 ms MarkObjects: 1.998300 ms  DeleteObjects: 0.114900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001928 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 69.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.735 seconds
+Registering precompiled user dll's ...
+Registered in 0.120875 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.429 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.6 MB.
+System memory in use after: 65.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2132.
+Total: 3.575900 ms (FindLiveObjects: 0.560300 ms CreateObjectMapping: 0.161300 ms MarkObjects: 2.732400 ms  DeleteObjects: 0.116400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001423 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 68.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.192 seconds
+Registering precompiled user dll's ...
+Registered in 0.110732 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Script error: OnTriggerEnter
+This message parameter has to be of type: Collider
+The message will be ignored.
+
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.851 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.6 MB.
+System memory in use after: 65.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2136.
+Total: 3.090300 ms (FindLiveObjects: 0.391000 ms CreateObjectMapping: 0.094800 ms MarkObjects: 2.467100 ms  DeleteObjects: 0.135600 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

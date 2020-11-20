@@ -70,7 +70,6 @@
     <Compile Include="Assets\nov 10\New Folder\respawnpoint.cs" />
     <Compile Include="Assets\my scripts\MeshBehavior.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\InvokeBehavior.cs" />
-    <Compile Include="Assets\my scripts\CallAFuntion.cs" />
     <Compile Include="Assets\destroy2.cs" />
     <Compile Include="Assets\my scripts\EnemiesScript32.cs" />
     <Compile Include="Assets\CharacterMoveStates.cs" />
@@ -162,8 +161,8 @@
     <Compile Include="Assets\WeaponData.cs" />
     <Compile Include="Assets\my scripts\JumpPowerUp.cs" />
     <Compile Include="Assets\WalkinCircles.cs" />
-    <Compile Include="Assets\my scripts\LookAt4.cs" />
     <Compile Include="Assets\rotatefix.cs" />
+    <Compile Include="Assets\my scripts\LookAt4.cs" />
     <Compile Include="Assets\Destroy1.cs" />
     <Compile Include="Assets\Respawn.cs" />
     <Compile Include="Assets\my scripts\EnemyDamage3.cs" />
@@ -234,7 +233,7 @@
     <Compile Include="Assets\PlayerRespwn.cs" />
     <Compile Include="Assets\Player Health.cs" />
     <Compile Include="Assets\Coroutines.cs" />
-    <Compile Include="Assets\FloatData4.cs" />
+    <Compile Include="Assets\FloatData5.cs" />
     <Compile Include="Assets\AnimationBehavior.cs" />
     <Compile Include="Assets\InstanciatePrefab2.cs" />
     <Compile Include="Assets\EnumSwitch2.cs" />
@@ -249,6 +248,7 @@
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
+    <Compile Include="Assets\my PREFABS\selfDestruct2.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
