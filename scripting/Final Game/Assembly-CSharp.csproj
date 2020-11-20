@@ -162,8 +162,8 @@
     <Compile Include="Assets\WeaponData.cs" />
     <Compile Include="Assets\my scripts\JumpPowerUp.cs" />
     <Compile Include="Assets\WalkinCircles.cs" />
-    <Compile Include="Assets\rotatefix.cs" />
     <Compile Include="Assets\my scripts\LookAt4.cs" />
+    <Compile Include="Assets\rotatefix.cs" />
     <Compile Include="Assets\Destroy1.cs" />
     <Compile Include="Assets\Respawn.cs" />
     <Compile Include="Assets\my scripts\EnemyDamage3.cs" />
