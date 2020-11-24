@@ -15,13 +15,13 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52002
+52658
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 Using Asset Import Pipeline V2.
 Unable to join player connection multicast group.
 
-Refreshing native plugins compatible for Editor in 62.72 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 61.15 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -33,40 +33,40 @@ Direct3D:
     Vendor:   
     VRAM:     8079 MB
     Driver:   26.21.14.4614
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
 Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001577 seconds.
+Registered in 0.001551 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 53.00 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 56.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.313 seconds
+- Completed reload, in  1.543 seconds
 Registering precompiled user dll's ...
-Registered in 0.118759 seconds.
+Registered in 0.112300 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.930 seconds
+- Completed reload, in  0.956 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(3411e19edd44cfd46b548b058c3bc36c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs") state(2)
 Script is not up to date after domain reload: guid(73deb9b8722aa284eab27c4dc90956c6) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs") state(2)
@@ -3060,557 +3060,741 @@ Script is not up to date after domain reload: guid(9c8ceb9efacb4974bb3b7e2a87137
 Script is not up to date after domain reload: guid(51ffd9e8cfdebdb40aa841c7e1720a7c) path("Assets/EnemyFollow.cs") state(2)
 Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513ef38) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 18272, restarting
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 41596, restarting
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.41 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 50.4 MB.
 System memory in use after: 50.4 MB.
 
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 3.158000 ms (FindLiveObjects: 0.383400 ms CreateObjectMapping: 0.014300 ms MarkObjects: 2.604600 ms  DeleteObjects: 0.154200 ms)
+Total: 4.864200 ms (FindLiveObjects: 0.737200 ms CreateObjectMapping: 0.011500 ms MarkObjects: 3.832800 ms  DeleteObjects: 0.281000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/GAME ACTIONS/enemy health.asset
-  artifactKey: Guid(9491d6674c65c414db50116a3540d1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GAME ACTIONS/enemy health.asset using Guid(9491d6674c65c414db50116a3540d1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39df161577d60e0bd942d746c2a3949b') in 0.043335 seconds
-  Import took 0.045457 seconds .
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001435 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 62.42 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.022 seconds
-Registering precompiled user dll's ...
-Registered in 0.167089 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.113 seconds
-Platform modules already initialized, skipping
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1520 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.9 MB.
-System memory in use after: 91.0 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2013.
-Total: 3.786400 ms (FindLiveObjects: 0.404800 ms CreateObjectMapping: 0.081800 ms MarkObjects: 3.108200 ms  DeleteObjects: 0.189600 ms)
+  path: Assets/GAME ACTIONS/New Game Action 1.asset
+  artifactKey: Guid(9ed555116b9fe034cbf9364123c96d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 1.asset using Guid(9ed555116b9fe034cbf9364123c96d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9c7dad7b2e60c93c51b3ea53fceab9') in 0.102992 seconds
+  Import took 0.110700 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 31.885501 seconds.
-  path: Assets/GAME ACTIONS/enemy health.asset
-  artifactKey: Guid(9491d6674c65c414db50116a3540d1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GAME ACTIONS/enemy health.asset using Guid(9491d6674c65c414db50116a3540d1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30c683102e3d5adad30c7f98d2ec55d') in 0.023325 seconds
-  Import took 0.028041 seconds .
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001801 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 57.69 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.076 seconds
-Registering precompiled user dll's ...
-Registered in 0.112482 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.981 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.1 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2017.
-Total: 2.655900 ms (FindLiveObjects: 0.414200 ms CreateObjectMapping: 0.106800 ms MarkObjects: 2.018700 ms  DeleteObjects: 0.114800 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001434 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 65.63 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.302 seconds
-Registering precompiled user dll's ...
-Registered in 0.283671 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.082 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.1 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2021.
-Total: 3.599200 ms (FindLiveObjects: 0.687100 ms CreateObjectMapping: 0.211500 ms MarkObjects: 2.489300 ms  DeleteObjects: 0.209700 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001435 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 57.94 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.349 seconds
-Registering precompiled user dll's ...
-Registered in 0.168444 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.076 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.1 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2025.
-Total: 2.401200 ms (FindLiveObjects: 0.451200 ms CreateObjectMapping: 0.073000 ms MarkObjects: 1.768200 ms  DeleteObjects: 0.107400 ms)
+  Time since last request: 0.000568 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 4.asset
+  artifactKey: Guid(24e5fb291d96f6c45953610f7ae6a9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 4.asset using Guid(24e5fb291d96f6c45953610f7ae6a9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52aed1d95aadd864904e82d0379463e0') in 0.006287 seconds
+  Import took 0.008352 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 537.954950 seconds.
-  path: Assets/GAME ACTIONS/healthfinal game2.asset
-  artifactKey: Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GAME ACTIONS/healthfinal game2.asset using Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5597b98b2f813b9a9373bcff42c78b2') in 0.037479 seconds
-  Import took 0.043151 seconds .
+  Time since last request: 0.000456 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 2.asset
+  artifactKey: Guid(899723cf497110f4d8ddda6a6086d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 2.asset using Guid(899723cf497110f4d8ddda6a6086d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c184c93e08a0333bcf6cf2d420fff3') in 0.011220 seconds
+  Import took 0.013925 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.005088 seconds.
-  path: Assets/GAME ACTIONS/healthfinal game2.asset
-  artifactKey: Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GAME ACTIONS/healthfinal game2.asset using Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5597b98b2f813b9a9373bcff42c78b2') in 0.004284 seconds
-  Import took 0.009134 seconds .
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001472 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 57.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.120 seconds
-Registering precompiled user dll's ...
-Registered in 0.106085 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.066 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.1 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2029.
-Total: 2.365000 ms (FindLiveObjects: 0.335600 ms CreateObjectMapping: 0.072000 ms MarkObjects: 1.838000 ms  DeleteObjects: 0.118100 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001709 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 62.70 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.388 seconds
-Registering precompiled user dll's ...
-Registered in 0.155243 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.233 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.1 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2033.
-Total: 3.154900 ms (FindLiveObjects: 0.523700 ms CreateObjectMapping: 0.082800 ms MarkObjects: 2.431500 ms  DeleteObjects: 0.115200 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001967 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 63.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.274 seconds
-Registering precompiled user dll's ...
-Registered in 0.098682 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.115 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.1 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2037.
-Total: 2.506500 ms (FindLiveObjects: 0.361600 ms CreateObjectMapping: 0.071500 ms MarkObjects: 1.972300 ms  DeleteObjects: 0.098700 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001756 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 54.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.352 seconds
-Registering precompiled user dll's ...
-Registered in 0.251928 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.201 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.1 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2041.
-Total: 2.565900 ms (FindLiveObjects: 0.346600 ms CreateObjectMapping: 0.086800 ms MarkObjects: 1.943800 ms  DeleteObjects: 0.187100 ms)
+  Time since last request: 0.000516 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 3.asset
+  artifactKey: Guid(9f93a0e4a00d0964b8fecb60086e22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 3.asset using Guid(9f93a0e4a00d0964b8fecb60086e22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80112f76013374f650ce9943ef49b35') in 0.007653 seconds
+  Import took 0.010688 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 776.235247 seconds.
-  path: Assets/GAME ACTIONS/triggeraction2.asset
-  artifactKey: Guid(b8893e48b127a4147ac48b84c1329f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GAME ACTIONS/triggeraction2.asset using Guid(b8893e48b127a4147ac48b84c1329f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7f9b97470e7f59ea399cd12777bbe4') in 0.018068 seconds
-  Import took 0.023766 seconds .
+  Time since last request: 1.658372 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 5.asset
+  artifactKey: Guid(deb5feae0d2ac244e808f55a7866b555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 5.asset using Guid(deb5feae0d2ac244e808f55a7866b555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '057f5db97e29d51fcd9abc147fc2667e') in 0.005495 seconds
+  Import took 0.008222 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 78.288785 seconds.
-  path: Assets/GAME ACTIONS/healthfinal game2.asset
-  artifactKey: Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GAME ACTIONS/healthfinal game2.asset using Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b1cf270e366cb3368104bf6d90ff8bd') in 0.014868 seconds
-  Import took 0.020261 seconds .
+  Time since last request: 0.008140 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 5.asset
+  artifactKey: Guid(deb5feae0d2ac244e808f55a7866b555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 5.asset using Guid(deb5feae0d2ac244e808f55a7866b555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '057f5db97e29d51fcd9abc147fc2667e') in 0.003517 seconds
+  Import took 0.005530 seconds .
 
 ========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001651 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 56.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.720 seconds
-Registering precompiled user dll's ...
-Registered in 0.115611 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
-
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.496 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.2 MB.
-System memory in use after: 61.2 MB.
-
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2045.
-Total: 2.815900 ms (FindLiveObjects: 0.345800 ms CreateObjectMapping: 0.072800 ms MarkObjects: 2.260300 ms  DeleteObjects: 0.135800 ms)
+Received Import Request.
+  Time since last request: 2.690703 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 6.asset
+  artifactKey: Guid(8151b942e885e7b45852f46819280b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 6.asset using Guid(8151b942e885e7b45852f46819280b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c6b84296340944f0fb1a8b269af0f2') in 0.003783 seconds
+  Import took 0.005950 seconds .
 
 ========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001831 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
+Received Import Request.
+  Time since last request: 0.008657 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 6.asset
+  artifactKey: Guid(8151b942e885e7b45852f46819280b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 6.asset using Guid(8151b942e885e7b45852f46819280b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c6b84296340944f0fb1a8b269af0f2') in 0.003796 seconds
+  Import took 0.005833 seconds .
 
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 66.08 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.610 seconds
-Registering precompiled user dll's ...
-Registered in 0.116394 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Script error: OnTriggerEnter
-This message parameter has to be of type: Collider
-The message will be ignored.
+========================================================================
+Received Import Request.
+  Time since last request: 18.930870 seconds.
+  path: Assets/GAME ACTIONS/boss health.asset
+  artifactKey: Guid(07bb8c2c9bf5a834386401a65ae650de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health.asset using Guid(07bb8c2c9bf5a834386401a65ae650de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba57101ec0bc129e8e60be744eb574b') in 0.004148 seconds
+  Import took 0.005888 seconds .
 
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.372 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.2 MB.
-System memory in use after: 61.3 MB.
+========================================================================
+Received Import Request.
+  Time since last request: 0.005496 seconds.
+  path: Assets/GAME ACTIONS/boss health.asset
+  artifactKey: Guid(07bb8c2c9bf5a834386401a65ae650de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health.asset using Guid(07bb8c2c9bf5a834386401a65ae650de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba57101ec0bc129e8e60be744eb574b') in 0.003641 seconds
+  Import took 0.005181 seconds .
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2049.
-Total: 2.872900 ms (FindLiveObjects: 0.561400 ms CreateObjectMapping: 0.187600 ms MarkObjects: 2.014200 ms  DeleteObjects: 0.108100 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 116.283421 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 5.asset
+  artifactKey: Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 5.asset using Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b979432c2550d4b9e938980ab6b70c1c') in 0.012896 seconds
+  Import took 0.015413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008052 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 5.asset
+  artifactKey: Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 5.asset using Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b979432c2550d4b9e938980ab6b70c1c') in 0.029303 seconds
+  Import took 0.034031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.988135 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 6.asset
+  artifactKey: Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 6.asset using Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0243a535da2d0219c3396292b6e6d0c') in 0.005030 seconds
+  Import took 0.007132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008462 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 6.asset
+  artifactKey: Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 6.asset using Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0243a535da2d0219c3396292b6e6d0c') in 0.006346 seconds
+  Import took 0.008857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.984514 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 7.asset
+  artifactKey: Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 7.asset using Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8bab4afc45418b0717a88e18870b238') in 0.004411 seconds
+  Import took 0.006475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007337 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 7.asset
+  artifactKey: Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 7.asset using Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8bab4afc45418b0717a88e18870b238') in 0.004663 seconds
+  Import took 0.006570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.577510 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 8.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 8.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b5fd348abb5309accd15de1abe6adc') in 0.004443 seconds
+  Import took 0.006921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008794 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 8.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 8.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b5fd348abb5309accd15de1abe6adc') in 0.003693 seconds
+  Import took 0.005582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.546995 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 9.asset
+  artifactKey: Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 9.asset using Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ad2222443a7cb1598bf271934b02fa') in 0.070216 seconds
+  Import took 0.101213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.281490 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 10.asset
+  artifactKey: Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 10.asset using Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958059e232234369ca2044a2f1fc0236') in 0.007062 seconds
+  Import took 0.011282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009492 seconds.
+  path: Assets/GAME ACTIONS/New Float Data 10.asset
+  artifactKey: Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Float Data 10.asset using Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958059e232234369ca2044a2f1fc0236') in 0.006214 seconds
+  Import took 0.008524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.800357 seconds.
+  path: Assets/GAME ACTIONS/boss health 1.asset
+  artifactKey: Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health 1.asset using Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37126bb63d4ba9182e9016a7132a4ea7') in 0.004540 seconds
+  Import took 0.006131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006436 seconds.
+  path: Assets/GAME ACTIONS/boss health 1.asset
+  artifactKey: Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health 1.asset using Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37126bb63d4ba9182e9016a7132a4ea7') in 0.003686 seconds
+  Import took 0.005292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 219.323559 seconds.
+  path: Assets/GAME ACTIONS/New Game Action.asset
+  artifactKey: Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action.asset using Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ccc25d2af0f7d9197db5c4baea60d8') in 0.019265 seconds
+  Import took 0.023417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001491 seconds.
+  path: Assets/GAME ACTIONS/New Game Action.asset
+  artifactKey: Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action.asset using Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ccc25d2af0f7d9197db5c4baea60d8') in 0.006555 seconds
+  Import took 0.009523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.782051 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 1.asset
+  artifactKey: Guid(3216beac71267544299e7028bcdb4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 1.asset using Guid(3216beac71267544299e7028bcdb4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb36c52004c1f7b780329bcdd7af86af') in 0.005467 seconds
+  Import took 0.008106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008042 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 1.asset
+  artifactKey: Guid(3216beac71267544299e7028bcdb4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 1.asset using Guid(3216beac71267544299e7028bcdb4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb36c52004c1f7b780329bcdd7af86af') in 0.003890 seconds
+  Import took 0.005472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.674690 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 2.asset
+  artifactKey: Guid(58a30a69b56330f46910638344ec2b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 2.asset using Guid(58a30a69b56330f46910638344ec2b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb9a7a658c19bcff062e7c1c1147c50') in 0.007301 seconds
+  Import took 0.011081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008726 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 2.asset
+  artifactKey: Guid(58a30a69b56330f46910638344ec2b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 2.asset using Guid(58a30a69b56330f46910638344ec2b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb9a7a658c19bcff062e7c1c1147c50') in 0.007997 seconds
+  Import took 0.011175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.719334 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 3.asset
+  artifactKey: Guid(025d711a096d2a34d982a09b4f8b3472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 3.asset using Guid(025d711a096d2a34d982a09b4f8b3472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ee2aa10dbf838c4916670e860a7dba') in 0.004840 seconds
+  Import took 0.007039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008080 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 3.asset
+  artifactKey: Guid(025d711a096d2a34d982a09b4f8b3472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 3.asset using Guid(025d711a096d2a34d982a09b4f8b3472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ee2aa10dbf838c4916670e860a7dba') in 0.004750 seconds
+  Import took 0.006867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.942682 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 4.asset
+  artifactKey: Guid(d82cd2213d15e064ab55a3010fcd338c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 4.asset using Guid(d82cd2213d15e064ab55a3010fcd338c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe69706a929c710b18077cffa092cf02') in 0.003426 seconds
+  Import took 0.005507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010972 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 4.asset
+  artifactKey: Guid(d82cd2213d15e064ab55a3010fcd338c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 4.asset using Guid(d82cd2213d15e064ab55a3010fcd338c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe69706a929c710b18077cffa092cf02') in 0.004355 seconds
+  Import took 0.006499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.511147 seconds.
+  path: Assets/GAME ACTIONS/New Game Action 5.asset
+  artifactKey: Guid(ea60265183045334ebd5b472b39f69c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/New Game Action 5.asset using Guid(ea60265183045334ebd5b472b39f69c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1c8e5a0771982b8569eedcf7109e80') in 0.046548 seconds
+  Import took 0.049565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.034455 seconds.
+  path: Assets/GAME ACTIONS/trigger ai 7.asset
+  artifactKey: Guid(e240ba44f735b674e8f96f3c6f347159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai 7.asset using Guid(e240ba44f735b674e8f96f3c6f347159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffda3deadb889177b12f44417494bf61') in 0.004615 seconds
+  Import took 0.007694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003580 seconds.
+  path: Assets/GAME ACTIONS/trigger ai 7.asset
+  artifactKey: Guid(e240ba44f735b674e8f96f3c6f347159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai 7.asset using Guid(e240ba44f735b674e8f96f3c6f347159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffda3deadb889177b12f44417494bf61') in 0.003419 seconds
+  Import took 0.005033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.781480 seconds.
+  path: Assets/GAME ACTIONS/trigger ai boss.asset
+  artifactKey: Guid(63e4deda6ffec9f4880d5752e19e5a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai boss.asset using Guid(63e4deda6ffec9f4880d5752e19e5a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c2d6718d00cd0a0f6a995bf2374b31') in 0.005646 seconds
+  Import took 0.007872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003222 seconds.
+  path: Assets/GAME ACTIONS/trigger ai boss.asset
+  artifactKey: Guid(63e4deda6ffec9f4880d5752e19e5a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai boss.asset using Guid(63e4deda6ffec9f4880d5752e19e5a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c2d6718d00cd0a0f6a995bf2374b31') in 0.035766 seconds
+  Import took 0.037523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 477.672064 seconds.
+  path: Assets/GAME ACTIONS/ai 1 health.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 1 health.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fde28c4dae662d733f269c2b09e45da') in 0.004210 seconds
+  Import took 0.006411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/GAME ACTIONS/ai 5 health.asset
+  artifactKey: Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 5 health.asset using Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '260b0c0b90f8664234a1b075c966bd62') in 0.004085 seconds
+  Import took 0.006393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000703 seconds.
+  path: Assets/GAME ACTIONS/ai7 update.asset
+  artifactKey: Guid(8151b942e885e7b45852f46819280b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai7 update.asset using Guid(8151b942e885e7b45852f46819280b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06efbd4f12b040078852c3f678ea2e73') in 0.004343 seconds
+  Import took 0.005836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/GAME ACTIONS/ai 2 health.asset
+  artifactKey: Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 2 health.asset using Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6530bb2e1d010293e73286ec4a340ec9') in 0.004847 seconds
+  Import took 0.006649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/GAME ACTIONS/ai5 update.asset
+  artifactKey: Guid(24e5fb291d96f6c45953610f7ae6a9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai5 update.asset using Guid(24e5fb291d96f6c45953610f7ae6a9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f416553128d961cca5465eb579da4c') in 0.286262 seconds
+  Import took 0.287938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/GAME ACTIONS/trigger ai 4.asset
+  artifactKey: Guid(d82cd2213d15e064ab55a3010fcd338c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai 4.asset using Guid(d82cd2213d15e064ab55a3010fcd338c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd1aff9c792d8d9fc3f8667f6f8aebf') in 0.004428 seconds
+  Import took 0.005752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/GAME ACTIONS/ai6 update.asset
+  artifactKey: Guid(deb5feae0d2ac244e808f55a7866b555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai6 update.asset using Guid(deb5feae0d2ac244e808f55a7866b555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479a08eb3b7b2acf209374b1bc0455ab') in 0.004378 seconds
+  Import took 0.006001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/GAME ACTIONS/boss health 1.asset
+  artifactKey: Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health 1.asset using Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f14e99ef7b625a9bbc44031c10ecb45') in 0.003749 seconds
+  Import took 0.005206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/GAME ACTIONS/trigger ai 3.asset
+  artifactKey: Guid(025d711a096d2a34d982a09b4f8b3472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai 3.asset using Guid(025d711a096d2a34d982a09b4f8b3472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7be15ca0630179a0f0a4847bb25944') in 0.004426 seconds
+  Import took 0.006335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/GAME ACTIONS/ai 6 health.asset
+  artifactKey: Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 6 health.asset using Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51d75636331a17fcaba505ef4afa4ab') in 0.018731 seconds
+  Import took 0.020765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000742 seconds.
+  path: Assets/GAME ACTIONS/ai3 update.asset
+  artifactKey: Guid(899723cf497110f4d8ddda6a6086d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai3 update.asset using Guid(899723cf497110f4d8ddda6a6086d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9dd72635ffbebbffe61fb0c263f222') in 0.005529 seconds
+  Import took 0.008118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/GAME ACTIONS/trigger ai 1.asset
+  artifactKey: Guid(3216beac71267544299e7028bcdb4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai 1.asset using Guid(3216beac71267544299e7028bcdb4b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fce57eebef26f532e45b34d8459fc4c') in 0.005984 seconds
+  Import took 0.007850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/GAME ACTIONS/boss update.asset
+  artifactKey: Guid(07bb8c2c9bf5a834386401a65ae650de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss update.asset using Guid(07bb8c2c9bf5a834386401a65ae650de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d29e0894fd01ae44ffcd3760089b1b') in 0.004231 seconds
+  Import took 0.006018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/GAME ACTIONS/ai2 update.asset
+  artifactKey: Guid(9ed555116b9fe034cbf9364123c96d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai2 update.asset using Guid(9ed555116b9fe034cbf9364123c96d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7225dcd5f9a09c99eefb38a1ff33345c') in 0.004503 seconds
+  Import took 0.006471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/GAME ACTIONS/trigger ai 6.asset
+  artifactKey: Guid(ea60265183045334ebd5b472b39f69c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai 6.asset using Guid(ea60265183045334ebd5b472b39f69c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab1c279f1c0c6ca7f91b42fecf03632') in 0.005797 seconds
+  Import took 0.007361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/GAME ACTIONS/ai3 health.asset
+  artifactKey: Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai3 health.asset using Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf1f704f308f5c208ba55e8b553fce3') in 0.005408 seconds
+  Import took 0.007473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/GAME ACTIONS/ai4 update.asset
+  artifactKey: Guid(9f93a0e4a00d0964b8fecb60086e22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai4 update.asset using Guid(9f93a0e4a00d0964b8fecb60086e22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96615a7ed37a1190f28d690f17e42118') in 0.004251 seconds
+  Import took 0.006574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/GAME ACTIONS/ai 1 update.asset
+  artifactKey: Guid(efce48abe30bff441bf5e285a78aefc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 1 update.asset using Guid(efce48abe30bff441bf5e285a78aefc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8469f0a4b9c5267f50c61eb55984b02a') in 0.005521 seconds
+  Import took 0.007759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/GAME ACTIONS/ai 4 health.asset
+  artifactKey: Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 4 health.asset using Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a73a6fe9a3050fde0530898dc8529b6') in 0.004401 seconds
+  Import took 0.006077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.835181 seconds.
+  path: Assets/GAME ACTIONS/trigger ai2.asset
+  artifactKey: Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai2.asset using Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b8ea1be9af82f978c291d678d52cad') in 0.004351 seconds
+  Import took 0.006181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000814 seconds.
+  path: Assets/GAME ACTIONS/trigger ai5.asset
+  artifactKey: Guid(58a30a69b56330f46910638344ec2b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai5.asset using Guid(58a30a69b56330f46910638344ec2b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28dbab0d3137f471659c3d5abaeeb4e') in 0.004472 seconds
+  Import took 0.006681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003170 seconds.
+  path: Assets/GAME ACTIONS/trigger ai2.asset
+  artifactKey: Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/trigger ai2.asset using Guid(9ace5cbeaf189fd4db8992d48d1e1ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b8ea1be9af82f978c291d678d52cad') in 0.026010 seconds
+  Import took 0.028442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.977011 seconds.
+  path: Assets/GAME ACTIONS/ai health 7.asset
+  artifactKey: Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai health 7.asset using Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2fe339a88197caed500fe6b7a9fe84') in 0.004303 seconds
+  Import took 0.006387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007509 seconds.
+  path: Assets/GAME ACTIONS/ai health 7.asset
+  artifactKey: Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai health 7.asset using Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2fe339a88197caed500fe6b7a9fe84') in 0.004640 seconds
+  Import took 0.006874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.356993 seconds.
+  path: Assets/GAME ACTIONS/ai 1 health.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 1 health.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029c3463713befb1e281644d3faa03c3') in 0.004660 seconds
+  Import took 0.006850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014501 seconds.
+  path: Assets/GAME ACTIONS/ai 1 health.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 1 health.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029c3463713befb1e281644d3faa03c3') in 0.004545 seconds
+  Import took 0.006610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/GAME ACTIONS/ai health 7.asset
+  artifactKey: Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai health 7.asset using Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80d58f807f7cd769e112320a45e3db4') in 0.004253 seconds
+  Import took 0.006631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.305104 seconds.
+  path: Assets/GAME ACTIONS/ai 2 health.asset
+  artifactKey: Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 2 health.asset using Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41f9c9fa5e4fadab1a774a78bc49a95') in 0.004345 seconds
+  Import took 0.006659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/GAME ACTIONS/ai 5 health.asset
+  artifactKey: Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 5 health.asset using Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7b66828b566b50684859730a5b594d') in 0.004190 seconds
+  Import took 0.006810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/GAME ACTIONS/boss health 1.asset
+  artifactKey: Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health 1.asset using Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27dfdfa716879d457d88d9f09c02ae8f') in 0.006062 seconds
+  Import took 0.008501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/GAME ACTIONS/ai 6 health.asset
+  artifactKey: Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 6 health.asset using Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0697c5f1587e4d37a5748f2fc5297f') in 0.004255 seconds
+  Import took 0.006274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/GAME ACTIONS/ai3 health.asset
+  artifactKey: Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai3 health.asset using Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ab985da6b967c4338b07b65767aec4') in 0.004319 seconds
+  Import took 0.005770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/GAME ACTIONS/ai 4 health.asset
+  artifactKey: Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 4 health.asset using Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402c37a1d016d15fed0c75acd839817e') in 0.010698 seconds
+  Import took 0.012874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.049152 seconds.
+  path: Assets/GAME ACTIONS/boss trigger.asset
+  artifactKey: Guid(d435bf4678fc02f49b478bbd1e28281f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss trigger.asset using Guid(d435bf4678fc02f49b478bbd1e28281f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f959e9ac7c5dd57727ca6b79073090c') in 0.005458 seconds
+  Import took 0.007653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008764 seconds.
+  path: Assets/GAME ACTIONS/boss trigger.asset
+  artifactKey: Guid(d435bf4678fc02f49b478bbd1e28281f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss trigger.asset using Guid(d435bf4678fc02f49b478bbd1e28281f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f959e9ac7c5dd57727ca6b79073090c') in 0.003992 seconds
+  Import took 0.006262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.382422 seconds.
+  path: Assets/GAME ACTIONS/ai 5 health.asset
+  artifactKey: Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 5 health.asset using Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d7469e58a06729572323662edd99f6') in 0.004720 seconds
+  Import took 0.007244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/GAME ACTIONS/boss health 1.asset
+  artifactKey: Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health 1.asset using Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cb08a1038b1ed29c94af039f52e2f5') in 0.004430 seconds
+  Import took 0.006158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/GAME ACTIONS/ai 6 health.asset
+  artifactKey: Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 6 health.asset using Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3396096b66e9c606283104482661437f') in 0.005500 seconds
+  Import took 0.009259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/GAME ACTIONS/boss health 1.asset
+  artifactKey: Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health 1.asset using Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cb08a1038b1ed29c94af039f52e2f5') in 0.004193 seconds
+  Import took 0.006038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/GAME ACTIONS/ai3 health.asset
+  artifactKey: Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai3 health.asset using Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6520999796f87ee53defad07bf0a7c') in 0.004063 seconds
+  Import took 0.007214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/GAME ACTIONS/ai health 7.asset
+  artifactKey: Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai health 7.asset using Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681487d055b6fda2217b7a94d6f930e9') in 0.004345 seconds
+  Import took 0.006439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.935215 seconds.
+  path: Assets/GAME ACTIONS/ai 1 health.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 1 health.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c38e967b7c17c96342d7cf717ace45') in 0.004763 seconds
+  Import took 0.006470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001006 seconds.
+  path: Assets/GAME ACTIONS/ai 2 health.asset
+  artifactKey: Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 2 health.asset using Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080733c5c4299a7fbf186625de04d1e2') in 0.005442 seconds
+  Import took 0.007700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000868 seconds.
+  path: Assets/GAME ACTIONS/ai 1 health.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 1 health.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c38e967b7c17c96342d7cf717ace45') in 0.004813 seconds
+  Import took 0.009095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/GAME ACTIONS/ai 4 health.asset
+  artifactKey: Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 4 health.asset using Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a489962b872951ad542554faa25d40') in 0.004538 seconds
+  Import took 0.007531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.998008 seconds.
+  path: Assets/GAME ACTIONS/ai 1 health.asset
+  artifactKey: Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 1 health.asset using Guid(b2bd639fc5613a74ca1e9729762d154b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f346fa97ee4eabf922e87e576f2eb00') in 0.004561 seconds
+  Import took 0.006901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/GAME ACTIONS/ai 5 health.asset
+  artifactKey: Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 5 health.asset using Guid(dd0eb30da553d744490d73fd98d8a7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae1b808dd05ae38f960eb767fdf565f') in 0.004730 seconds
+  Import took 0.006631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/GAME ACTIONS/ai 2 health.asset
+  artifactKey: Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 2 health.asset using Guid(71504fa7bae544b4ea676b4dff2a6350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5599c8bad83fbdc6ec74050e0a9563') in 0.004842 seconds
+  Import took 0.008531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/GAME ACTIONS/boss health 1.asset
+  artifactKey: Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/boss health 1.asset using Guid(51926b468f0a19545bbaeadeb0cd3b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f128cef062731d629b7066962805f981') in 0.004356 seconds
+  Import took 0.008462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/GAME ACTIONS/ai 6 health.asset
+  artifactKey: Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 6 health.asset using Guid(443b6712b823aa4478e6b409b9541423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a138bd1b8b16bb960267de9c8487acf') in 0.004282 seconds
+  Import took 0.006555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/GAME ACTIONS/ai3 health.asset
+  artifactKey: Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai3 health.asset using Guid(8ca29781ee65cc644879a3515c8f1155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da60d4e202c861e75f09539199bb375e') in 0.004571 seconds
+  Import took 0.006244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/GAME ACTIONS/ai health 7.asset
+  artifactKey: Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai health 7.asset using Guid(6ccfc85922d871140a4625bdff83033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03097cf22748ff8b276292f08dcab1d') in 0.004209 seconds
+  Import took 0.005788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/GAME ACTIONS/ai 4 health.asset
+  artifactKey: Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/ai 4 health.asset using Guid(586bb0ad0fa73c94eb2ef2cb01ea5b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b8719c6502fe879114cfedc85cf900') in 0.004497 seconds
+  Import took 0.006446 seconds .
 
