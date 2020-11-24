@@ -81,6 +81,7 @@
     <Compile Include="Assets\my scripts\Vector3Data1.cs" />
     <Compile Include="Assets\my scripts\FloatData1.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\CameraFollowScript.cs" />
+    <Compile Include="Assets\GAME ACTIONS\MonoEvents.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\instancerBehavior.cs" />
     <Compile Include="Assets\my scripts\TriggerEventExample.cs" />
     <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\MaterialMover.cs" />
@@ -249,7 +250,7 @@
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\GAME ACTIONS\MonoEvents.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\FireRate.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
