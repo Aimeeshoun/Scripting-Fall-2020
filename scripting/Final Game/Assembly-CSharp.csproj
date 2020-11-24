@@ -228,6 +228,7 @@
     <Compile Include="Assets\imagecontrollerForgameAction.cs" />
     <Compile Include="Assets\Camera2.cs" />
     <Compile Include="Assets\AudioPlay.cs" />
+    <Compile Include="Assets\GAME ACTIONS\Game Action2.cs" />
     <Compile Include="Assets\my scripts\UITextController.cs" />
     <Compile Include="Assets\my scripts\CoinScript.cs" />
     <Compile Include="Assets\my scripts\CoinRotation.cs" />
@@ -248,7 +249,7 @@
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\GAME ACTIONS\Game Action2.cs" />
+    <Compile Include="Assets\GAME ACTIONS\MonoEvents.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
