@@ -223,6 +223,7 @@
     <Compile Include="Assets\Jump.cs" />
     <Compile Include="Assets\my scripts\AI.cs" />
     <Compile Include="Assets\my scripts\CharacterMover.cs" />
+    <Compile Include="Assets\my scripts\Instancer.cs" />
     <Compile Include="Assets\WhileLoop.cs" />
     <Compile Include="Assets\Image Controller2.cs" />
     <Compile Include="Assets\my scripts\Spawn.cs" />
@@ -250,7 +251,8 @@
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\my scripts\Instancer.cs" />
+    <Compile Include="Assets\my scripts\triggereventportal.cs" />
+    <Compile Include="Assets\GAME ACTIONS\triggerenter.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />

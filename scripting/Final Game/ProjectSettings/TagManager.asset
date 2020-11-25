@@ -4,16 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - red beam
-  - door bar
-  - weapon1
-  - weapon2
-  - weapon3
-  - redbullet
-  - fruit
-  - Bullet
-  - Bush
-  - Door
+  - portal
   layers:
   - Default
   - TransparentFX
