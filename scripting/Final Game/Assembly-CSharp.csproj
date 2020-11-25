@@ -131,6 +131,7 @@
     <Compile Include="Assets\my scripts\LookAtbehavior.cs" />
     <Compile Include="Assets\DestroyBullet2.cs" />
     <Compile Include="Assets\my scripts\Instan.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\FireRate.cs" />
     <Compile Include="Assets\STATEMACHINE\STATEMACHINE.cs" />
     <Compile Include="Assets\my scripts\GameActionHandleler.cs" />
     <Compile Include="Assets\GameArtData.cs" />
@@ -185,7 +186,6 @@
     <Compile Include="Assets\my scripts\Score.cs" />
     <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
     <Compile Include="Assets\DestroyBulletscript.cs" />
-    <Compile Include="Assets\my scripts\InstancerBehavior.cs" />
     <Compile Include="Assets\my scripts\PlayerController.cs" />
     <Compile Include="Assets\my scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\my scripts\InstanciatePrefab.cs" />
@@ -193,7 +193,6 @@
     <Compile Include="Assets\triggercage.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseController.cs" />
     <Compile Include="Assets\my scripts\MovingBehavior.cs" />
-    <Compile Include="Assets\Coroutine.cs" />
     <Compile Include="Assets\my scripts\HealthController.cs" />
     <Compile Include="Assets\WeaponEnum.cs" />
     <Compile Include="Assets\InstanciateBullet.cs" />
@@ -250,7 +249,6 @@
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\FireRate.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
