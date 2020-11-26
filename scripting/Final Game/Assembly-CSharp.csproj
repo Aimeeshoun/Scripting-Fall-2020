@@ -116,6 +116,7 @@
     <Compile Include="Assets\Score1.cs" />
     <Compile Include="Assets\my scripts\MovementJump2.cs" />
     <Compile Include="Assets\my scripts\MovementJump.cs" />
+    <Compile Include="Assets\my scripts\triggereventportal.cs" />
     <Compile Include="Assets\DestroyBomb.cs" />
     <Compile Include="Assets\my scripts\ImageController.cs" />
     <Compile Include="Assets\IntData2.cs" />
@@ -146,6 +147,7 @@
     <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Audio\Coin\triggeranimation.cs" />
     <Compile Include="Assets\Animation.cs" />
     <Compile Include="Assets\my scripts\Instancer2.cs" />
+    <Compile Include="Assets\GAME ACTIONS\triggerenter.cs" />
     <Compile Include="Assets\my scripts\PowerUpHealth1.cs" />
     <Compile Include="Assets\my scripts\FireAmmo.cs" />
     <Compile Include="Assets\my scripts\FloatData.cs" />
@@ -251,8 +253,6 @@
     <Compile Include="Assets\Animation States.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\my scripts\triggereventportal.cs" />
-    <Compile Include="Assets\GAME ACTIONS\triggerenter.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
