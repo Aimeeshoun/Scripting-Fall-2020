@@ -101,16 +101,18 @@
     <Compile Include="Assets\my scripts\CharacterBehaviour.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AINavMesh.cs" />
+    <Compile Include="Assets\spawmpoint trial\Spawn7.cs" />
     <Compile Include="Assets\BackandForth.cs" />
     <Compile Include="Assets\STATEMACHINE\State.cs" />
     <Compile Include="Assets\DestoyGameObject.cs" />
     <Compile Include="Assets\Damage.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\Death.cs" />
     <Compile Include="Assets\BarDataObject.cs" />
+    <Compile Include="Assets\Spawnpoit.cs" />
     <Compile Include="Assets\my scripts\Ontriggerenter.cs" />
     <Compile Include="Assets\DestroyObject1.cs" />
     <Compile Include="Assets\my scripts\ImageControl.cs" />
     <Compile Include="Assets\my scripts\Patrol.cs" />
-    <Compile Include="Assets\my scripts\Spawn1.cs" />
     <Compile Include="Assets\DestroyCoin.cs" />
     <Compile Include="Assets\cageAnim.cs" />
     <Compile Include="Assets\my scripts\MoveLocate.cs" />
@@ -215,6 +217,7 @@
     <Compile Include="Assets\my scripts\ColorChange.cs" />
     <Compile Include="Assets\EnemyEnum.cs" />
     <Compile Include="Assets\my scripts\AddScore1.cs" />
+    <Compile Include="Assets\Spawn2.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\LookAtBehavior2.cs" />
     <Compile Include="Assets\my scripts\EnemyConfig.cs" />
     <Compile Include="Assets\Events.cs" />
@@ -259,6 +262,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs" />
     <Compile Include="Assets\Countdown.cs" />
     <Compile Include="Assets\Particles.cs" />
+    <Compile Include="Assets\Spawn6.cs" />
     <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\WheelController.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MovingCoroutineSm.cs" />
@@ -296,10 +300,12 @@
     <Compile Include="Assets\my scripts\FloatDataScript.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs" />
     <Compile Include="Assets\spawn5.cs" />
+    <Compile Include="Assets\OverRideCam.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs" />
     <Compile Include="Assets\CoinPickUp.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs" />
+    <Compile Include="Assets\CameraJumpFix.cs" />
     <Compile Include="Assets\my scripts\Health3.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CameraState.cs" />
     <Compile Include="Assets\Collections List.cs" />
@@ -308,7 +314,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\CameraJumpFix.cs" />
+    <Compile Include="Assets\Spawn8.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
