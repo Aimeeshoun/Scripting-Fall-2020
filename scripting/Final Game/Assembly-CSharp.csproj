@@ -153,6 +153,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs" />
     <Compile Include="Assets\my scripts\movement3.cs" />
+    <Compile Include="Assets\Spawn8.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs" />
     <Compile Include="Assets\nov 10\enumswitch.cs" />
     <Compile Include="Assets\my scripts\LookAtbehavior.cs" />
@@ -314,7 +315,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\Spawn8.cs" />
+    <Compile Include="Assets\death.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
