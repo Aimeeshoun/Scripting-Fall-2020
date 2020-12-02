@@ -5,21 +5,13 @@ scripting/Game 2/Library/
 
 scripting/game3/Library/
 
-scripting/game3/Assets/AddScore1.cs.meta
 
-scripting/game3/Assets/ApplyForce.cs
-
-scripting/game3/Assets/ApplyForce.cs.meta
-
-scripting/game3/Assets/SpawnPoint.cs
-
-scripting/game3/Assets/SpawnPoint.cs.meta
 
 scripting/Character Movement/Library/
 
 scripting/Final Game/Library/
 
-scripting/Character Movement/Assets/
+
 
 scripting/character_Movement/Library/
 
@@ -77,4 +69,4 @@ scripting/Final Game/Assets/Fruits_Pack - 3D_Models/
 
 scripting/Final Game/Assets/Free LowPoly SciFi Pack/Prefabs/
 
-scripting/Final Game/Assets/
+
