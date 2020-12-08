@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - portal
+  - Bush
+  - Door
+  - Bullet
+  - Baby
   layers:
   - Default
   - TransparentFX

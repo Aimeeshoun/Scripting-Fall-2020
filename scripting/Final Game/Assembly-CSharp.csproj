@@ -171,6 +171,7 @@
     <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
     <Compile Include="Assets\my scripts\ApplyForce1.cs" />
     <Compile Include="Assets\MY DOWNLOADS\DOWNLOAD\AurynSky\Forest Pack\Scripts\Rotator.cs" />
+    <Compile Include="Assets\death.cs" />
     <Compile Include="Assets\my scripts\movement.cs" />
     <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Audio\Coin\triggeranimation.cs" />
     <Compile Include="Assets\Animation.cs" />
@@ -231,7 +232,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\Predictor.cs" />
     <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
     <Compile Include="Assets\Cinemachine\Timeline\CinemachineShot.cs" />
-    <Compile Include="Assets\DestroyBulletscript.cs" />
+    <Compile Include="Assets\DestroyBabyScript.cs" />
     <Compile Include="Assets\my scripts\PlayerController.cs" />
     <Compile Include="Assets\my scripts\Vector3dataobject.cs" />
     <Compile Include="Assets\my scripts\InstanciatePrefab.cs" />
@@ -315,7 +316,6 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\death.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
