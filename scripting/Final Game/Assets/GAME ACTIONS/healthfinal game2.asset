@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 497b2c79dce68b24b917d4c2b4ca4986, type: 3}
   m_Name: healthfinal game2
   m_EditorClassIdentifier: 
-  value: 0.35999995
+  value: 1
   setValueEvent:
     m_PersistentCalls:
       m_Calls:

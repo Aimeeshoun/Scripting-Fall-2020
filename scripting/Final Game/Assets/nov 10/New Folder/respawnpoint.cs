@@ -13,17 +13,20 @@ public class respawnpoint : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
+        if (other.gameObject.CompareTag("Player"))
         {
             StartCoroutine(Respawn());
         }
     }
 
     IEnumerator Respawn()
-    {
+    
 
-        
-        yield return new WaitForSeconds(0f);
-        Instantiate(player, respawnPoint.position, Quaternion.identity);
-      
+        {
+
+
+            yield return new WaitForSeconds(0f);
+            Instantiate(player, respawnPoint.position, Quaternion.identity);
+
+        }
     }
-}
