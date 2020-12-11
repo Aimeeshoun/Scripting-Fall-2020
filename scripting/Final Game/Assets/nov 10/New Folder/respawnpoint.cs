@@ -26,7 +26,8 @@ public class respawnpoint : MonoBehaviour
 
         
         yield return new WaitForSeconds(0f);
-            Instantiate(player, respawnPoint.position, Quaternion.identity);
+        transform.Translate(10f, 0, 0);
+         Instantiate(player, respawnPoint.position, Quaternion.identity);
         Destroy(this.gameObject);
 
         }

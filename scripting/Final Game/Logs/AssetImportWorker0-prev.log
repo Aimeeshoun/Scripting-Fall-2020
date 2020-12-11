@@ -15,11 +15,11 @@ D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61707
+61799
 Successfully changed project path to: D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 D:/Desktop/repofall2020/scripting/Scripting-Fall-2020/scripting/Final Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 81.03 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 69.15 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a21 (3e0d5f775006)
 [Subsystems] Discovering subsystems at path D:/Program Files/2020.2.0a21/Editor/Data/Resources/UnitySubsystems
@@ -36,29 +36,29 @@ Initialize mono
 Mono path[0] = 'D:/Program Files/2020.2.0a21/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.2.0a21/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56132
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001620 seconds.
+Registered in 0.001695 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 56.02 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 57.00 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.317 seconds
+- Completed reload, in  1.347 seconds
 Registering precompiled user dll's ...
-Registered in 0.110952 seconds.
+Registered in 0.112860 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 System.ArgumentOutOfRangeException: Length cannot be less than zero.
 Parameter name: length
@@ -76,7 +76,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.558 seconds
+- Completed reload, in  1.500 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(3411e19edd44cfd46b548b058c3bc36c) path("Packages/com.unity.test-framework/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs") state(2)
 Script is not up to date after domain reload: guid(73deb9b8722aa284eab27c4dc90956c6) path("Packages/com.unity.test-framework/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs") state(2)
@@ -3290,23 +3290,23 @@ Script is not up to date after domain reload: guid(9c8ceb9efacb4974bb3b7e2a87137
 Script is not up to date after domain reload: guid(51ffd9e8cfdebdb40aa841c7e1720a7c) path("Assets/EnemyFollow.cs") state(2)
 Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513ef38) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
-Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 2296, restarting
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Shader compiler: UnityShaderCompiler.exe compiler executable disappeared on thread 19180, restarting
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 50.7 MB.
 System memory in use after: 50.0 MB.
 
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 2.741100 ms (FindLiveObjects: 0.324900 ms CreateObjectMapping: 0.012600 ms MarkObjects: 2.256400 ms  DeleteObjects: 0.145900 ms)
+Total: 2.353300 ms (FindLiveObjects: 0.210600 ms CreateObjectMapping: 0.009500 ms MarkObjects: 2.032000 ms  DeleteObjects: 0.098700 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/GAME ACTIONS/healthfinal game2.asset
   artifactKey: Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GAME ACTIONS/healthfinal game2.asset using Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f74ffe30106c3befd8b79c21364522') in 0.054727 seconds
-  Import took 0.056654 seconds .
+Start importing Assets/GAME ACTIONS/healthfinal game2.asset using Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aec129df7851ff695a31ec3575b9441') in 0.055708 seconds
+  Import took 0.058249 seconds .
 
 ========================================================================
 Received Prepare
@@ -3315,11 +3315,11 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Program Files/2020.2.0a21/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001823 seconds.
+Registered in 0.001713 seconds.
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 60.43 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 61.67 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 System.ArgumentOutOfRangeException: Length cannot be less than zero.
 Parameter name: length
@@ -3337,15 +3337,15 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.623 seconds
+- Completed reload, in  1.660 seconds
 Registering precompiled user dll's ...
-Registered in 0.114763 seconds.
+Registered in 0.125800 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Desktop\repofall2020\scripting\Scripting-Fall-2020\scripting\Final Game\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 System.ArgumentOutOfRangeException: Length cannot be less than zero.
 Parameter name: length
@@ -3363,19 +3363,27 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.551 seconds
+- Completed reload, in  1.721 seconds
 Platform modules already initialized, skipping
 Script error: OnTriggerEnter
 This message parameter has to be of type: Collider
 The message will be ignored.
 
-Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1630 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 94.4 MB.
 System memory in use after: 94.5 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2123.
-Total: 2.203900 ms (FindLiveObjects: 0.355300 ms CreateObjectMapping: 0.094500 ms MarkObjects: 1.667900 ms  DeleteObjects: 0.084800 ms)
+Total: 3.030800 ms (FindLiveObjects: 0.422400 ms CreateObjectMapping: 0.118400 ms MarkObjects: 2.377700 ms  DeleteObjects: 0.110300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.770778 seconds.
+  path: Assets/GAME ACTIONS/healthfinal game2.asset
+  artifactKey: Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GAME ACTIONS/healthfinal game2.asset using Guid(74f753e4bc6a02a46a0021bd6887ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8726818cd1452a943e36e349db7961') in 0.022172 seconds
+  Import took 0.030009 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
