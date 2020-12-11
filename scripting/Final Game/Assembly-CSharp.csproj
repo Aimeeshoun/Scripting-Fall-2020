@@ -193,6 +193,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs" />
     <Compile Include="Assets\my scripts\rightandLeft.cs" />
     <Compile Include="Assets\SliderControl.cs" />
+    <Compile Include="Assets\nov 10\New Folder\spawnobj.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs" />
     <Compile Include="Assets\PlayAudio.cs" />
     <Compile Include="Assets\my scripts\FloatData2.cs" />
@@ -317,7 +318,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\nov 10\New Folder\spawnobj.cs" />
+    <Compile Include="Assets\injuryfromfall.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
