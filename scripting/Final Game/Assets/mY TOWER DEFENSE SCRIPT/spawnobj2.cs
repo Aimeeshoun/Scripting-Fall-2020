@@ -18,7 +18,7 @@ public class spawnobj2 : MonoBehaviour
 
             yield return new WaitForSeconds(0f);
 
-        transform.Translate(164, 0, -65);
+        transform.Translate(375, 30, -100);
 
         }
     }
