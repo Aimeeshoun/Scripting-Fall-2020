@@ -9,6 +9,7 @@ TagManager:
   - Door
   - Bullet
   - Baby
+  - box portal
   layers:
   - Default
   - TransparentFX

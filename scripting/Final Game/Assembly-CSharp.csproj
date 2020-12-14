@@ -229,6 +229,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs" />
     <Compile Include="Assets\my scripts\Health2.cs" />
     <Compile Include="Assets\CharacterSwitchEnum.cs" />
+    <Compile Include="Assets\injuryfromfall.cs" />
     <Compile Include="Assets\my scripts\Score.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\Predictor.cs" />
     <Compile Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
@@ -318,7 +319,8 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\injuryfromfall.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\spawnobj2.cs" />
+    <Compile Include="Assets\nov30\spawnobj3.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
