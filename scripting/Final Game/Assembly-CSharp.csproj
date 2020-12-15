@@ -185,6 +185,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs" />
     <Compile Include="Assets\my scripts\FloatData.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\AxisState.cs" />
+    <Compile Include="Assets\my scripts\triggerai.cs" />
     <Compile Include="Assets\Pl.cs" />
     <Compile Include="Assets\CoroutineTransform.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs" />
@@ -324,7 +325,8 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\my scripts\triggerai.cs" />
+    <Compile Include="Assets\healthdeath.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\spawn.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
