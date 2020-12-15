@@ -161,6 +161,7 @@
     <Compile Include="Assets\my scripts\Instan.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\FireRate.cs" />
     <Compile Include="Assets\GAME ACTIONS\AddEnemies.cs" />
+    <Compile Include="Assets\my scripts\triggere.cs" />
     <Compile Include="Assets\STATEMACHINE\STATEMACHINE.cs" />
     <Compile Include="Assets\my scripts\GameActionHandleler.cs" />
     <Compile Include="Assets\GameArtData.cs" />
@@ -196,6 +197,7 @@
     <Compile Include="Assets\nov 10\New Folder\spawnobj.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs" />
     <Compile Include="Assets\PlayAudio.cs" />
+    <Compile Include="Assets\nov30\spawnobj3.cs" />
     <Compile Include="Assets\my scripts\FloatData2.cs" />
     <Compile Include="Assets\my scripts\Instancer3.cs" />
     <Compile Include="Assets\Aibehavior.cs" />
@@ -242,6 +244,7 @@
     <Compile Include="Assets\Premator.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs" />
     <Compile Include="Assets\triggercage.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\spawnobj2.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MouseController.cs" />
     <Compile Include="Assets\my scripts\MovingBehavior.cs" />
     <Compile Include="Assets\my scripts\HealthController.cs" />
@@ -252,9 +255,11 @@
     <Compile Include="Assets\PlayerData.cs" />
     <Compile Include="Assets\my scripts\UIImageController.cs" />
     <Compile Include="Assets\MyfloatData.cs" />
+    <Compile Include="Assets\nov30\spawnobj4.cs" />
     <Compile Include="Assets\my scripts\rigidbodyMovement.cs" />
     <Compile Include="Assets\CharacterBrain.cs" />
     <Compile Include="Assets\Weapon Switch.cs" />
+    <Compile Include="Assets\GAME ACTIONS\load scene.cs" />
     <Compile Include="Assets\my scripts\EventBehaviors.cs" />
     <Compile Include="Assets\my scripts\lookat2.cs" />
     <Compile Include="Assets\nov 10\UI data.cs" />
@@ -319,8 +324,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\spawnobj2.cs" />
-    <Compile Include="Assets\nov30\spawnobj3.cs" />
+    <Compile Include="Assets\my scripts\triggerai.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />

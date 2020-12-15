@@ -11,6 +11,8 @@ TagManager:
   - Baby
   - box portal
   - boxportal2
+  - ai
+  - bulletblue
   layers:
   - Default
   - TransparentFX
