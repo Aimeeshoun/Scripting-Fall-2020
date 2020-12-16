@@ -123,9 +123,10 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\AmmoCounter.cs" />
-    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MoveLocator.cs" />
+    <Compile Include="Assets\my scripts\newVector3dataSpawn.cs" />
     <Compile Include="Assets\healthdeath.cs" />
     <Compile Include="Assets\my scripts\Lerp.cs" />
+    <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\MoveLocator.cs" />
     <Compile Include="Assets\mY TOWER DEFENSE SCRIPT\DeathCoroutine.cs" />
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs" />
     <Compile Include="Assets\my scripts\GameAction.cs" />
@@ -210,6 +211,7 @@
     <Compile Include="Assets\my scripts\LookAtme.cs" />
     <Compile Include="Assets\WeaponData.cs" />
     <Compile Include="Assets\my scripts\JumpPowerUp.cs" />
+    <Compile Include="Assets\loadscence.cs" />
     <Compile Include="Assets\WalkinCircles.cs" />
     <Compile Include="Assets\my scripts\LookAt4.cs" />
     <Compile Include="Assets\rotatefix.cs" />
@@ -328,8 +330,7 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\loadscence.cs" />
-    <Compile Include="Assets\my scripts\newVector3dataSpawn.cs" />
+    <Compile Include="Assets\my scripts\ondestroy.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
