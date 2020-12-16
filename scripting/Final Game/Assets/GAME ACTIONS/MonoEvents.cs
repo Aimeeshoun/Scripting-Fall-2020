@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class MonoEvents : MonoBehaviour
 {
-    public UnityEvent awakeEvent, startEvent, onEnableEvent, onDisableEvent;
+    public UnityEvent awakeEvent, startEvent, onEnableEvent, onDisableEvent; 
     public float holdTime = 0f;
     public bool repeatOnStart;
 
@@ -39,4 +39,6 @@ public class MonoEvents : MonoBehaviour
     {
         onEnableEvent.Invoke();
     }
+
+   
 }
