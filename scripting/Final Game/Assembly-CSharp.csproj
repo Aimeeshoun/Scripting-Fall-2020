@@ -148,6 +148,7 @@
     <Compile Include="Assets\IntData2.cs" />
     <Compile Include="Assets\my scripts\Particles.cs" />
     <Compile Include="Assets\Life.cs" />
+    <Compile Include="Assets\my scripts\Ondestroy.cs" />
     <Compile Include="Assets\my PREFABS\selfDestruct2.cs" />
     <Compile Include="Assets\my scripts\Enemies2Script.cs" />
     <Compile Include="Assets\my scripts\SelfDestruct.cs" />
@@ -211,7 +212,6 @@
     <Compile Include="Assets\my scripts\LookAtme.cs" />
     <Compile Include="Assets\WeaponData.cs" />
     <Compile Include="Assets\my scripts\JumpPowerUp.cs" />
-    <Compile Include="Assets\loadscence.cs" />
     <Compile Include="Assets\WalkinCircles.cs" />
     <Compile Include="Assets\my scripts\LookAt4.cs" />
     <Compile Include="Assets\rotatefix.cs" />
@@ -265,7 +265,6 @@
     <Compile Include="Assets\my scripts\rigidbodyMovement.cs" />
     <Compile Include="Assets\CharacterBrain.cs" />
     <Compile Include="Assets\Weapon Switch.cs" />
-    <Compile Include="Assets\GAME ACTIONS\load scene.cs" />
     <Compile Include="Assets\my scripts\EventBehaviors.cs" />
     <Compile Include="Assets\my scripts\lookat2.cs" />
     <Compile Include="Assets\nov 10\UI data.cs" />
@@ -330,7 +329,6 @@
     <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
     <Compile Include="Assets\my scripts\EnemyHealthScript.cs" />
     <Compile Include="Assets\EnemyFollow.cs" />
-    <Compile Include="Assets\my scripts\ondestroy.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MY DOWNLOADS\JMO Assets\Toony Colors\Shaders 2.0\Rim Lighting.shader" />
